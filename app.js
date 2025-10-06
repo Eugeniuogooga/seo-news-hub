@@ -109,6 +109,8 @@ async function askAI(item) {
 async function load() {
   const res = await fetch(FEED_URL + '?_=' + Date.now());
   const data = await res.json();
+  document.querySelector('#lastUpdated').textContent =
+  'Last updated: ' + new Date(data.generated_at || Date.now()).toLocaleString();
   ALL_ITEMS = data.items || [];
   render(ALL_ITEMS, 'all');
 

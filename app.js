@@ -2,7 +2,7 @@
 const FEED_URL = './data/news.json';
 // Optional Ask-AI endpoint (leave empty to keep button disabled)
 // const ASK_AI_URL = 'https://your-worker.workers.dev/api/ask-ai';
-const ASK_AI_URL = '';
+const ASK_AI_URL = 'https://morning-tree-711c.eugeniu-mocanu.workers.dev/';
 
 // Source groups for filtering by button
 const GROUPS = {

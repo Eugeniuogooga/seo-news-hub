@@ -5,7 +5,7 @@ on:
     - cron: '0 6 */3 * *'   # every 3 days at 06:00 UTC
   workflow_dispatch: {}
 
-# Allow this workflow to push the updated news.json back to the repo
+# allow the workflow to push to the repo
 permissions:
   contents: write
 
@@ -14,6 +14,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0                # full history so commits work
 
       - uses: actions/setup-python@v5
         with:
@@ -28,16 +30,11 @@ jobs:
         run: |
           python scraper/scraper.py
 
-      - name: Commit updated news.json (only if changed)
-        run: |
-          git config user.name "seo-news-bot"
-          git config user.email "bot@example.com"
-          git add data/news.json
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "chore: update news feed"
-            git pull --rebase
-            git push
-          fi
+      # This action safely commits and pushes only if files changed
+      - name: Commit & push data/news.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update news feed"
+          file_pattern: data/news.json
+
 

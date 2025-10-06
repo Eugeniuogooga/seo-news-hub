@@ -1,14 +1,15 @@
 // ---------- CONFIG ----------
 const FEED_URL = './data/news.json';
-// const ASK_AI_URL = 'https://your-worker.workers.dev/api/ask-ai'; // optional
+// Optional Ask-AI endpoint (leave empty to keep button disabled)
+// const ASK_AI_URL = 'https://your-worker.workers.dev/api/ask-ai';
 const ASK_AI_URL = '';
 
-// Map hostnames to groups for filtering
+// Source groups for filtering by button
 const GROUPS = {
   google: [
     'developers.google.com',
     'status.search.google.com',
-    'google.com' // podcast page is on developers.google.com/google.com
+    'google.com'
   ],
   news: [
     'searchengineland.com',
@@ -34,6 +35,7 @@ const GROUPS = {
 // ---------- /CONFIG ----------
 
 let ALL_ITEMS = [];
+let currentGroup = 'all';
 
 function host(href) {
   try { return new URL(href).hostname.replace(/^www\./,''); } catch { return ''; }
@@ -45,14 +47,15 @@ function inGroup(item, group) {
   return (GROUPS[group] || []).some(dom => h.endsWith(dom));
 }
 
-function clearActive() {
-  document.querySelectorAll('#filters .pill').forEach(b => b.classList.remove('active'));
-}
-
 function setActive(group) {
-  clearActive();
+  document.querySelectorAll('#filters .pill').forEach(b => b.classList.remove('active'));
   const btn = document.querySelector(`#filters .pill[data-group="${group}"]`);
   if (btn) btn.classList.add('active');
+}
+
+function updateSummary(visibleCount, totalCount) {
+  const el = document.querySelector('#summary');
+  el.textContent = `${visibleCount} items shown · ${totalCount} total`;
 }
 
 function render(items, group='all') {
@@ -60,8 +63,8 @@ function render(items, group='all') {
   const tpl = document.querySelector('#news-item');
   feed.innerHTML = '';
 
-  const view = items.filter(it => inGroup(it, group));
-  for (const it of view) {
+  const filtered = items.filter(it => inGroup(it, group));
+  for (const it of filtered) {
     const node = tpl.content.cloneNode(true);
     node.querySelector('.src').textContent = it.source || host(it.url);
     const ts = it.published || new Date().toISOString();
@@ -77,13 +80,14 @@ function render(items, group='all') {
     feed.appendChild(node);
   }
 
-  // empty state
-  if (!view.length) {
+  if (!filtered.length) {
     const div = document.createElement('div');
     div.style.color = '#9fb4d0';
     div.textContent = 'No items for this filter yet.';
     feed.appendChild(div);
   }
+
+  updateSummary(filtered.length, items.length);
 }
 
 async function askAI(item) {
@@ -106,22 +110,41 @@ async function askAI(item) {
   }
 }
 
-async function load() {
+async function fetchFeed() {
   const res = await fetch(FEED_URL + '?_=' + Date.now());
   const data = await res.json();
-  document.querySelector('#lastUpdated').textContent =
-  'Last updated: ' + new Date(data.generated_at || Date.now()).toLocaleString();
-  ALL_ITEMS = data.items || [];
-  render(ALL_ITEMS, 'all');
 
-  // hook up filter buttons
+  // set "Last updated"
+  const lu = new Date(data.generated_at || Date.now()).toLocaleString();
+  document.querySelector('#lastUpdated').textContent = `Last updated: ${lu}`;
+
+  ALL_ITEMS = data.items || [];
+  render(ALL_ITEMS, currentGroup);
+}
+
+function attachUI() {
+  // filter buttons
   document.querySelectorAll('#filters .pill').forEach(btn => {
     btn.addEventListener('click', () => {
       const group = btn.getAttribute('data-group');
+      if (!group) return;
+      currentGroup = group;
       setActive(group);
-      render(ALL_ITEMS, group);
+      render(ALL_ITEMS, currentGroup);
+    });
+  });
+
+  // refresh button
+  document.querySelector('#refreshBtn').addEventListener('click', () => {
+    document.querySelector('#refreshBtn').textContent = '…';
+    fetchFeed().finally(() => {
+      document.querySelector('#refreshBtn').textContent = '↻ Refresh';
     });
   });
 }
-load();
 
+function init() {
+  attachUI();
+  fetchFeed();
+}
+init();

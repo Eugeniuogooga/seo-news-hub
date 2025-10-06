@@ -7,16 +7,20 @@
   <link rel="stylesheet" href="styles.css"/>
 </head>
 <body>
-  <header>
-    <h1>SEO News Hub</h1>
- <nav id="filters">
-  <button class="pill active" data-group="all">All</button>
-  <button class="pill" data-group="google">Google official</button>
-  <button class="pill" data-group="news">SEO news & analysis</button>
-  <button class="pill" data-group="experts">Experts</button>
-  <button class="pill" data-group="volatility">Volatility (signals)</button>
-</nav>
-  </header>
+  <header style="display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;">
+  <div>
+    <h1 style="margin:0;">SEO News Hub</h1>
+    <nav id="filters">
+      <button class="pill active" data-group="all">All</button>
+      <button class="pill" data-group="google">Google official</button>
+      <button class="pill" data-group="news">SEO news & analysis</button>
+      <button class="pill" data-group="experts">Experts</button>
+      <button class="pill" data-group="volatility">Volatility (signals)</button>
+    </nav>
+  </div>
+  <div id="lastUpdated" class="muted" style="font-size:14px;opacity:0.8"></div>
+</header>
+
 
   <main id="feed"></main>
 

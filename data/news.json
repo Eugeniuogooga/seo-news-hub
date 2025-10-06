@@ -1,0 +1,17 @@
+{
+  "generated_at": "2025-10-06T08:46:15.501248Z",
+  "items": [
+    {
+      "id": "example",
+      "source": "Example Source",
+      "title": "Your feed is ready — run the scraper to load real news",
+      "url": "https://developers.google.com/search/blog",
+      "published": "2025-10-06T08:46:15.501248Z",
+      "summary": "This is a placeholder. When you run the scraper, this will be replaced with live SEO news.",
+      "ai_summary": "Placeholder summary. After setup, this area will show readable summaries for each article.",
+      "tags": [
+        "setup"
+      ]
+    }
+  ]
+}

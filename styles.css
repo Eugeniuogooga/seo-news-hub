@@ -1,0 +1,19 @@
+:root{ --bg:#0b0f17; --card:#121826; --text:#e6f0ff; --muted:#9fb4d0; --accent:#79b8ff; }
+*{ box-sizing:border-box; }
+body{ margin:0; font:16px/1.5 system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background:var(--bg); color:var(--text); }
+header{ position:sticky; top:0; background:linear-gradient(180deg, #0b0f17, #0b0f17dd); backdrop-filter:saturate(1.2) blur(6px); padding:16px 20px; border-bottom:1px solid #1d2638; display:flex; align-items:center; gap:16px; }
+h1{ font-size:22px; margin:0; }
+nav{ display:flex; gap:8px; }
+.pill{ background:#182033; color:var(--text); border:1px solid #2a3858; padding:8px 12px; border-radius:999px; cursor:pointer; }
+main{ max-width:960px; margin:24px auto; padding:0 16px; display:grid; gap:14px; }
+.card{ background:var(--card); border:1px solid #1c2740; border-radius:16px; padding:16px; box-shadow:0 6px 20px #0005; }
+.card .meta{ color:var(--muted); font-size:12px; margin-bottom:8px; }
+.card .title{ margin:0 0 8px; font-size:18px; }
+.card .sum{ color:#c9dcff; margin:0 0 12px; }
+.actions{ display:flex; gap:8px; }
+.read, .ask, .close{ background:#1b2a47; color:var(--text); border:1px solid #28426e; padding:8px 12px; border-radius:10px; text-decoration:none; cursor:pointer; }
+.read:hover, .ask:hover{ background:#1f365f; }
+dialog{ width:min(820px, 92vw); background:var(--card); color:var(--text); border:1px solid #28426e; border-radius:16px; padding:0; }
+dialog .ai-body{ padding:16px 18px; }
+.close{ position:absolute; top:10px; right:10px; }
+.ai-output{ white-space:pre-wrap; color:#dce8ff; }

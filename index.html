@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>SEO News Hub</title>
+  <link rel="stylesheet" href="styles.css"/>
+</head>
+<body>
+  <header>
+    <h1>SEO News Hub</h1>
+    <nav>
+      <button id="latestBtn" class="pill">Latest</button>
+      <button id="weekBtn" class="pill">Last 7 days</button>
+      <button id="aboutBtn" class="pill">About</button>
+    </nav>
+  </header>
+
+  <main id="feed"></main>
+
+  <template id="news-item">
+    <article class="card">
+      <div class="meta"><span class="src"></span> • <time class="ts"></time></div>
+      <h3 class="title"></h3>
+      <p class="sum"></p>
+      <div class="actions">
+        <a class="read" target="_blank" rel="noopener">Read</a>
+        <!-- Ask AI (optional; enable later by setting ASK_AI_URL in app.js) -->
+        <button class="ask">Ask AI</button>
+      </div>
+    </article>
+  </template>
+
+  <dialog id="aiModal">
+    <form method="dialog"><button class="close">×</button></form>
+    <div class="ai-body">
+      <h3 id="aiTitle"></h3>
+      <div id="aiOutput" class="ai-output">Loading…</div>
+    </div>
+  </dialog>
+
+  <script src="app.js"></script>
+</body>
+</html>

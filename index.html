@@ -9,11 +9,13 @@
 <body>
   <header>
     <h1>SEO News Hub</h1>
-    <nav>
-      <button id="latestBtn" class="pill">Latest</button>
-      <button id="weekBtn" class="pill">Last 7 days</button>
-      <button id="aboutBtn" class="pill">About</button>
-    </nav>
+ <nav id="filters">
+  <button class="pill active" data-group="all">All</button>
+  <button class="pill" data-group="google">Google official</button>
+  <button class="pill" data-group="news">SEO news & analysis</button>
+  <button class="pill" data-group="experts">Experts</button>
+  <button class="pill" data-group="volatility">Volatility (signals)</button>
+</nav>
   </header>
 
   <main id="feed"></main>

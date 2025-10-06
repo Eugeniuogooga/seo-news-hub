@@ -6,39 +6,44 @@
   <title>SEO News Hub</title>
   <link rel="stylesheet" href="styles.css"/>
 </head>
+
 <body>
   <header style="display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;">
-  <div>
-    <h1 style="margin:0;">SEO News Hub</h1>
-    <nav id="filters">
-      <button class="pill active" data-group="all">All</button>
-      <button class="pill" data-group="google">Google official</button>
-      <button class="pill" data-group="news">SEO news & analysis</button>
-      <button class="pill" data-group="experts">Experts</button>
-      <button class="pill" data-group="volatility">Volatility (signals)</button>
-    </nav>
-  </div>
-  <div id="lastUpdated" class="muted" style="font-size:14px;opacity:0.8"></div>
-</header>
-
+    <div>
+      <h1 style="margin:0;">SEO News Hub</h1>
+      <nav id="filters">
+        <button class="pill active" data-group="all">All</button>
+        <button class="pill" data-group="google">Google official</button>
+        <button class="pill" data-group="news">SEO news & analysis</button>
+        <button class="pill" data-group="experts">Experts</button>
+        <button class="pill" data-group="volatility">Volatility (signals)</button>
+      </nav>
+    </div>
+    <!-- 👇 This shows the latest update time -->
+    <div id="lastUpdated" class="muted" style="font-size:14px;opacity:0.8;"></div>
+  </header>
 
   <main id="feed"></main>
 
   <template id="news-item">
     <article class="card">
-      <div class="meta"><span class="src"></span> • <time class="ts"></time></div>
+      <div class="meta">
+        <span class="src"></span> • <time class="ts"></time>
+      </div>
       <h3 class="title"></h3>
       <p class="sum"></p>
       <div class="actions">
         <a class="read" target="_blank" rel="noopener">Read</a>
-        <!-- Ask AI (optional; enable later by setting ASK_AI_URL in app.js) -->
         <button class="ask">Ask AI</button>
       </div>
     </article>
   </template>
 
+  <!-- Optional AI popup -->
   <dialog id="aiModal">
-    <form method="dialog"><button class="close">×</button></form>
+    <form method="dialog">
+      <button class="close">×</button>
+    </form>
     <div class="ai-body">
       <h3 id="aiTitle"></h3>
       <div id="aiOutput" class="ai-output">Loading…</div>

@@ -17,3 +17,5 @@ dialog{ width:min(820px, 92vw); background:var(--card); color:var(--text); borde
 dialog .ai-body{ padding:16px 18px; }
 .close{ position:absolute; top:10px; right:10px; }
 .ai-output{ white-space:pre-wrap; color:#dce8ff; }
+.pill.active{ outline:2px solid #79b8ff; background:#1f365f; }
+

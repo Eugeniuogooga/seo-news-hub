@@ -5,7 +5,6 @@ on:
     - cron: '0 6 */3 * *'   # every 3 days at 06:00 UTC
   workflow_dispatch: {}
 
-# allow the workflow to push to the repo
 permissions:
   contents: write
 
@@ -15,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0                # full history so commits work
+          fetch-depth: 0          # full history (needed for rebase)
 
       - uses: actions/setup-python@v5
         with:
@@ -30,11 +29,17 @@ jobs:
         run: |
           python scraper/scraper.py
 
-      # This action safely commits and pushes only if files changed
+      # Make sure our local branch is up to date with remote
+      - name: Sync with remote (rebase)
+        run: |
+          git config user.name  "seo-news-bot"
+          git config user.email "bot@example.com"
+          git pull --rebase origin main || true
+
+      # Commit/push only if data/news.json changed
       - name: Commit & push data/news.json
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update news feed"
           file_pattern: data/news.json
-
-
+          push_options: '--force-with-lease'

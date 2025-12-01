@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-28T06:27:47.149445+00:00",
+  "generated_at": "2025-12-01T06:29:11.926082+00:00",
   "items": [
     {
       "id": "8e7a22b333c29ca1ba6b5583a9092878",
@@ -236,15 +236,6 @@
       "ai_summary": "Google Ads now lets you create up to five custom views on the Overview tab. The Overview now supports custom views and you can add up to five tabs and create Overview pages customised for your unique needs, Google wrote on the Google Ads console."
     },
     {
-      "id": "1c67c1a130ec22214ac495637a4f102a",
-      "title": "Google Ads Overview Tab Gains Trends & Performance By Stage",
-      "url": "https://www.seroundtable.com/google-ads-overview-trends-performance-by-stage-40495.html",
-      "source": "Search Engine Roundtable",
-      "published": "Wed, 26 Nov 2025 07:11:00 -0500",
-      "summary": "Google Ads is testing two new sections in the Overview tab.  There is a new trends section and a new performance by stage section.",
-      "ai_summary": "Google Ads is testing two new sections in the Overview tab.  There is a new trends section and a new performance by stage section."
-    },
-    {
       "id": "1be86e12230294d9ed3fd4d021a9f662",
       "title": "Top ways to ensure your content performs well in Google's AI experiences on Search",
       "url": "https://developers.google.com/search/blog/2025/05/succeeding-in-ai-search",
@@ -477,60 +468,6 @@
       "published": "Tue, 25 Nov 2025 13:00:23 +0000",
       "summary": "Ahrefs' Patrick Stox joins Shelley Walsh to talk about the shifting search journey, the limits of LLM attribution, and the importance of brand consistency. \n The post  Ahrefs Product Advisor Reveals What Is Working For LLM Inclusion  appeared first on  Search Engine Journal .",
       "ai_summary": "Ahrefs' Patrick Stox joins Shelley Walsh to talk about the shifting search journey, the limits of LLM attribution, and the importance of brand consistency. \n The post  Ahrefs Product Advisor Reveals What Is Working For LLM Inclusion  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "22ec264cbc3065795fc39076195e0d74",
-      "title": "Daily Search Forum Recap: November 25, 2025",
-      "url": "https://www.seroundtable.com/recap-11-25-2025-40492.html",
-      "source": "Search Engine Roundtable",
-      "published": "Tue, 25 Nov 2025 10:00:00 -0500",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "ai_summary": "Here is a recap of what happened in the search forums today..."
-    },
-    {
-      "id": "1d2e71448301aed663978880a75bc437",
-      "title": "Shopping Research Assistant In ChatGPT",
-      "url": "https://www.seroundtable.com/shopping-research-assistant-in-chatgpt-40490.html",
-      "source": "Search Engine Roundtable",
-      "published": "Tue, 25 Nov 2025 07:51:00 -0500",
-      "summary": "OpenAI announced shopping research within ChatGPT, \"a new experience in ChatGPT that does the research for you to help you find the right products,\" as OpenAI put it. This is clearly OpenAI's response to Google's AI Mode and Gemini 3 shopping experiences.",
-      "ai_summary": "OpenAI announced shopping research within ChatGPT, \"a new experience in ChatGPT that does the research for you to help you find the right products,\" as OpenAI put it. This is clearly OpenAI's response to Google's AI Mode and Gemini 3 shopping experiences."
-    },
-    {
-      "id": "ea65ce65f53f258ff217dfa95a74c2ba",
-      "title": "Google Hotel Center Is Reinstating Suspended Hotels",
-      "url": "https://www.seroundtable.com/google-reinstating-suspended-hotels-40459.html",
-      "source": "Search Engine Roundtable",
-      "published": "Tue, 25 Nov 2025 07:41:00 -0500",
-      "summary": "Google announced that it will be reinstating the suspended hotels in Hotel Center and removing the Suspended Hotels\" tab in the \"Properties\" page of your Hotel Center account.",
-      "ai_summary": "Google announced that it will be reinstating the suspended hotels in Hotel Center and removing the Suspended Hotels\" tab in the \"Properties\" page of your Hotel Center account."
-    },
-    {
-      "id": "097f6b8871fb92ccd3549ee8b1d323df",
-      "title": "Google Expands What To Know In Web Search Products Summary Bar",
-      "url": "https://www.seroundtable.com/google-web-search-what-to-know-40483.html",
-      "source": "Search Engine Roundtable",
-      "published": "Tue, 25 Nov 2025 07:31:00 -0500",
-      "summary": "Google is now showing the \"What to know\" section within web search, not just AI Mode, within the product summary bar on the right side.  This shows up when you click on a product.",
-      "ai_summary": "Google is now showing the \"What to know\" section within web search, not just AI Mode, within the product summary bar on the right side.  This shows up when you click on a product."
-    },
-    {
-      "id": "afd46a05cf8bf18d560e7b64b2d63df9",
-      "title": "Google Ads Account Hijacks On The Rise?",
-      "url": "https://www.seroundtable.com/google-ads-account-hijacks-40491.html",
-      "source": "Search Engine Roundtable",
-      "published": "Tue, 25 Nov 2025 07:21:00 -0500",
-      "summary": "Can you imagine you manage hundreds of clients in your Google Ads Manager Accounts (MCC) gets hijacked. Or your Google Account and your ad campaigns gets hijacked due to an MCC hijack? Well, this stuff happens and it can be incredibly scary and painful.",
-      "ai_summary": "Can you imagine you manage hundreds of clients in your Google Ads Manager Accounts (MCC) gets hijacked. Or your Google Account and your ad campaigns gets hijacked due to an MCC hijack? Well, this stuff happens and it can be incredibly scary and painful."
-    },
-    {
-      "id": "f485748a39449e39cf4af832a8962fe6",
-      "title": "Google Local Service Ads Tests Removing More Results Button",
-      "url": "https://www.seroundtable.com/google-local-service-ads-drop-more-results-40487.html",
-      "source": "Search Engine Roundtable",
-      "published": "Tue, 25 Nov 2025 07:11:00 -0500",
-      "summary": "Google is testing removing the \"more\" results button for Local Service Ads within the web search results. Instead, you are given the option to expand the results to 8 in total but not click through to see more LSA listings.",
-      "ai_summary": "Google is testing removing the \"more\" results button for Local Service Ads within the web search results. Instead, you are given the option to expand the results to 8 in total but not click through to see more LSA listings."
     },
     {
       "id": "b9097900fa3d123ceec264bad0d4dabf",
@@ -911,24 +848,6 @@
       "ai_summary": "Thanks to some recent experiments and research in the marketing world (and an unfortunate, manipulative attack by a Reddit mod), we’ve learned a lot more about how to influence the answers AI tools provide. This is particularly relevant for those seeking to have their brand names (or websites) appear when ChatGPT, CoPilot, Claude, Gemini, or others are asked for “the…"
     },
     {
-      "id": "b97eeec978f88e3c635db10f32e5f76f",
-      "title": "Traditional SEO vs AI SEO: What You Actually Need to Know",
-      "url": "https://www.semrush.com/blog/traditional-seo-vs-ai-seo/",
-      "source": "Semrush blog",
-      "published": "Thu, 06 Nov 2025 11:41:00 +0000",
-      "summary": "Traditional SEO optimizes for search engines like Google. AI SEO optimizes for AI platforms and search features.",
-      "ai_summary": "Traditional SEO optimizes for search engines like Google. AI SEO optimizes for AI platforms and search features."
-    },
-    {
-      "id": "91f457374cf5dfa1a48cc5b15df5454f",
-      "title": "Internal Links: Ultimate Guide + Strategies",
-      "url": "https://www.semrush.com/blog/internal-links/",
-      "source": "Semrush blog",
-      "published": "Thu, 06 Nov 2025 11:26:00 +0000",
-      "summary": "Learn top internal linking strategies and get a free template to optimize your site‘s SEO and user experience.",
-      "ai_summary": "Learn top internal linking strategies and get a free template to optimize your site‘s SEO and user experience."
-    },
-    {
       "id": "c0849910b850f5b5cd8b70f2cdeac693",
       "title": "What Google’s Trial Docs Reveal About Clicks, Links and Other Ranking Signals",
       "url": "https://www.mariehaynes.com/what-googles-trial-docs-reveal-about-clicks-links-and-other-ranking-signals/",
@@ -936,15 +855,6 @@
       "published": "Thu, 04 Sep 2025 14:31:11 +0000",
       "summary": "The DOJ vs Google trial has finally wrapped up. The closing document is full of interesting insight into how Google’s algorithms work. While the final verdict of the trial is a separate story, the documents released gave us an unprecedented look inside Google's ranking systems. In this article, I’ll share what we learned. It is […] \n The post  What Google’s Trial Docs Reveal About Clicks, Links and Other Ranking Signals  appeared first on  Marie Haynes .",
       "ai_summary": "The DOJ vs Google trial has finally wrapped up. The closing document is full of interesting insight into how Google’s algorithms work. While the final verdict of the trial is a separate story, the documents released gave us an unprecedented look inside Google's ranking systems. In this article, I’ll share what we learned. It is […] \n The post  What Google’s Trial Docs Reveal About Clicks, Links and Other Ranking Signals  appeared first on  Marie Haynes ."
-    },
-    {
-      "id": "12db65fd581a379c081dc1b88ef5e536",
-      "title": "Why Web Hosting Is A Critical Factor To Maximize SEO Results via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/technical-seo/web-hosting/",
-      "source": "Search Engine Journal",
-      "published": "Sat, 22 Nov 2025 01:31:30 +0000",
-      "summary": "Treat hosting as strategic SEO infrastructure, not a cost line, because no optimization can outrun a slow or unstable server. \n The post  Why Web Hosting Is A Critical Factor To Maximize SEO Results  appeared first on  Search Engine Journal .",
-      "ai_summary": "Treat hosting as strategic SEO infrastructure, not a cost line, because no optimization can outrun a slow or unstable server. \n The post  Why Web Hosting Is A Critical Factor To Maximize SEO Results  appeared first on  Search Engine Journal ."
     },
     {
       "id": "15991ca328a2c4a15095fadaed0fc341",
@@ -1044,15 +954,6 @@
       "published": "Mon, 24 Nov 2025 13:00:38 +0000",
       "summary": "A strategic guide to building a measurable growth loop that connects authentic founder voices to full-funnel results. \n The post  The Founder-Led Growth Loop: How To Amplify And Measure Executive Voice For Real ROI  appeared first on  Search Engine Journal .",
       "ai_summary": "A strategic guide to building a measurable growth loop that connects authentic founder voices to full-funnel results. \n The post  The Founder-Led Growth Loop: How To Amplify And Measure Executive Voice For Real ROI  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "f8b877391e992b83e877ad20705d7663",
-      "title": "Daily Search Forum Recap: November 24, 2025",
-      "url": "https://www.seroundtable.com/recap-11-24-2025-40488.html",
-      "source": "Search Engine Roundtable",
-      "published": "Mon, 24 Nov 2025 10:00:00 -0500",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "ai_summary": "Here is a recap of what happened in the search forums today..."
     },
     {
       "id": "1dde1c31a0f4664117dc43457eefd965",
@@ -1172,15 +1073,6 @@
       "ai_summary": "To answer these questions, we analyzed our database of 146 million SERPs and explored how often AI Overviews appeared for 86 different keyword traits, from YMYL to CPC to query length. Across our data set, AI Overviews appear for 21% … Read more ›"
     },
     {
-      "id": "6c4a9232e531783dd4f215ec8a5b510d",
-      "title": "The Most-Cited Domains in AI: A 3-Month Study",
-      "url": "https://www.semrush.com/blog/most-cited-domains-ai/",
-      "source": "Semrush blog",
-      "published": "Mon, 10 Nov 2025 09:49:00 +0000",
-      "summary": "We studied the domains most frequently cited by AI tools and found a significant drop for Reddit and Wikipedia. See the research.",
-      "ai_summary": "We studied the domains most frequently cited by AI tools and found a significant drop for Reddit and Wikipedia. See the research."
-    },
-    {
       "id": "43ec1e76e80c58f32304cf9e69b2eedf",
       "title": "Crawling December: HTTP caching",
       "url": "https://developers.google.com/search/blog/2024/12/crawling-december-caching",
@@ -1235,6 +1127,141 @@
       "ai_summary": "The August 2025 Spam Update was announced on August 26, 2025, and completed on the 22nd September2025. Data, analysis, and rankings of the affected domains will be gradually added to this article. Discover how SISTRIX can be used to improve your search marketing. A free, no-commitment trial is available for […] \n Der Beitrag  August 2025 Spam Update: Visibility Data, Analysis, and Background  erschien zuerst auf  SISTRIX ."
     },
     {
+      "id": "cbe3f89c4086ffcb819dcbaf0f572be4",
+      "title": "Google’s Mueller Says Sites In A ‘Bad State’ May Need To Start Over via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/googles-mueller-says-sites-in-a-bad-state-may-need-to-start-over/562109/",
+      "source": "Search Engine Journal",
+      "published": "Fri, 28 Nov 2025 17:15:35 +0000",
+      "summary": "Google's John Mueller says sites with low-quality AI content should rethink their purpose rather than manually rewrite pages. Starting fresh may be faster than recovering. \n The post  Google’s Mueller Says Sites In A ‘Bad State’ May Need To Start Over  appeared first on  Search Engine Journal .",
+      "ai_summary": "Google's John Mueller says sites with low-quality AI content should rethink their purpose rather than manually rewrite pages. Starting fresh may be faster than recovering. \n The post  Google’s Mueller Says Sites In A ‘Bad State’ May Need To Start Over  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "bfe0569b5bd835a5fcf7dd95496c59ab",
+      "title": "How to Ask for Google Reviews: 5 Tips + Examples",
+      "url": "https://www.semrush.com/blog/how-to-ask-for-google-reviews/",
+      "source": "Semrush blog",
+      "published": "Fri, 28 Nov 2025 17:10:00 +0000",
+      "summary": "Learn how to ask for Google reviews using email, social media, text messages, and in-person interactions.",
+      "ai_summary": "Learn how to ask for Google reviews using email, social media, text messages, and in-person interactions."
+    },
+    {
+      "id": "cda4bcb9f9b48495223419fa562ee0df",
+      "title": "9 Ways to Get More Google Reviews for Your Business",
+      "url": "https://www.semrush.com/blog/how-to-get-reviews-on-google/",
+      "source": "Semrush blog",
+      "published": "Fri, 28 Nov 2025 16:56:00 +0000",
+      "summary": "Find out how to get more google reviews with nine different techniques real-world businesses are using.",
+      "ai_summary": "Find out how to get more google reviews with nine different techniques real-world businesses are using."
+    },
+    {
+      "id": "81e8d4ae0f04248eb9a0081371116042",
+      "title": "SEO Pulse: ChatGPT Gets Shopping & What Drives AI Citations via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-chatgpt-gets-shopping-what-drives-ai-citations/562095/",
+      "source": "Search Engine Journal",
+      "published": "Fri, 28 Nov 2025 15:15:22 +0000",
+      "summary": "This week’s SEO Pulse examines new data what drives AI citations, plus ChatGPT launches shopping research. Your quick catch-up on what practitioners need to know. \n The post  SEO Pulse: ChatGPT Gets Shopping & What Drives AI Citations  appeared first on  Search Engine Journal .",
+      "ai_summary": "This week’s SEO Pulse examines new data what drives AI citations, plus ChatGPT launches shopping research. Your quick catch-up on what practitioners need to know. \n The post  SEO Pulse: ChatGPT Gets Shopping & What Drives AI Citations  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "ad9c8c9498a1a8685c1d5a1c5dbbb51b",
+      "title": "The Impact AI Is Having On The Marketing Ecosystem",
+      "url": "https://www.searchenginejournal.com/the-impact-ai-is-having-on-the-marketing-ecosystem/562027/",
+      "source": "Search Engine Journal",
+      "published": "Fri, 28 Nov 2025 14:30:20 +0000",
+      "summary": "Harry Clarkson-Bennett dismantles AI hype, revealing how real marketing power still lies in creators, communities, and cross-platform customer journeys. \n The post  The Impact AI Is Having On The Marketing Ecosystem  appeared first on  Search Engine Journal .",
+      "ai_summary": "Harry Clarkson-Bennett dismantles AI hype, revealing how real marketing power still lies in creators, communities, and cross-platform customer journeys. \n The post  The Impact AI Is Having On The Marketing Ecosystem  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "bedde0041370cb41b42d7e11b99667e1",
+      "title": "Paid Ad Scheduling Across Time Zones That Actually Works via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/paid-ad-scheduling-across-time-zones-that-actually-works/560894/",
+      "source": "Search Engine Journal",
+      "published": "Fri, 28 Nov 2025 13:00:55 +0000",
+      "summary": "Ad scheduling becomes a performance multiplier when campaigns align with regional time zones, local behavior, and data-driven delivery windows. \n The post  Paid Ad Scheduling Across Time Zones That Actually Works  appeared first on  Search Engine Journal .",
+      "ai_summary": "Ad scheduling becomes a performance multiplier when campaigns align with regional time zones, local behavior, and data-driven delivery windows. \n The post  Paid Ad Scheduling Across Time Zones That Actually Works  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "7c221c887df81da015b758c85de10889",
+      "title": "Traffic Is Down—Now What? Marketing Success In the Age of AI",
+      "url": "https://www.semrush.com/blog/overcoming-ai-related-traffic-loss/",
+      "source": "Semrush blog",
+      "published": "Fri, 28 Nov 2025 12:46:00 +0000",
+      "summary": "Google traffic is slowly declining. Learn how to future-proof your business in the AI era.",
+      "ai_summary": "Google traffic is slowly declining. Learn how to future-proof your business in the AI era."
+    },
+    {
+      "id": "89d713a43d0d4bd556b7fc377639f02c",
+      "title": "Daily Search Forum Recap: November 28, 2025",
+      "url": "https://www.seroundtable.com/recap-11-28-2025-40513.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 28 Nov 2025 10:00:00 -0500",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nWe had a lot, I mean, a lot of Google search ranking volatility this week - a Thanksgiving Google update...",
+      "ai_summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nWe had a lot, I mean, a lot of Google search ranking volatility this week - a Thanksgiving Google update..."
+    },
+    {
+      "id": "670cdb3f5572cf7e98f4d431abc5560a",
+      "title": "Search News Buzz Video Recap: Google Ads Account Hijacks, Thanksgiving Google Volatility & Web Guide For All",
+      "url": "https://www.seroundtable.com/video-11-28-2025-40512.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 28 Nov 2025 08:01:00 -0500",
+      "summary": "We are seeing volatility in the Google search results this week, Thanksgiving week. Google Ads accounts are being hijacked and it is super concerning. Gemini 3 now powers Google AI Mode for more complex queries...",
+      "ai_summary": "We are seeing volatility in the Google search results this week, Thanksgiving week. Google Ads accounts are being hijacked and it is super concerning. Gemini 3 now powers Google AI Mode for more complex queries..."
+    },
+    {
+      "id": "85cdb7ad152ab8b184f16f3b83d4ad5d",
+      "title": "OpenAI Scales Up Crawling & Bots For The Holidays",
+      "url": "https://www.seroundtable.com/openai-crawl-bots-expand-40507.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 28 Nov 2025 07:51:00 -0500",
+      "summary": "OpenAI is reportedly scaling up its crawling infrastructure for the holiday shopping season.  The folks at Merj noticed OpenAI adding a lot of new IP ranges for its bots and crawlers.",
+      "ai_summary": "OpenAI is reportedly scaling up its crawling infrastructure for the holiday shopping season.  The folks at Merj noticed OpenAI adding a lot of new IP ranges for its bots and crawlers."
+    },
+    {
+      "id": "e41a47dff80fd527b1f3d24221d0ede9",
+      "title": "Google's Sundar Pichai Monitors X On Launch Days For Feedback",
+      "url": "https://www.seroundtable.com/sundar-pichai-google-x-40506.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 28 Nov 2025 07:41:00 -0500",
+      "summary": "The CEO of Google, Sundar Pichai, said he spends time on X on launch days to monitor how real people are using, interacting, and experiencing new Google product releases. He said he is \"pretty active on launch day trying to understand what's working.\"",
+      "ai_summary": "The CEO of Google, Sundar Pichai, said he spends time on X on launch days to monitor how real people are using, interacting, and experiencing new Google product releases. He said he is \"pretty active on launch day trying to understand what's working.\""
+    },
+    {
+      "id": "1df9d64d50ef80ac3a22cdcc3c8e969b",
+      "title": "Gemini 3 Now Powering Google AI Mode For Some Queries, Automatically",
+      "url": "https://www.seroundtable.com/gemini-3-google-ai-mode-40509.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 28 Nov 2025 07:31:00 -0500",
+      "summary": "I know Google said on November 18th that Gemini 3 was \"shipping in Search on day one.\" But no, it shipped on November 26th instead.  Nick Fox, SVP at Google, said on X, \"We've just shipped intelligent automatic model routing to Gemini 3 Pro for your toughest questions in AI Mode.\"",
+      "ai_summary": "I know Google said on November 18th that Gemini 3 was \"shipping in Search on day one.\" But no, it shipped on November 26th instead.  Nick Fox, SVP at Google, said on X, \"We've just shipped intelligent automatic model routing to Gemini 3 Pro for your toughest questions in AI Mode.\""
+    },
+    {
+      "id": "d2e72228268c5f5db5325c75f20eccd9",
+      "title": "Google AI Overviews Showcases Events With New Results",
+      "url": "https://www.seroundtable.com/google-ai-overviews-direct-event-display-40489.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 28 Nov 2025 07:21:00 -0500",
+      "summary": "Google has updated how it shows events within AI Overviews. It can now show the direct display of events, instead of an event summary. It is also a bit buggy, but here is how it looks.",
+      "ai_summary": "Google has updated how it shows events within AI Overviews. It can now show the direct display of events, instead of an event summary. It is also a bit buggy, but here is how it looks."
+    },
+    {
+      "id": "d599421bb18e880cc1c18866d95ad52b",
+      "title": "Google Ads Advisor May Take Context From Other MCC Client Chats",
+      "url": "https://www.seroundtable.com/google-ads-advisor-mcc-context-confusion-40505.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 28 Nov 2025 07:11:00 -0500",
+      "summary": "Google rolled out Ads Advisor, its AI-based chatbot for Google Ads, a couple of weeks ago. But some are noticing that if you have an MCC account, where you manage multiple advertisers under one account, the Ads Advisor responses can mix advice from one chat you had about one client account, to a new chat on a totally different client's account.",
+      "ai_summary": "Google rolled out Ads Advisor, its AI-based chatbot for Google Ads, a couple of weeks ago. But some are noticing that if you have an MCC account, where you manage multiple advertisers under one account, the Ads Advisor responses can mix advice from one chat you had about one client account, to a new chat on a totally different client's account."
+    },
+    {
+      "id": "da8ac0ae0deb577651f0f4fe3656bfb8",
+      "title": "Google: Rewriting AI Content With Human Content Won't Lead To Recovery",
+      "url": "https://www.seroundtable.com/rewriting-ai-content-to-human-google-seo-40514.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 28 Nov 2025 07:05:00 -0500",
+      "summary": "Google's John Mueller said that rewriting AI content by a human won't change the site's ranking in Google by default.  Instead, he said, you need to rethink your whole content strategy and the purpose of the site.",
+      "ai_summary": "Google's John Mueller said that rewriting AI content by a human won't change the site's ranking in Google by default.  Instead, he said, you need to rethink your whole content strategy and the purpose of the site."
+    },
+    {
       "id": "714fb027c9fac17bee5df53959641a94",
       "title": "Robots Refresher: Future-proof Robots Exclusion Protocol",
       "url": "https://developers.google.com/search/blog/2025/03/robots-future",
@@ -1242,33 +1269,6 @@
       "published": "Fri, 28 Mar 2025 10:00:00 +0000",
       "summary": "In the previous posts about the Robots Exclusion Protocol (REP) we explored what's already\n        possible to do with its various components — namely robots.txt and the URI level controls.\n        In this post we will explore how the REP can play a supporting role in the ever-evolving relation\n        between automatic clients and the human web.",
       "ai_summary": "In the previous posts about the Robots Exclusion Protocol (REP) we explored what's already\n        possible to do with its various components — namely robots.txt and the URI level controls.\n        In this post we will explore how the REP can play a supporting role in the ever-evolving relation\n        between automatic clients and the human web."
-    },
-    {
-      "id": "fb520a205145d21c4a73686c269845e3",
-      "title": "Pew: 84% Of Adults Use YouTube As Platform Growth Continues via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/pew-84-of-adults-use-youtube-as-platform-growth-continues/561633/",
-      "source": "Search Engine Journal",
-      "published": "Fri, 21 Nov 2025 20:50:01 +0000",
-      "summary": "Pew’s data shows YouTube and Facebook lead U.S. social media use, while TikTok, Instagram, WhatsApp and Reddit grow and newer platforms remain niche. \n The post  Pew: 84% Of Adults Use YouTube As Platform Growth Continues  appeared first on  Search Engine Journal .",
-      "ai_summary": "Pew’s data shows YouTube and Facebook lead U.S. social media use, while TikTok, Instagram, WhatsApp and Reddit grow and newer platforms remain niche. \n The post  Pew: 84% Of Adults Use YouTube As Platform Growth Continues  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "391081959544fd2724beddaa91391ca1",
-      "title": "Google CTR Trends In Q3: Branded Clicks Fan Out, Longer Queries Hold via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-ctr-trends-in-q3-branded-clicks-fan-out-longer-queries-hold/561622/",
-      "source": "Search Engine Journal",
-      "published": "Fri, 21 Nov 2025 18:21:55 +0000",
-      "summary": "Advanced Web Ranking’s Q3 2025 CTR report shows branded desktop clicks spreading across more results, while commercial and local SERPs keep tightening. \n The post  Google CTR Trends In Q3: Branded Clicks Fan Out, Longer Queries Hold  appeared first on  Search Engine Journal .",
-      "ai_summary": "Advanced Web Ranking’s Q3 2025 CTR report shows branded desktop clicks spreading across more results, while commercial and local SERPs keep tightening. \n The post  Google CTR Trends In Q3: Branded Clicks Fan Out, Longer Queries Hold  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "a60a55a7b2fcf082bd7954d26fb9cfa1",
-      "title": "SEO Pulse: Gemini 3 Arrives & Adobe Buys Semrush via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/seo-pulse-gemini-3-arrives-adobe-buys-semrush/561556/",
-      "source": "Search Engine Journal",
-      "published": "Fri, 21 Nov 2025 14:00:35 +0000",
-      "summary": "This week’s SEO Pulse examines the updates influencing how brands monitor demand, attribute growth, and navigate evolving AI-driven SERP experiences. \n The post  SEO Pulse: Gemini 3 Arrives & Adobe Buys Semrush  appeared first on  Search Engine Journal .",
-      "ai_summary": "This week’s SEO Pulse examines the updates influencing how brands monitor demand, attribute growth, and navigate evolving AI-driven SERP experiences. \n The post  SEO Pulse: Gemini 3 Arrives & Adobe Buys Semrush  appeared first on  Search Engine Journal ."
     },
     {
       "id": "097210868c7f70a8656574cf89e09c52",

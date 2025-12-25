@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-22T06:30:47.676792+00:00",
+  "generated_at": "2025-12-25T06:29:04.368855+00:00",
   "items": [
     {
       "id": "8e7a22b333c29ca1ba6b5583a9092878",
@@ -38,6 +38,114 @@
       "ai_summary": "One of the main arguments against Google establishing AI Mode as the standard search interface is the lack of monetisation surface in the results page. Google has been working on this and we are now seeing the first ads appearing in AI Mode. We continue to monitor this. The integration […] \n Der Beitrag  Google Ads Spotted in AI mode  erschien zuerst auf  SISTRIX ."
     },
     {
+      "id": "bcb5b2bfe52e0aec7a305e245ecd550c",
+      "title": "OpenAI discusses an ad-driven strategy centered on ChatGPT scale and media partnerships",
+      "url": "https://searchengineland.com/openai-discusses-an-ad-driven-strategy-centered-on-chatgpt-scale-and-media-partnerships-466818",
+      "source": "Search Engine Land",
+      "published": "Wed, 24 Dec 2025 16:18:02 +0000",
+      "summary": "OpenAI’s move toward ads in AI responses could create a new, highly contextual channel for advertisers while reshaping digital marketing.",
+      "ai_summary": "OpenAI’s move toward ads in AI responses could create a new, highly contextual channel for advertisers while reshaping digital marketing."
+    },
+    {
+      "id": "66115b7531f3b19865c98cbdd60d4e5f",
+      "title": "Google lowers audience size limits across Ads",
+      "url": "https://searchengineland.com/google-lowers-audience-size-limits-across-ads-466816",
+      "source": "Search Engine Land",
+      "published": "Wed, 24 Dec 2025 15:31:37 +0000",
+      "summary": "The audience list reduction to 100 users makes it easier for advertisers of all sizes to use remarketing and customer list.",
+      "ai_summary": "The audience list reduction to 100 users makes it easier for advertisers of all sizes to use remarketing and customer list."
+    },
+    {
+      "id": "cc92c86dcebe29cd813fdda623e95d75",
+      "title": "Track Santa On Christmas Eve 2025 (Via NORAD & Google) via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/track-santa-on-christmas-eve-2025-via-norad-google/563552/",
+      "source": "Search Engine Journal",
+      "published": "Wed, 24 Dec 2025 14:00:26 +0000",
+      "summary": "Real-time Santa tracking returns for 2025, with Google and NORAD offering interactive maps, games, and global arrival updates. \n The post  Track Santa On Christmas Eve 2025 (Via NORAD & Google)  appeared first on  Search Engine Journal .",
+      "ai_summary": "Real-time Santa tracking returns for 2025, with Google and NORAD offering interactive maps, games, and global arrival updates. \n The post  Track Santa On Christmas Eve 2025 (Via NORAD & Google)  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "791b9661d2b16acdbfdbff844b1b1a16",
+      "title": "2026 Forecast: 5 Expert Marketing Strategies You Need To Refine By Q2 via @sejournal, @lorenbaker",
+      "url": "https://www.searchenginejournal.com/2026-marketing-forecast-ppc-leaders/562567/",
+      "source": "Search Engine Journal",
+      "published": "Wed, 24 Dec 2025 13:30:44 +0000",
+      "summary": "PPC Managers: Get the 2026 marketing forecast and discover how to optimize budgets and channels for effective campaigns before the new year! \n The post  2026 Forecast: 5 Expert Marketing Strategies You Need To Refine By Q2  appeared first on  Search Engine Journal .",
+      "ai_summary": "PPC Managers: Get the 2026 marketing forecast and discover how to optimize budgets and channels for effective campaigns before the new year! \n The post  2026 Forecast: 5 Expert Marketing Strategies You Need To Refine By Q2  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "631efa1830c01f762afea5632cc50621",
+      "title": "Top 10 Emotionally-Engaging Holiday Ads Of 2025 (With A Bonus One) via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/top-emotionally-engaging-holiday-ads/562788/",
+      "source": "Search Engine Journal",
+      "published": "Wed, 24 Dec 2025 12:00:47 +0000",
+      "summary": "An analysis of 2025’s most emotionally effective holiday ads shows why nostalgia, warmth, and human storytelling still outperform spend. \n The post  Top 10 Emotionally-Engaging Holiday Ads Of 2025 (With A Bonus One)  appeared first on  Search Engine Journal .",
+      "ai_summary": "An analysis of 2025’s most emotionally effective holiday ads shows why nostalgia, warmth, and human storytelling still outperform spend. \n The post  Top 10 Emotionally-Engaging Holiday Ads Of 2025 (With A Bonus One)  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "534acafe3b8cdd6cf9c34dad6afac410",
+      "title": "Daily Search Forum Recap: December 24, 2025",
+      "url": "https://www.seroundtable.com/recap-12-24-2025-40654.html",
+      "source": "Search Engine Roundtable",
+      "published": "Wed, 24 Dec 2025 10:00:00 -0500",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "ai_summary": "Here is a recap of what happened in the search forums today..."
+    },
+    {
+      "id": "158c37e6f4a27a368d6dc16e7a6fe5ab",
+      "title": "Google Ads Drops Active Visitors To 100 For Search Network & YouTube",
+      "url": "https://www.seroundtable.com/google-ads-lowers-customer-lists-40648.html",
+      "source": "Search Engine Roundtable",
+      "published": "Wed, 24 Dec 2025 07:51:00 -0500",
+      "summary": "Earlier this year, Google lowered the size of your data segment customer lists to 100 active visitors for the Google Display Network. Now, Google updated that to also be 100 active visitors for the Search Network and YouTube.",
+      "ai_summary": "Earlier this year, Google lowered the size of your data segment customer lists to 100 active visitors for the Google Display Network. Now, Google updated that to also be 100 active visitors for the Search Network and YouTube."
+    },
+    {
+      "id": "b3e38b9ee325b4044a2ee6db9f4eb1ce",
+      "title": "Confirmed Google Ads Dynamic Remarketing Tracking Reporting Bug",
+      "url": "https://www.seroundtable.com/google-ads-dynamic-remarketing-data-bug-40647.html",
+      "source": "Search Engine Roundtable",
+      "published": "Wed, 24 Dec 2025 07:41:00 -0500",
+      "summary": "Google has confirmed there is a bug with Google Ads dynamic remarketing tracking where the data is not flowing into the reporting. Adesh, from the Google team, responded that the Google \"teams are actively reviewing this and working toward a resolution.\"",
+      "ai_summary": "Google has confirmed there is a bug with Google Ads dynamic remarketing tracking where the data is not flowing into the reporting. Adesh, from the Google team, responded that the Google \"teams are actively reviewing this and working toward a resolution.\""
+    },
+    {
+      "id": "1c28da74e74b97651d9d3e91c0403907",
+      "title": "Google Search Forgot The Holiday Decorations In 2025",
+      "url": "https://www.seroundtable.com/google-search-holiday-decorations-in-2025-40656.html",
+      "source": "Search Engine Roundtable",
+      "published": "Wed, 24 Dec 2025 07:38:00 -0500",
+      "summary": "For the past 15 or so years, Google would post holiday-specific decorations at the top of its search results for Christmas, Hanukkah, and Kwanzaa. Well, this year Google did not. Google did post an Easter egg in the search results, which they do every year, and it posted the season's greeting Doodle, but not the holiday-specific decorations.",
+      "ai_summary": "For the past 15 or so years, Google would post holiday-specific decorations at the top of its search results for Christmas, Hanukkah, and Kwanzaa. Well, this year Google did not. Google did post an Easter egg in the search results, which they do every year, and it posted the season's greeting Doodle, but not the holiday-specific decorations."
+    },
+    {
+      "id": "734d3c4e6d734db7969013a90a6530ee",
+      "title": "Bing: Duplicate & Similar Pages Blur Signals & Weaken SEO & AI Visibility",
+      "url": "https://www.seroundtable.com/bing-similar-duplicate-pages-seo-40637.html",
+      "source": "Search Engine Roundtable",
+      "published": "Wed, 24 Dec 2025 07:31:00 -0500",
+      "summary": "Fabrice Canel and Krishna Madhavan from the Microsoft Bing team posted a useful blog post named Does Duplicate Content Hurt SEO and AI Search Visibility? The short answer is yes, and the long answer is also yes.",
+      "ai_summary": "Fabrice Canel and Krishna Madhavan from the Microsoft Bing team posted a useful blog post named Does Duplicate Content Hurt SEO and AI Search Visibility? The short answer is yes, and the long answer is also yes."
+    },
+    {
+      "id": "0a617c95fe210314881d5f29215ce795",
+      "title": "Google Ads Advisor Suggestions Within Google Ad Reporting",
+      "url": "https://www.seroundtable.com/google-ads-advisor-in-ad-reporting-40653.html",
+      "source": "Search Engine Roundtable",
+      "published": "Wed, 24 Dec 2025 07:21:00 -0500",
+      "summary": "Google is testing pushing advertisers to use Google Ads Advisor from within the Google Ads reporting section. Google Ads suggested questions and prompts at the top of the report, which it thinks you would find helpful to chat with an AI bot about.",
+      "ai_summary": "Google is testing pushing advertisers to use Google Ads Advisor from within the Google Ads reporting section. Google Ads suggested questions and prompts at the top of the report, which it thinks you would find helpful to chat with an AI bot about."
+    },
+    {
+      "id": "bf4d10546cc75039227323bd8b14d02b",
+      "title": "Bing Search Tests More Sources Section",
+      "url": "https://www.seroundtable.com/bing-search-more-sources-section-40642.html",
+      "source": "Search Engine Roundtable",
+      "published": "Wed, 24 Dec 2025 07:11:00 -0500",
+      "summary": "Microsoft is testing a \"more sources\" section within the Bing Search results.  This seems to load a different user interface, with long card-shaped search results that you can slide through as a carousel.",
+      "ai_summary": "Microsoft is testing a \"more sources\" section within the Bing Search results.  This seems to load a different user interface, with long card-shaped search results that you can slide through as a carousel."
+    },
+    {
       "id": "1be86e12230294d9ed3fd4d021a9f662",
       "title": "Top ways to ensure your content performs well in Google's AI experiences on Search",
       "url": "https://developers.google.com/search/blog/2025/05/succeeding-in-ai-search",
@@ -63,24 +171,6 @@
       "published": "Wed, 19 Nov 2025 21:35:22 +0000",
       "summary": "It’s new feature month over here at SparkToro (given we’ve just launched Take Action and the enhanced  usage-graph visuals), and we’re continuing the streak with the long-requested addition of white labeled, exportable graphs.\n\n\n\nNow, with an Agency/Enterprise tier account, you can:\n\n\n\n\nHop over to your Account Settings page\n\n\n\nUpload your logo (PNG, JPG, or SVG up to 2MB)\n\n\n\nCustomize the…",
       "ai_summary": "It’s new feature month over here at SparkToro (given we’ve just launched Take Action and the enhanced  usage-graph visuals), and we’re continuing the streak with the long-requested addition of white labeled, exportable graphs.\n\n\n\nNow, with an Agency/Enterprise tier account, you can:\n\n\n\n\nHop over to your Account Settings page\n\n\n\nUpload your logo (PNG, JPG, or SVG up to 2MB)\n\n\n\nCustomize the…"
-    },
-    {
-      "id": "421c9eafe03b73f6aa112bb3b109605e",
-      "title": "Google’s AI Mode Personal Context Features “Still To Come” via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/googles-ai-mode-personal-context-features-still-to-come/563596/",
-      "source": "Search Engine Journal",
-      "published": "Wed, 17 Dec 2025 22:29:37 +0000",
-      "summary": "Google SVP Nick Fox says AI Mode’s personal context features, including opt-in Gmail connections teased at I/O, are still in internal testing. \n The post  Google’s AI Mode Personal Context Features “Still To Come”  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google SVP Nick Fox says AI Mode’s personal context features, including opt-in Gmail connections teased at I/O, are still in internal testing. \n The post  Google’s AI Mode Personal Context Features “Still To Come”  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "9a3bf3a7ea3f020ad063f60133c19016",
-      "title": "Google Gemini 3 Flash Becomes Default For AI Mode In Search via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-gemini-3-flash-becomes-default-in-gemini-app-ai-mode/563572/",
-      "source": "Search Engine Journal",
-      "published": "Wed, 17 Dec 2025 17:32:23 +0000",
-      "summary": "Google launches Gemini 3 Flash and makes it the default in the Gemini app. It’s rolling out as AI Mode’s default model.  \n The post  Google Gemini 3 Flash Becomes Default For AI Mode In Search  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google launches Gemini 3 Flash and makes it the default in the Gemini app. It’s rolling out as AI Mode’s default model.  \n The post  Google Gemini 3 Flash Becomes Default For AI Mode In Search  appeared first on  Search Engine Journal ."
     },
     {
       "id": "9b0ef3bb232e4cd0b8cb1422e4fb544f",
@@ -290,6 +380,132 @@
       "ai_summary": "We’re curious people so, every day, we analyse numerous ChatGPT responses to a wide variety of prompts. In recent weeks, we’ve noticed that ChatGPT uses web searches significantly less frequently. LLMs are known to struggle with timeliness and tend to fabricate facts (“hallucinations”). To counteract this, some models rely on […] \n Der Beitrag  ChatGPT Using Web Searches Less Frequently  erschien zuerst auf  SISTRIX ."
     },
     {
+      "id": "1b48a9bc6d277f6192372648e83ed0f8",
+      "title": "AI’s impact on search isn’t a secret (How to talk to execs about the new era of search)",
+      "url": "https://searchengineland.com/ai-impact-on-search-466727",
+      "source": "Search Engine Land",
+      "published": "Tue, 23 Dec 2025 18:11:43 +0000",
+      "summary": "Organic traffic is falling as AI reshapes search. Here's how to brief leadership with data, reset expectations, and adapt your SEO strategy for AI visibility.",
+      "ai_summary": "Organic traffic is falling as AI reshapes search. Here's how to brief leadership with data, reset expectations, and adapt your SEO strategy for AI visibility."
+    },
+    {
+      "id": "02e47608e70891af33ff12ea7fc2b8e5",
+      "title": "Why ad approval is not legal protection",
+      "url": "https://searchengineland.com/why-ad-approval-is-not-legal-protection-466644",
+      "source": "Search Engine Land",
+      "published": "Tue, 23 Dec 2025 15:00:00 +0000",
+      "summary": "Section 230 shields ad platforms from liability, while FTC enforcement holds advertisers strictly responsible for deceptive ad claims.",
+      "ai_summary": "Section 230 shields ad platforms from liability, while FTC enforcement holds advertisers strictly responsible for deceptive ad claims."
+    },
+    {
+      "id": "ec5da2d19812af50a49720e5441a1147",
+      "title": "Google adds Maps to Demand Gen channel controls",
+      "url": "https://searchengineland.com/google-adds-maps-to-demand-gen-channel-controls-466722",
+      "source": "Search Engine Land",
+      "published": "Tue, 23 Dec 2025 14:56:14 +0000",
+      "summary": "Advertisers now have the option to run Demand Gen ads on Google Maps, either alongside other channels or as a standalone placement.",
+      "ai_summary": "Advertisers now have the option to run Demand Gen ads on Google Maps, either alongside other channels or as a standalone placement."
+    },
+    {
+      "id": "758e74bc0251638e0625c3fa814cc7a4",
+      "title": "Google Reveals The Top Searches Of 2025 via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-reveals-the-top-searches-of-2025/563738/",
+      "source": "Search Engine Journal",
+      "published": "Tue, 23 Dec 2025 14:00:25 +0000",
+      "summary": "Google's Year in Search reveals trending actors, movies, athletes, games, recipes, and travel destinations that captured attention throughout 2025. \n The post  Google Reveals The Top Searches Of 2025  appeared first on  Search Engine Journal .",
+      "ai_summary": "Google's Year in Search reveals trending actors, movies, athletes, games, recipes, and travel destinations that captured attention throughout 2025. \n The post  Google Reveals The Top Searches Of 2025  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "049eba0c9dff2e03ebbdf43a2017c354",
+      "title": "How vibe coding is changing search marketing workflows",
+      "url": "https://searchengineland.com/vibe-coding-search-marketing-workflows-466661",
+      "source": "Search Engine Land",
+      "published": "Tue, 23 Dec 2025 14:00:00 +0000",
+      "summary": "As Google’s AI Overviews answer more queries directly, vibe coding gives marketers a way to create interactive experiences AI can’t replace.",
+      "ai_summary": "As Google’s AI Overviews answer more queries directly, vibe coding gives marketers a way to create interactive experiences AI can’t replace."
+    },
+    {
+      "id": "492c30dc72ae8db3fc7dc5d861a7efd1",
+      "title": "Why Every Google Ads Account Needs To Run Scripts",
+      "url": "https://www.searchenginejournal.com/why-every-google-ads-account-needs-to-run-scripts/562922/",
+      "source": "Search Engine Journal",
+      "published": "Tue, 23 Dec 2025 13:30:51 +0000",
+      "summary": "PPC accounts without scripts rely on luck, manual checks, and late alerts. Here’s why that’s a risk serious advertisers shouldn’t accept. \n The post  Why Every Google Ads Account Needs To Run Scripts  appeared first on  Search Engine Journal .",
+      "ai_summary": "PPC accounts without scripts rely on luck, manual checks, and late alerts. Here’s why that’s a risk serious advertisers shouldn’t accept. \n The post  Why Every Google Ads Account Needs To Run Scripts  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "94219aa4196d64df25f6da9eb238fb7b",
+      "title": "Ask An SEO: What Is The Threshold Between Keyword Stuffing & Being Optimized? via @sejournal, @rollerblader",
+      "url": "https://www.searchenginejournal.com/ask-an-seo-threshold-between-keyword-stuffing-and-being-optimized/479096/",
+      "source": "Search Engine Journal",
+      "published": "Tue, 23 Dec 2025 13:00:30 +0000",
+      "summary": "This week's Ask an SEO addresses where keyword optimization ends and keyword stuffing begins in modern search and AI-driven systems. \n The post  Ask An SEO: What Is The Threshold Between Keyword Stuffing & Being Optimized?  appeared first on  Search Engine Journal .",
+      "ai_summary": "This week's Ask an SEO addresses where keyword optimization ends and keyword stuffing begins in modern search and AI-driven systems. \n The post  Ask An SEO: What Is The Threshold Between Keyword Stuffing & Being Optimized?  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "21d8346df9194045e055d7d3666a7d54",
+      "title": "What successful brand-agency partnerships look like in 2026",
+      "url": "https://searchengineland.com/what-successful-brand-agency-partnerships-look-like-in-2026-466647",
+      "source": "Search Engine Land",
+      "published": "Tue, 23 Dec 2025 13:00:00 +0000",
+      "summary": "Agency roles differ by company size, from execution-first to integrated partners. Here’s how to align structure and accountability.",
+      "ai_summary": "Agency roles differ by company size, from execution-first to integrated partners. Here’s how to align structure and accountability."
+    },
+    {
+      "id": "f3e189b2e62f54336cd8026530085118",
+      "title": "Daily Search Forum Recap: December 23, 2025",
+      "url": "https://www.seroundtable.com/recap-12-23-2025-40646.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 23 Dec 2025 10:00:00 -0500",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "ai_summary": "Here is a recap of what happened in the search forums today..."
+    },
+    {
+      "id": "1e49ac93d63cfb9bc6526bb27db574fd",
+      "title": "Google Ads MCC Accounts With Channel Performance Reporting",
+      "url": "https://www.seroundtable.com/google-ads-mcc-channel-performance-report-40643.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 23 Dec 2025 07:51:00 -0500",
+      "summary": "Some Google Ads MCC, Manager Accounts, are seeing channel performance reporting. This does not seem to have been rolled out to all advertisers yet, but Mike Ryan noticed it was rolling out on some of his MCC accounts.",
+      "ai_summary": "Some Google Ads MCC, Manager Accounts, are seeing channel performance reporting. This does not seem to have been rolled out to all advertisers yet, but Mike Ryan noticed it was rolling out on some of his MCC accounts."
+    },
+    {
+      "id": "c9b7f5149dbae2ec441b8b305592331d",
+      "title": "Google Ads Adds Google Maps Channel For Demand Gen",
+      "url": "https://www.seroundtable.com/google-ads-demand-gen-maps-channel-40640.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 23 Dec 2025 07:41:00 -0500",
+      "summary": "Google Ads added a new channel control for Demand Gen to show ads in Google Maps. Some advertisers see the ability to select Maps as a placement in Demand Gen.",
+      "ai_summary": "Google Ads added a new channel control for Demand Gen to show ads in Google Maps. Some advertisers see the ability to select Maps as a placement in Demand Gen."
+    },
+    {
+      "id": "75b944670895f3d1769d5c8f268dee5b",
+      "title": "Google Search Traffic To News Publishers Drops From 51% To 27%",
+      "url": "https://www.seroundtable.com/google-search-traffic-drops-news-publishers-40645.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 23 Dec 2025 07:31:00 -0500",
+      "summary": "Google Search has been sending 25 percentage points less traffic to news publishers over the past two years, according to the folks over at Newzdash. In 2023, Google Web Search made up over 51% of traffic from Google surfaces to news publishers; that number is now down to 27%.",
+      "ai_summary": "Google Search has been sending 25 percentage points less traffic to news publishers over the past two years, according to the folks over at Newzdash. In 2023, Google Web Search made up over 51% of traffic from Google surfaces to news publishers; that number is now down to 27%."
+    },
+    {
+      "id": "707a8ee40b33ca401aa8647675302f13",
+      "title": "Google Search Bar Tests Teases For AI Mode With Animation In Box",
+      "url": "https://www.seroundtable.com/google-search-bar-prefilled-40644.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 23 Dec 2025 07:21:00 -0500",
+      "summary": "Google is testing prefilling the search bar in a new Chrome tab, with teasers to encourage you to search deeper with AI Mode. Google is putting in the search box, \"Research a topic,\" \"Write something new,\" \"Ask Google,\" and \"Make a plan.\"",
+      "ai_summary": "Google is testing prefilling the search bar in a new Chrome tab, with teasers to encourage you to search deeper with AI Mode. Google is putting in the search box, \"Research a topic,\" \"Write something new,\" \"Ask Google,\" and \"Make a plan.\""
+    },
+    {
+      "id": "752b7b2af5d4b1448efa6015ac306bfe",
+      "title": "Google Discover Notifications That Go AI Mode Responses",
+      "url": "https://www.seroundtable.com/google-discover-notifications-to-ai-mode-40618.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 23 Dec 2025 07:11:00 -0500",
+      "summary": "Have you seen those Google Discover notifications that pop up and seem like news notifications from the Google app but what they do is drive you into Google AI Mode. I find them incredibly annoying, because every time I click on it, I think I am going to a news article but instead, I am given an AI-generated AI Mode answer.",
+      "ai_summary": "Have you seen those Google Discover notifications that pop up and seem like news notifications from the Google app but what they do is drive you into Google AI Mode. I find them incredibly annoying, because every time I click on it, I think I am going to a news article but instead, I am given an AI-generated AI Mode answer."
+    },
+    {
       "id": "ee1d0db1e47e977e43bdd5b2216543ad",
       "title": "NEW: AI Tool & Social Network Usage Graphs are in SparkToro",
       "url": "https://sparktoro.com/blog/new-ai-tool-social-network-usage-graphs-are-in-sparktoro/",
@@ -425,6 +641,15 @@
       "ai_summary": "You know that I love talking about vector search. I've had good success optimizing for vector search. Often though, that success does not last. I think I've realized why, and if this thought is true, it may turn out that doing a great job at optimizing for vector search could possibly do more harm than […] \n The post  Could optimizing for vector search do more harm than good?  appeared first on  Marie Haynes ."
     },
     {
+      "id": "ba74d11ad07ff20bb5169d67d755ad86",
+      "title": "20 SEO Experts Offer Their Advice For 2026 via @sejournal, @theshelleywalsh",
+      "url": "https://www.searchenginejournal.com/seo-experts-predictions/503049/",
+      "source": "Search Engine Journal",
+      "published": "Thu, 25 Dec 2025 02:00:47 +0000",
+      "summary": "These expert insights show SEO marketers and decision-makers exactly where to focus in 2026 to protect organic visibility and turn discovery into real business impact. \n The post  20 SEO Experts Offer Their Advice For 2026  appeared first on  Search Engine Journal .",
+      "ai_summary": "These expert insights show SEO marketers and decision-makers exactly where to focus in 2026 to protect organic visibility and turn discovery into real business impact. \n The post  20 SEO Experts Offer Their Advice For 2026  appeared first on  Search Engine Journal ."
+    },
+    {
       "id": "d15ccafe59e7b0541ad59a305b1f9a85",
       "title": "Introducing the Google Trends API (alpha): a new way to access Search Trends data",
       "url": "https://developers.google.com/search/blog/2025/07/trends-api",
@@ -432,15 +657,6 @@
       "published": "Thu, 24 Jul 2025 04:00:00 +0000",
       "summary": "We're excited to announce the Google Trends API alpha test. This new API will help\n        Researchers, Journalists, and Developers to understand Search behaviors and patterns.\n        While Trends data is available through the Trends website, the API provides new ways to\n        use the data inside your organization in a scalable way.",
       "ai_summary": "We're excited to announce the Google Trends API alpha test. This new API will help\n        Researchers, Journalists, and Developers to understand Search behaviors and patterns.\n        While Trends data is available through the Trends website, the API provides new ways to\n        use the data inside your organization in a scalable way."
-    },
-    {
-      "id": "521850b25300eced22fcdf19eacaee1c",
-      "title": "How to Monitor Your YouTube Video Mentions",
-      "url": "https://ahrefs.com/blog/monitor-youtube-video-mentions/",
-      "source": "SEO Blog by Ahrefs",
-      "published": "Thu, 20 Nov 2025 09:51:58 +0000",
-      "summary": "YouTube is the second-largest search engine, where users spend roughly 50 minutes daily (and growing). It’s also the 2nd most cited source by LLMs, meaning video mentions don’t just reach human audiences—they teach AI how to recommend your brand. YouTube … Read more ›",
-      "ai_summary": "YouTube is the second-largest search engine, where users spend roughly 50 minutes daily (and growing). It’s also the 2nd most cited source by LLMs, meaning video mentions don’t just reach human audiences—they teach AI how to recommend your brand. YouTube … Read more ›"
     },
     {
       "id": "66ab5b91b420d4275f1a185890e0e765",
@@ -461,24 +677,6 @@
       "ai_summary": "When shoppers are online, knowing which store to buy from can be a tough decision. The new\n         store widget powered by Google \n        brings valuable information directly to a merchant's website, which can turn shopper hesitation\n        into sales. It addresses two fundamental challenges ecommerce retailers face: boosting visibility\n        and establishing legitimacy. The widget helps you attract customers and encourage them to make a\n        purchase. Businesses using the store widget on their websites saw up to  8% higher sales \n        within 90 days compared to similar businesses without it."
     },
     {
-      "id": "922635bb1b6f592e916c6d04bc937eb4",
-      "title": "New AI Visibility Awards spotlight brands thriving in AI-generated search results",
-      "url": "https://searchengineland.com/semrush-ai-visibility-awards-466439",
-      "source": "Search Engine Land",
-      "published": "Thu, 18 Dec 2025 17:32:23 +0000",
-      "summary": "Semrush’s new AI Visibility Awards reveal which brands are winning trust — and share of voice — in AI-generated search results.",
-      "ai_summary": "Semrush’s new AI Visibility Awards reveal which brands are winning trust — and share of voice — in AI-generated search results."
-    },
-    {
-      "id": "7d89d411c49b29a23f0cda0f9d6818a0",
-      "title": "Google adds location targeting controls to Demand Gen campaigns",
-      "url": "https://searchengineland.com/google-adds-location-targeting-controls-to-demand-gen-campaigns-466435",
-      "source": "Search Engine Land",
-      "published": "Thu, 18 Dec 2025 17:10:22 +0000",
-      "summary": "Google added native location targeting controls to Demand Gen campaigns, giving advertisers more precise geo-targeting.",
-      "ai_summary": "Google added native location targeting controls to Demand Gen campaigns, giving advertisers more precise geo-targeting."
-    },
-    {
       "id": "b5bbe5a8643ab8a95892c460f647ba47",
       "title": "Social Listening: A Complete Guide for Marketers",
       "url": "https://www.semrush.com/blog/social-listening/",
@@ -495,141 +693,6 @@
       "published": "Thu, 18 Dec 2025 14:30:10 +0000",
       "summary": "SEO still matters, but Duane Forrester explains how answer-driven systems change the work, the metrics, and the path to influence. \n The post  Who Benefits When The Line Between SEO And GEO Is Blurred  appeared first on  Search Engine Journal .",
       "ai_summary": "SEO still matters, but Duane Forrester explains how answer-driven systems change the work, the metrics, and the path to influence. \n The post  Who Benefits When The Line Between SEO And GEO Is Blurred  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "9a69b29c1148c74063f09d696ee4b195",
-      "title": "The Future Of Content In An AI World: Provenance & Trust In Information",
-      "url": "https://www.searchenginejournal.com/the-future-of-content-in-ai-world-provenance-trust-in-information/554593/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 18 Dec 2025 14:00:25 +0000",
-      "summary": "Learn about the future of search AI and trust in information in an evolving digital landscape focused on transparency and authenticity. \n The post  The Future Of Content In An AI World: Provenance & Trust In Information  appeared first on  Search Engine Journal .",
-      "ai_summary": "Learn about the future of search AI and trust in information in an evolving digital landscape focused on transparency and authenticity. \n The post  The Future Of Content In An AI World: Provenance & Trust In Information  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "d26a8909c2fe24e552c21fc3eb90c4e7",
-      "title": "Coursera Acquiring Udemy via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/coursera-acquiring-udemy/563699/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 18 Dec 2025 13:42:16 +0000",
-      "summary": "Coursera agrees to acquire Udemy in a stock-for-stock transaction. \n The post  Coursera Acquiring Udemy  appeared first on  Search Engine Journal .",
-      "ai_summary": "Coursera agrees to acquire Udemy in a stock-for-stock transaction. \n The post  Coursera Acquiring Udemy  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "49bfd01463144d60c576cb5ece7bdccb",
-      "title": "The User Journey Isn’t Linear Anymore: It’s Always On via @sejournal, @TaylorDanRW",
-      "url": "https://www.searchenginejournal.com/the-user-journey-isnt-linear-anymore-its-always-on/563142/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 18 Dec 2025 13:30:36 +0000",
-      "summary": "Dan Taylor explains why AI has broken the linear customer journey and what organizations must do to stay influential. \n The post  The User Journey Isn’t Linear Anymore: It’s Always On  appeared first on  Search Engine Journal .",
-      "ai_summary": "Dan Taylor explains why AI has broken the linear customer journey and what organizations must do to stay influential. \n The post  The User Journey Isn’t Linear Anymore: It’s Always On  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "dfa3bf50cb1005597b8b894818a3e4f8",
-      "title": "Google’s Robby Stein Names 5 SEO Factors For AI Mode via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/googles-robby-stein-names-5-seo-factors-for-ai-mode/563688/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 18 Dec 2025 13:11:17 +0000",
-      "summary": "Google's Robby Stein explains how AI Mode judges content quality and names five quality signals useful for SEO \n The post  Google’s Robby Stein Names 5 SEO Factors For AI Mode  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google's Robby Stein explains how AI Mode judges content quality and names five quality signals useful for SEO \n The post  Google’s Robby Stein Names 5 SEO Factors For AI Mode  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "053ea441080fe06fc89c42117e3f5e20",
-      "title": "Let’s Be Honest About The Ranking Power Of Links via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/lets-be-honest-about-the-ranking-power-of-links/563662/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 18 Dec 2025 11:17:30 +0000",
-      "summary": "It's time to reset how we think about links and link building for SEO and AI search. \n The post  Let’s Be Honest About The Ranking Power Of Links  appeared first on  Search Engine Journal .",
-      "ai_summary": "It's time to reset how we think about links and link building for SEO and AI search. \n The post  Let’s Be Honest About The Ranking Power Of Links  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "017441799a5edd31e394413207dd72bf",
-      "title": "How Will AI Mode Impact Local SEO? via @sejournal, @JRiddall",
-      "url": "https://www.searchenginejournal.com/how-will-ai-mode-impact-local-seo/561002/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 18 Dec 2025 11:00:49 +0000",
-      "summary": "Google’s shift to AI Mode reshapes local SEO by elevating entity authority, verified data, and structured facts as the defining drivers of visibility. \n The post  How Will AI Mode Impact Local SEO?  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google’s shift to AI Mode reshapes local SEO by elevating entity authority, verified data, and structured facts as the defining drivers of visibility. \n The post  How Will AI Mode Impact Local SEO?  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "90151b88e325430e148be7cee122e32a",
-      "title": "Google Says What To Tell Clients Who Want SEO For AI via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-says-what-to-tell-clients-who-want-seo-for-ai/563652/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 18 Dec 2025 10:45:01 +0000",
-      "summary": "Google's Danny Sullivan provided advice on how SEOs can address client expectations around AI. \n The post  Google Says What To Tell Clients Who Want SEO For AI  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google's Danny Sullivan provided advice on how SEOs can address client expectations around AI. \n The post  Google Says What To Tell Clients Who Want SEO For AI  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "1d74f8bc5a12ce9a89748fb81f9f58eb",
-      "title": "Google Says What Creators Should Focus On For AI via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-how-to-rank-in-ai/563620/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 18 Dec 2025 10:17:11 +0000",
-      "summary": "Google offers direct guidance on what matters for ranking in AI-driven search experiences. \n The post  Google Says What Creators Should Focus On For AI  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google offers direct guidance on what matters for ranking in AI-driven search experiences. \n The post  Google Says What Creators Should Focus On For AI  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "95bcecd161f9eca5c969837d2f0739cb",
-      "title": "Daily Search Forum Recap: December 18, 2025",
-      "url": "https://www.seroundtable.com/recap-12-18-2025-40624.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 18 Dec 2025 10:00:00 -0500",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "ai_summary": "Here is a recap of what happened in the search forums today..."
-    },
-    {
-      "id": "1662b18e8606e4266079a4a9e4222ffc",
-      "title": "Google's Danny Sullivan & John Mueller On SEO For AI: It's The Same",
-      "url": "https://www.seroundtable.com/google-danny-sullivan-john-mueller-seo-ai-40620.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 18 Dec 2025 07:51:00 -0500",
-      "summary": "John Mueller from Google had Danny Sullivan from Google on the Search Off the Record podcast to talk about \"Thoughts on SEO & SEO for AI.\" In short, they both said SEO for AI is the same as SEO for traditional search but then they got into it.",
-      "ai_summary": "John Mueller from Google had Danny Sullivan from Google on the Search Off the Record podcast to talk about \"Thoughts on SEO & SEO for AI.\" In short, they both said SEO for AI is the same as SEO for traditional search but then they got into it."
-    },
-    {
-      "id": "bfcf6c6d0a14f58953c2a4a419226531",
-      "title": "Google Updates JavaScript SEO Doc With Setting Canonical URL Advice",
-      "url": "https://www.seroundtable.com/google-javascript-setting-canonical-40619.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 18 Dec 2025 07:41:00 -0500",
-      "summary": "Google updated its JavaScript SEO best practices document with a new section on how to set the canonial URL when using JavaScript. Google wrote, \"The best way to set the canonical URL is to use HTML, but if you have to use JavaScript, make sure that you always set the canonical URL to the same value as the original HTML.\"",
-      "ai_summary": "Google updated its JavaScript SEO best practices document with a new section on how to set the canonial URL when using JavaScript. Google wrote, \"The best way to set the canonical URL is to use HTML, but if you have to use JavaScript, make sure that you always set the canonical URL to the same value as the original HTML.\""
-    },
-    {
-      "id": "d3ac8156b4724bb194a917bc53079986",
-      "title": "Gemini 3 Flash For Google AI Mode - Now Rolling Out",
-      "url": "https://www.seroundtable.com/gemini-3-flash-google-ai-mode-40621.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 18 Dec 2025 07:31:00 -0500",
-      "summary": "Google is bringing Gemini 3 Flash to AI Mode, bringing much of Gemini 3's power without waiting too long - hence the \"Flash\" part of the name. Robby Stein from Google said, \"Starting today, we're rolling it out globally in Search as the default model in AI Mode.\"",
-      "ai_summary": "Google is bringing Gemini 3 Flash to AI Mode, bringing much of Gemini 3's power without waiting too long - hence the \"Flash\" part of the name. Robby Stein from Google said, \"Starting today, we're rolling it out globally in Search as the default model in AI Mode.\""
-    },
-    {
-      "id": "bc1781ac7ec8ad9f6a5d63c018fdc316",
-      "title": "Google Reviews Disappearing Bug Reportedly Fixed",
-      "url": "https://www.seroundtable.com/google-reviews-disappearing-bug-fixed-40622.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 18 Dec 2025 07:21:00 -0500",
-      "summary": "Back in October, many businesses reported that reviews left on their Google Business Profiles were disappearing. It wasn't happening to every business, but it was widespread. Last night, I was told the bug had been fixed and that the reviews should be returning.",
-      "ai_summary": "Back in October, many businesses reported that reviews left on their Google Business Profiles were disappearing. It wasn't happening to every business, but it was widespread. Last night, I was told the bug had been fixed and that the reviews should be returning."
-    },
-    {
-      "id": "1c3e27ae6b23b1194a6771d045ba1d56",
-      "title": "Microsoft Tests Underlines In Bing Ad Description Snippets",
-      "url": "https://www.seroundtable.com/bing-ads-underlines-description-snippets-40588.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 18 Dec 2025 07:11:00 -0500",
-      "summary": "Microsoft is also testing underlining the text of the Bing Ads search snippets and descriptions. I am not sure if those underlined words are links or not but I assume so.",
-      "ai_summary": "Microsoft is also testing underlining the text of the Bing Ads search snippets and descriptions. I am not sure if those underlined words are links or not but I assume so."
-    },
-    {
-      "id": "55126965c30de6c2bd32f125adf9a67c",
-      "title": "13 Google Ads Settings To Check When Running International PPC Campaigns via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/google-ads-settings-international-ppc/538583/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 18 Dec 2025 01:16:33 +0000",
-      "summary": "Strong international PPC strategy starts with precise control over location targeting, bidding, and conversion tracking so campaigns match how each market actually searches and buys. \n The post  13 Google Ads Settings To Check When Running International PPC Campaigns  appeared first on  Search Engine Journal .",
-      "ai_summary": "Strong international PPC strategy starts with precise control over location targeting, bidding, and conversion tracking so campaigns match how each market actually searches and buys. \n The post  13 Google Ads Settings To Check When Running International PPC Campaigns  appeared first on  Search Engine Journal ."
     },
     {
       "id": "74a108a4e7b90ae66d856102a24473c3",
@@ -758,15 +821,6 @@
       "ai_summary": "The Search Console Performance report is a powerful tool to analyze organic search traffic, but finding\n      the exact data you need can take more time than you'd like. Today, we're excited to announce an experimental\n      feature in the Performance report designed to reduce the effort it takes for you to select, filter, and\n      compare your data: AI-powered configuration."
     },
     {
-      "id": "a4e5015dea09201650b3173f1d8e3c5f",
-      "title": "Google December 2025 Core Update Volatility On Saturday - December 20",
-      "url": "https://www.seroundtable.com/google-december-2025-core-update-volatility-saturday-40632.html",
-      "source": "Search Engine Roundtable",
-      "published": "Sun, 21 Dec 2025 08:42:00 -0500",
-      "summary": "As you all know, Google announced the Google December 2025 core update on Thursday afternoon, December 11th, we saw some significant volatility hit early on December 13th and then it seemed to cool a bit towards the middle of the week. Now, I am seeing signs of more intense volatility hit on Saturday, December 20th.",
-      "ai_summary": "As you all know, Google announced the Google December 2025 core update on Thursday afternoon, December 11th, we saw some significant volatility hit early on December 13th and then it seemed to cool a bit towards the middle of the week. Now, I am seeing signs of more intense volatility hit on Saturday, December 20th."
-    },
-    {
       "id": "d3e2282f061c03b9d39b0d84c492c4d4",
       "title": "Google Files DMCA Suit Targeting SerpApi’s SERP Scraping via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/google-files-dmca-suit-targeting-serpapis-serp-scraping/563847/",
@@ -837,6 +891,96 @@
       "published": "Mon, 23 Jun 2025 10:00:00 +0000",
       "summary": "We hope you're as excited about\n         Search Central Live Deep Dive APAC \n        as we are! With just a few weeks to go, we wanted to share an exciting experiment that we're\n        planning to run at the event, and introduce our community speakers. Let's start with the\n        experiment.",
       "ai_summary": "We hope you're as excited about\n         Search Central Live Deep Dive APAC \n        as we are! With just a few weeks to go, we wanted to share an exciting experiment that we're\n        planning to run at the event, and introduce our community speakers. Let's start with the\n        experiment."
+    },
+    {
+      "id": "8eff0795a3148166b2c2afcb3aae86e9",
+      "title": "Fresh Content: Why Publish Dates Make or Break Rankings and AI Visibility",
+      "url": "https://ahrefs.com/blog/fresh-content/",
+      "source": "SEO Blog by Ahrefs",
+      "published": "Mon, 22 Dec 2025 20:32:50 +0000",
+      "summary": "Fresh content or content freshness simply means how new or recently updated a page is. Keeping your content up to date tells Google and AI assistants that your information is current, helpful, and reliable, which helps you keep good rankings … Read more ›",
+      "ai_summary": "Fresh content or content freshness simply means how new or recently updated a page is. Keeping your content up to date tells Google and AI assistants that your information is current, helpful, and reliable, which helps you keep good rankings … Read more ›"
+    },
+    {
+      "id": "a18d691242b76a8d46caab546e60e8d7",
+      "title": "Do Faces Help YouTube Thumbnails? Here’s What The Data Says via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/do-faces-help-youtube-thumbnails-heres-what-the-data-says/563944/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 22 Dec 2025 19:10:19 +0000",
+      "summary": "A new dataset of 300K viral YouTube videos suggests that faces in thumbnails perform about the same as without them, with larger differences by niche.  \n The post  Do Faces Help YouTube Thumbnails? Here’s What The Data Says  appeared first on  Search Engine Journal .",
+      "ai_summary": "A new dataset of 300K viral YouTube videos suggests that faces in thumbnails perform about the same as without them, with larger differences by niche.  \n The post  Do Faces Help YouTube Thumbnails? Here’s What The Data Says  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "fa809bbc9afa98f1d96e2517082800ee",
+      "title": "AI search is growing, but SEO fundamentals still drive most traffic",
+      "url": "https://searchengineland.com/ai-search-is-growing-but-seo-fundamentals-still-drive-most-traffic-466620",
+      "source": "Search Engine Land",
+      "published": "Mon, 22 Dec 2025 18:13:04 +0000",
+      "summary": "AI is changing search, but traditional SEO still drives most traffic. Real-world data shows which tactics continue to perform.",
+      "ai_summary": "AI is changing search, but traditional SEO still drives most traffic. Real-world data shows which tactics continue to perform."
+    },
+    {
+      "id": "0660e8941ad0848c86d85e472c13f431",
+      "title": "Google expands Performance Max channel reporting to MCCs",
+      "url": "https://searchengineland.com/google-expands-performance-max-channel-reporting-to-mccs-466634",
+      "source": "Search Engine Land",
+      "published": "Mon, 22 Dec 2025 15:01:51 +0000",
+      "summary": "Google's latest update gives large advertisers clearer, cross-account insight into how PMax allocates spend and performs across channels.",
+      "ai_summary": "Google's latest update gives large advertisers clearer, cross-account insight into how PMax allocates spend and performs across channels."
+    },
+    {
+      "id": "dd4eaa657446d255c55a7ad677794402",
+      "title": "Why Google is deleting reviews at record levels",
+      "url": "https://searchengineland.com/google-deleting-reviews-record-levels-466546",
+      "source": "Search Engine Land",
+      "published": "Mon, 22 Dec 2025 15:00:00 +0000",
+      "summary": "Reviews are disappearing faster as moderation systems, industry risk, and geography shape which reviews stay visible.",
+      "ai_summary": "Reviews are disappearing faster as moderation systems, industry risk, and geography shape which reviews stay visible."
+    },
+    {
+      "id": "1c56a316dc8ecace4515dc814ec59898",
+      "title": "Ironman, Not Superman via @sejournal, @DuaneForrester",
+      "url": "https://www.searchenginejournal.com/ironman-not-superman/563860/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 22 Dec 2025 13:00:45 +0000",
+      "summary": "Learn why AI works best as a support tool, not a decision-maker, and why misplaced trust in autonomy is risky. \n The post  Ironman, Not Superman  appeared first on  Search Engine Journal .",
+      "ai_summary": "Learn why AI works best as a support tool, not a decision-maker, and why misplaced trust in autonomy is risky. \n The post  Ironman, Not Superman  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "e055e2e6b95ef6b9e77a4b77413ebd0e",
+      "title": "The Top 10 Digital Marketing Trends For 2026 via @sejournal, @gregjarboe",
+      "url": "https://www.searchenginejournal.com/top-10-digital-marketing-trends/558503/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 22 Dec 2025 12:00:14 +0000",
+      "summary": "In 2026, success belongs to marketers who turn strategy into execution, integrating AI, creativity, and community to build authority. \n The post  The Top 10 Digital Marketing Trends For 2026  appeared first on  Search Engine Journal .",
+      "ai_summary": "In 2026, success belongs to marketers who turn strategy into execution, integrating AI, creativity, and community to build authority. \n The post  The Top 10 Digital Marketing Trends For 2026  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "4c8b1033d5f4056f9fcc3cd0bde5c615",
+      "title": "Redirection For Contact Form 7 WordPress Plugin Vulnerability via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/redirection-for-contact-form-7-wordpress-plugin-vulnerability/563883/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 22 Dec 2025 10:17:16 +0000",
+      "summary": "Vulnerability in Redirection For Contact Form 7 WordPress Plugin affects up to 300,000 installations \n The post  Redirection For Contact Form 7 WordPress Plugin Vulnerability  appeared first on  Search Engine Journal .",
+      "ai_summary": "Vulnerability in Redirection For Contact Form 7 WordPress Plugin affects up to 300,000 installations \n The post  Redirection For Contact Form 7 WordPress Plugin Vulnerability  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "0c0bb34f8491b9193679c7d62f36c830",
+      "title": "Daily Search Forum Recap: December 22, 2025",
+      "url": "https://www.seroundtable.com/recap-12-22-2025-40641.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 22 Dec 2025 10:00:00 -0500",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nWe had big Google search ranking volatility over the weekend, likely from the end of the December core update...",
+      "ai_summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nWe had big Google search ranking volatility over the weekend, likely from the end of the December core update..."
+    },
+    {
+      "id": "f6ff3dd53f657f9322c7a6603113ebbc",
+      "title": "Google Tests Learn More Links After Ad Text",
+      "url": "https://www.seroundtable.com/google-ads-learn-more-40636.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 22 Dec 2025 07:51:00 -0500",
+      "summary": "Google is testing appending \"learn more\" links to the end of the Google search ads text.  So the Google Ad will have its normal ad description and at the end, Google is testing adding \"Learn more\" with an arrow to the right, in blue anchor underlined text.",
+      "ai_summary": "Google is testing appending \"learn more\" links to the end of the Google search ads text.  So the Google Ad will have its normal ad description and at the end, Google is testing adding \"Learn more\" with an arrow to the right, in blue anchor underlined text."
     },
     {
       "id": "a0c4a82467db041d61d457cda33e8306",
@@ -1010,33 +1154,6 @@
       "ai_summary": "In the previous posts about the Robots Exclusion Protocol (REP) we explored what's already\n        possible to do with its various components — namely robots.txt and the URI level controls.\n        In this post we will explore how the REP can play a supporting role in the ever-evolving relation\n        between automatic clients and the human web."
     },
     {
-      "id": "7d4bb3406dc8e9dd8894f2c226d50f8b",
-      "title": "Microsoft launches asset-level ad reviews",
-      "url": "https://searchengineland.com/microsoft-launches-asset-level-ad-reviews-466576",
-      "source": "Search Engine Land",
-      "published": "Fri, 19 Dec 2025 20:25:33 +0000",
-      "summary": "Microsoft’s new asset-level editorial review lets compliant ad components run even when others are disapproved reducing campaign disruption.",
-      "ai_summary": "Microsoft’s new asset-level editorial review lets compliant ad components run even when others are disapproved reducing campaign disruption."
-    },
-    {
-      "id": "6af8ecefe4d529707f177b17a86f9e41",
-      "title": "Google to loosen pharma ad rules for AdMob authorized buyers",
-      "url": "https://searchengineland.com/google-to-loosen-pharma-ad-rules-for-admob-authorized-buyers-466513",
-      "source": "Search Engine Land",
-      "published": "Fri, 19 Dec 2025 19:36:54 +0000",
-      "summary": "Google’s policy update expands pharmaceutical advertising access in programmatic channels and shifts greater compliance risk to advertisers.",
-      "ai_summary": "Google’s policy update expands pharmaceutical advertising access in programmatic channels and shifts greater compliance risk to advertisers."
-    },
-    {
-      "id": "f090a8743c1c6ff64119ef9649f9995e",
-      "title": "Google sues SerpApi over scraping and reselling Search data",
-      "url": "https://searchengineland.com/google-sues-serpapi-466541",
-      "source": "Search Engine Land",
-      "published": "Fri, 19 Dec 2025 19:19:59 +0000",
-      "summary": "Google accused SerpApi of 'circumventing security measures protecting others’ copyrighted content that appears in Google search results.'",
-      "ai_summary": "Google accused SerpApi of 'circumventing security measures protecting others’ copyrighted content that appears in Google search results.'"
-    },
-    {
       "id": "ecb98c6fd68f90875494409261acd96d",
       "title": "Microsoft Explains How Duplicate Content Affects AI Search Visibility via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/microsoft-explains-how-duplicate-content-affects-ai-search-visibility/563823/",
@@ -1046,15 +1163,6 @@
       "ai_summary": "Microsoft published guidance on how duplicate content affects AI search visibility, explaining that AI systems cluster similar pages and may surface unintended versions. \n The post  Microsoft Explains How Duplicate Content Affects AI Search Visibility  appeared first on  Search Engine Journal ."
     },
     {
-      "id": "19a4674c41623bd7b4386acc0e6b43a6",
-      "title": "Microsoft Bing explains how duplicate content hurts AI search visibility",
-      "url": "https://searchengineland.com/microsoft-bing-explains-how-duplicate-content-can-hurt-your-visibility-in-ai-search-466491",
-      "source": "Search Engine Land",
-      "published": "Fri, 19 Dec 2025 17:30:00 +0000",
-      "summary": "Duplicate or similar content on your site makes it hard for AI search engines to interpret your intent signals.",
-      "ai_summary": "Duplicate or similar content on your site makes it hard for AI search engines to interpret your intent signals."
-    },
-    {
       "id": "876b50cc1b4ae0ee0beb2d415f9fff5e",
       "title": "Is Your Brand Visible in AI Search Results? Here’s How to Find Out",
       "url": "https://www.semrush.com/blog/is-your-brand-visible-in-ai-search-results/",
@@ -1062,15 +1170,6 @@
       "published": "Fri, 19 Dec 2025 15:51:00 +0000",
       "summary": "Learn how to check if your brand appears in AI results, spot outdated info, and which free tools help monitor your visibility.",
       "ai_summary": "Learn how to check if your brand appears in AI results, spot outdated info, and which free tools help monitor your visibility."
-    },
-    {
-      "id": "63dcc5941c884208909f3095b2d4f701",
-      "title": "Google Sued SerpApi Over Scraping Search Results",
-      "url": "https://www.seroundtable.com/google-sues-serpapi-40631.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 19 Dec 2025 15:50:00 -0500",
-      "summary": "On Friday, Google announced it had filed a lawsuit against SerpApi for scraping the Google search results. Google alleges that SerpApi is running an \"unlawful\" operation that bypasses Google's security measures to scrape search results at an astonishing scale.",
-      "ai_summary": "On Friday, Google announced it had filed a lawsuit against SerpApi for scraping the Google search results. Google alleges that SerpApi is running an \"unlawful\" operation that bypasses Google's security measures to scrape search results at an astonishing scale."
     },
     {
       "id": "e00609cfcc08824c5fb47abafdfa8fff",
@@ -1100,15 +1199,6 @@
       "ai_summary": "SEO has changed more dramatically in 2025 than ever before. AI is shaping the daily work of marketing teams and SEOs, and it was also a key focus for SISTRIX last year. With SISTRIX for AI/Chatbots, we’ve created a product that extends the data quality of SISTRIX to these systems. […] \n Der Beitrag  Changelog 2025: AI Insights, Beta Features, and API Features  erschien zuerst auf  SISTRIX ."
     },
     {
-      "id": "342003bd138f9e41b228739174cace87",
-      "title": "Your next customer might not be human: Designing journeys for people and AI agents",
-      "url": "https://searchengineland.com/your-next-customer-might-not-be-human-designing-journeys-for-people-and-ai-agents-466459",
-      "source": "Search Engine Land",
-      "published": "Fri, 19 Dec 2025 15:00:00 +0000",
-      "summary": "AI agents increasingly filter options and shape shortlists before people ever engage, shifting where visibility and influence are earned.",
-      "ai_summary": "AI agents increasingly filter options and shape shortlists before people ever engage, shifting where visibility and influence are earned."
-    },
-    {
       "id": "8bc079f06410ef2092269b04ebb926aa",
       "title": "SEO Pulse: AI Mode Hits 75M Users, Gemini 3 Flash Launches via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/seo-pulse-ai-mode-hits-75m-users-gemini-3-flash-launches/563725/",
@@ -1116,15 +1206,6 @@
       "published": "Fri, 19 Dec 2025 14:00:13 +0000",
       "summary": "This week’s SEO Pulse covers the signals that matter most as AI search moves from experimentation to core infrastructure. \n The post  SEO Pulse: AI Mode Hits 75M Users, Gemini 3 Flash Launches  appeared first on  Search Engine Journal .",
       "ai_summary": "This week’s SEO Pulse covers the signals that matter most as AI search moves from experimentation to core infrastructure. \n The post  SEO Pulse: AI Mode Hits 75M Users, Gemini 3 Flash Launches  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "8ddc5da55c9a83e652410afbc9c3038c",
-      "title": "How to use broad match without losing control",
-      "url": "https://searchengineland.com/broad-match-control-466444",
-      "source": "Search Engine Land",
-      "published": "Fri, 19 Dec 2025 14:00:00 +0000",
-      "summary": "Broad match now runs with Smart Bidding. Learn how drift happens, why it matters, and how to keep performance aligned with real intent.",
-      "ai_summary": "Broad match now runs with Smart Bidding. Learn how drift happens, why it matters, and how to keep performance aligned with real intent."
     },
     {
       "id": "5b45baabc52d3e03ad27a711009593e8",
@@ -1145,15 +1226,6 @@
       "ai_summary": "Search and social now operate as a single ecosystem where shared signals, audience insights, and unified workflows drive stronger visibility and trust. \n The post  Search & Social: How To Engineer Cross-Channel Synergy  appeared first on  Search Engine Journal ."
     },
     {
-      "id": "785d119c541409dd59fbfc790c9c709f",
-      "title": "Google vs. publishers: What the EU probe means for SEO, AI answers, and content rights",
-      "url": "https://searchengineland.com/google-vs-publishers-what-the-eu-probe-means-for-seo-ai-answers-and-content-rights-466431",
-      "source": "Search Engine Land",
-      "published": "Fri, 19 Dec 2025 13:00:00 +0000",
-      "summary": "An antitrust case puts AI Overviews, opt-outs, and zero-click visibility under scrutiny amid growing debate over content use and attribution.",
-      "ai_summary": "An antitrust case puts AI Overviews, opt-outs, and zero-click visibility under scrutiny amid growing debate over content use and attribution."
-    },
-    {
       "id": "eedef280b3d698597e88f1d1a17d8cb5",
       "title": "Sam Altman Explains OpenAI’s Bet On Profitability via @sejournal, @martinibuster",
       "url": "https://www.searchenginejournal.com/sam-altman-explains-openais-bet-on-profitability/563804/",
@@ -1161,15 +1233,6 @@
       "published": "Fri, 19 Dec 2025 12:38:30 +0000",
       "summary": "Sam Altman addresses questions about OpenAI's losses and path to profitability. \n The post  Sam Altman Explains OpenAI’s Bet On Profitability  appeared first on  Search Engine Journal .",
       "ai_summary": "Sam Altman addresses questions about OpenAI's losses and path to profitability. \n The post  Sam Altman Explains OpenAI’s Bet On Profitability  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "3de0c723245c63dd66c0823de1c21cd8",
-      "title": "From SEO to GEO: How marketing leaders stay visible in AI-driven search by Contentful",
-      "url": "https://searchengineland.com/from-seo-to-geo-how-marketing-leaders-stay-visible-in-ai-driven-search-466394",
-      "source": "Search Engine Land",
-      "published": "Fri, 19 Dec 2025 12:00:00 +0000",
-      "summary": "Here are four ways to evolve your SEO strategy and boost visibility in AI-powered search.",
-      "ai_summary": "Here are four ways to evolve your SEO strategy and boost visibility in AI-powered search."
     },
     {
       "id": "ad1753019555c7d983bd6580cb6c11c1",
@@ -1206,69 +1269,6 @@
       "published": "Fri, 19 Dec 2025 10:17:01 +0000",
       "summary": "Google's Danny Sullivan says all of their ranking systems reward content that is made for humans \n The post  Google Says Ranking Systems Reward Content Made For Humans  appeared first on  Search Engine Journal .",
       "ai_summary": "Google's Danny Sullivan says all of their ranking systems reward content that is made for humans \n The post  Google Says Ranking Systems Reward Content Made For Humans  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "64e462841fba6051ca44d2a5dea5a85e",
-      "title": "Daily Search Forum Recap: December 19, 2025",
-      "url": "https://www.seroundtable.com/recap-12-19-2025-40628.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 19 Dec 2025 10:00:00 -0500",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "ai_summary": "Here is a recap of what happened in the search forums today..."
-    },
-    {
-      "id": "9d0c86afde60b440942d9aa7e8177bf1",
-      "title": "Search News Buzz Video Recap: Google Core Update Status, Gemini 3 Flash In AI Mode, Optimizing For AI Search & Bug Fixes Galore",
-      "url": "https://www.seroundtable.com/video-12-19-2025-40625.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 19 Dec 2025 08:01:00 -0500",
-      "summary": "This week, we have a status update on the ongoing Google December 2025 core update. Google also said it does not pre-announce core updates or quality updates. Gemini 3 Flash now powers Google AI Mode. Google Search...",
-      "ai_summary": "This week, we have a status update on the ongoing Google December 2025 core update. Google also said it does not pre-announce core updates or quality updates. Gemini 3 Flash now powers Google AI Mode. Google Search..."
-    },
-    {
-      "id": "54d735fa8dbcb3e0cbae12284df34a37",
-      "title": "Google Product Reviews Bug On Product Detail Pages",
-      "url": "https://www.seroundtable.com/google-product-reviews-bug-pdp-40626.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 19 Dec 2025 07:51:00 -0500",
-      "summary": "Google reportedly has a bug that displays incorrect product reviews in Google Search for a retailer. It is now pulling from text on the page that includes the Google Business Profile reviews, despite the product reviews not being there and not being marked up on the page.",
-      "ai_summary": "Google reportedly has a bug that displays incorrect product reviews in Google Search for a retailer. It is now pulling from text on the page that includes the Google Business Profile reviews, despite the product reviews not being there and not being marked up on the page."
-    },
-    {
-      "id": "b79b456a1538a6f35f65ef625fc1a227",
-      "title": "Google Search Testing New Sports Features",
-      "url": "https://www.seroundtable.com/google-search-new-sports-features-40604.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 19 Dec 2025 07:41:00 -0500",
-      "summary": "Google is testing a number of new sports-related search features within Google Search. These include a \"What's new\" section, \"Discover more\" section, a Play-by-play section, What people are saying and more. And some of these features, when clicked, take you into AI Mode.",
-      "ai_summary": "Google is testing a number of new sports-related search features within Google Search. These include a \"What's new\" section, \"Discover more\" section, a Play-by-play section, What people are saying and more. And some of these features, when clicked, take you into AI Mode."
-    },
-    {
-      "id": "3c102c28ce275f128db4e47df3c6ebb6",
-      "title": "Google Ads Tests Video Assets From Merchant Center",
-      "url": "https://www.seroundtable.com/google-ads-videos-merchant-center-40598.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 19 Dec 2025 07:31:00 -0500",
-      "summary": "Google Ads recently added a beta to bring in videos from your social campaigns into your ad campaigns. And now, Google is testing bringing in videos in Merchant Center.",
-      "ai_summary": "Google Ads recently added a beta to bring in videos from your social campaigns into your ad campaigns. And now, Google is testing bringing in videos in Merchant Center."
-    },
-    {
-      "id": "3e374469f32026d3fda9b726aaa0a62b",
-      "title": "Google Business Profiles Verification Issue Support Form Updated",
-      "url": "https://www.seroundtable.com/google-business-profiles-verification-issue-form-updated-40563.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 19 Dec 2025 07:21:00 -0500",
-      "summary": "Google has updated the Google Business Profiles verification issues support form. This makes it easier to pick a specific issue you had when trying to verify  a business within Google Business Profiles.",
-      "ai_summary": "Google has updated the Google Business Profiles verification issues support form. This makes it easier to pick a specific issue you had when trying to verify  a business within Google Business Profiles."
-    },
-    {
-      "id": "e5c4f3e9abcb6a192fe43315db6779c0",
-      "title": "Google JavaScript Doc Now Says Non-200 HTTP Status Code Might Not Be Rendered",
-      "url": "https://www.seroundtable.com/google-render-non-200-code-40627.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 19 Dec 2025 07:11:00 -0500",
-      "summary": "Google updated its JavaScript SEO documentation for the third time this week, this time to say that \"while pages with a 200 HTTP status code are sent to rendering, this might not be the case for pages with a non-200 HTTP status code.\"",
-      "ai_summary": "Google updated its JavaScript SEO documentation for the third time this week, this time to say that \"while pages with a 200 HTTP status code are sent to rendering, this might not be the case for pages with a non-200 HTTP status code.\""
     },
     {
       "id": "451efe5b7f2f2ad30fc64a420a30886a",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-25T06:29:04.368855+00:00",
+  "generated_at": "2025-12-28T06:27:21.106573+00:00",
   "items": [
     {
       "id": "8e7a22b333c29ca1ba6b5583a9092878",
@@ -452,60 +452,6 @@
       "ai_summary": "Agency roles differ by company size, from execution-first to integrated partners. Here’s how to align structure and accountability."
     },
     {
-      "id": "f3e189b2e62f54336cd8026530085118",
-      "title": "Daily Search Forum Recap: December 23, 2025",
-      "url": "https://www.seroundtable.com/recap-12-23-2025-40646.html",
-      "source": "Search Engine Roundtable",
-      "published": "Tue, 23 Dec 2025 10:00:00 -0500",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "ai_summary": "Here is a recap of what happened in the search forums today..."
-    },
-    {
-      "id": "1e49ac93d63cfb9bc6526bb27db574fd",
-      "title": "Google Ads MCC Accounts With Channel Performance Reporting",
-      "url": "https://www.seroundtable.com/google-ads-mcc-channel-performance-report-40643.html",
-      "source": "Search Engine Roundtable",
-      "published": "Tue, 23 Dec 2025 07:51:00 -0500",
-      "summary": "Some Google Ads MCC, Manager Accounts, are seeing channel performance reporting. This does not seem to have been rolled out to all advertisers yet, but Mike Ryan noticed it was rolling out on some of his MCC accounts.",
-      "ai_summary": "Some Google Ads MCC, Manager Accounts, are seeing channel performance reporting. This does not seem to have been rolled out to all advertisers yet, but Mike Ryan noticed it was rolling out on some of his MCC accounts."
-    },
-    {
-      "id": "c9b7f5149dbae2ec441b8b305592331d",
-      "title": "Google Ads Adds Google Maps Channel For Demand Gen",
-      "url": "https://www.seroundtable.com/google-ads-demand-gen-maps-channel-40640.html",
-      "source": "Search Engine Roundtable",
-      "published": "Tue, 23 Dec 2025 07:41:00 -0500",
-      "summary": "Google Ads added a new channel control for Demand Gen to show ads in Google Maps. Some advertisers see the ability to select Maps as a placement in Demand Gen.",
-      "ai_summary": "Google Ads added a new channel control for Demand Gen to show ads in Google Maps. Some advertisers see the ability to select Maps as a placement in Demand Gen."
-    },
-    {
-      "id": "75b944670895f3d1769d5c8f268dee5b",
-      "title": "Google Search Traffic To News Publishers Drops From 51% To 27%",
-      "url": "https://www.seroundtable.com/google-search-traffic-drops-news-publishers-40645.html",
-      "source": "Search Engine Roundtable",
-      "published": "Tue, 23 Dec 2025 07:31:00 -0500",
-      "summary": "Google Search has been sending 25 percentage points less traffic to news publishers over the past two years, according to the folks over at Newzdash. In 2023, Google Web Search made up over 51% of traffic from Google surfaces to news publishers; that number is now down to 27%.",
-      "ai_summary": "Google Search has been sending 25 percentage points less traffic to news publishers over the past two years, according to the folks over at Newzdash. In 2023, Google Web Search made up over 51% of traffic from Google surfaces to news publishers; that number is now down to 27%."
-    },
-    {
-      "id": "707a8ee40b33ca401aa8647675302f13",
-      "title": "Google Search Bar Tests Teases For AI Mode With Animation In Box",
-      "url": "https://www.seroundtable.com/google-search-bar-prefilled-40644.html",
-      "source": "Search Engine Roundtable",
-      "published": "Tue, 23 Dec 2025 07:21:00 -0500",
-      "summary": "Google is testing prefilling the search bar in a new Chrome tab, with teasers to encourage you to search deeper with AI Mode. Google is putting in the search box, \"Research a topic,\" \"Write something new,\" \"Ask Google,\" and \"Make a plan.\"",
-      "ai_summary": "Google is testing prefilling the search bar in a new Chrome tab, with teasers to encourage you to search deeper with AI Mode. Google is putting in the search box, \"Research a topic,\" \"Write something new,\" \"Ask Google,\" and \"Make a plan.\""
-    },
-    {
-      "id": "752b7b2af5d4b1448efa6015ac306bfe",
-      "title": "Google Discover Notifications That Go AI Mode Responses",
-      "url": "https://www.seroundtable.com/google-discover-notifications-to-ai-mode-40618.html",
-      "source": "Search Engine Roundtable",
-      "published": "Tue, 23 Dec 2025 07:11:00 -0500",
-      "summary": "Have you seen those Google Discover notifications that pop up and seem like news notifications from the Google app but what they do is drive you into Google AI Mode. I find them incredibly annoying, because every time I click on it, I think I am going to a news article but instead, I am given an AI-generated AI Mode answer.",
-      "ai_summary": "Have you seen those Google Discover notifications that pop up and seem like news notifications from the Google app but what they do is drive you into Google AI Mode. I find them incredibly annoying, because every time I click on it, I think I am going to a news article but instead, I am given an AI-generated AI Mode answer."
-    },
-    {
       "id": "ee1d0db1e47e977e43bdd5b2216543ad",
       "title": "NEW: AI Tool & Social Network Usage Graphs are in SparkToro",
       "url": "https://sparktoro.com/blog/new-ai-tool-social-network-usage-graphs-are-in-sparktoro/",
@@ -641,6 +587,15 @@
       "ai_summary": "You know that I love talking about vector search. I've had good success optimizing for vector search. Often though, that success does not last. I think I've realized why, and if this thought is true, it may turn out that doing a great job at optimizing for vector search could possibly do more harm than […] \n The post  Could optimizing for vector search do more harm than good?  appeared first on  Marie Haynes ."
     },
     {
+      "id": "10a1889d6eb0c7a1a7e81065c7349556",
+      "title": "Google's John Mueller Working On Christmas (2025 Edition)",
+      "url": "https://www.seroundtable.com/google-john-mueller-working-on-christmas-40659.html",
+      "source": "Search Engine Roundtable",
+      "published": "Thu, 25 Dec 2025 07:40:00 -0500",
+      "summary": "Every year, for the past 18 or so years, Google's John Mueller has been working on Christmas to provide support to those who need help with their Google Search ranking and SEO concerns.  This year is no different; John Mueller has responded to several concerns on Reddit and other social media platforms today.",
+      "ai_summary": "Every year, for the past 18 or so years, Google's John Mueller has been working on Christmas to provide support to those who need help with their Google Search ranking and SEO concerns.  This year is no different; John Mueller has responded to several concerns on Reddit and other social media platforms today."
+    },
+    {
       "id": "ba74d11ad07ff20bb5169d67d755ad86",
       "title": "20 SEO Experts Offer Their Advice For 2026 via @sejournal, @theshelleywalsh",
       "url": "https://www.searchenginejournal.com/seo-experts-predictions/503049/",
@@ -684,15 +639,6 @@
       "published": "Thu, 18 Dec 2025 15:47:00 +0000",
       "summary": "Use social listening to analyze online conversations and get valuable insights to improve your strategy.",
       "ai_summary": "Use social listening to analyze online conversations and get valuable insights to improve your strategy."
-    },
-    {
-      "id": "13f34a6f149089c162b27dac72d2417e",
-      "title": "Who Benefits When The Line Between SEO And GEO Is Blurred via @sejournal, @DuaneForrester",
-      "url": "https://www.searchenginejournal.com/who-benefits-when-the-line-between-seo-and-geo-is-blurred/563231/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 18 Dec 2025 14:30:10 +0000",
-      "summary": "SEO still matters, but Duane Forrester explains how answer-driven systems change the work, the metrics, and the path to influence. \n The post  Who Benefits When The Line Between SEO And GEO Is Blurred  appeared first on  Search Engine Journal .",
-      "ai_summary": "SEO still matters, but Duane Forrester explains how answer-driven systems change the work, the metrics, and the path to influence. \n The post  Who Benefits When The Line Between SEO And GEO Is Blurred  appeared first on  Search Engine Journal ."
     },
     {
       "id": "74a108a4e7b90ae66d856102a24473c3",
@@ -965,24 +911,6 @@
       "ai_summary": "Vulnerability in Redirection For Contact Form 7 WordPress Plugin affects up to 300,000 installations \n The post  Redirection For Contact Form 7 WordPress Plugin Vulnerability  appeared first on  Search Engine Journal ."
     },
     {
-      "id": "0c0bb34f8491b9193679c7d62f36c830",
-      "title": "Daily Search Forum Recap: December 22, 2025",
-      "url": "https://www.seroundtable.com/recap-12-22-2025-40641.html",
-      "source": "Search Engine Roundtable",
-      "published": "Mon, 22 Dec 2025 10:00:00 -0500",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nWe had big Google search ranking volatility over the weekend, likely from the end of the December core update...",
-      "ai_summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nWe had big Google search ranking volatility over the weekend, likely from the end of the December core update..."
-    },
-    {
-      "id": "f6ff3dd53f657f9322c7a6603113ebbc",
-      "title": "Google Tests Learn More Links After Ad Text",
-      "url": "https://www.seroundtable.com/google-ads-learn-more-40636.html",
-      "source": "Search Engine Roundtable",
-      "published": "Mon, 22 Dec 2025 07:51:00 -0500",
-      "summary": "Google is testing appending \"learn more\" links to the end of the Google search ads text.  So the Google Ad will have its normal ad description and at the end, Google is testing adding \"Learn more\" with an arrow to the right, in blue anchor underlined text.",
-      "ai_summary": "Google is testing appending \"learn more\" links to the end of the Google search ads text.  So the Google Ad will have its normal ad description and at the end, Google is testing adding \"Learn more\" with an arrow to the right, in blue anchor underlined text."
-    },
-    {
       "id": "a0c4a82467db041d61d457cda33e8306",
       "title": "How to tell if you were impacted by the August 2025 spam update (and what to do about it)",
       "url": "https://www.mariehaynes.com/august-2025-spam-update/",
@@ -1152,6 +1080,78 @@
       "published": "Fri, 28 Mar 2025 10:00:00 +0000",
       "summary": "In the previous posts about the Robots Exclusion Protocol (REP) we explored what's already\n        possible to do with its various components — namely robots.txt and the URI level controls.\n        In this post we will explore how the REP can play a supporting role in the ever-evolving relation\n        between automatic clients and the human web.",
       "ai_summary": "In the previous posts about the Robots Exclusion Protocol (REP) we explored what's already\n        possible to do with its various components — namely robots.txt and the URI level controls.\n        In this post we will explore how the REP can play a supporting role in the ever-evolving relation\n        between automatic clients and the human web."
+    },
+    {
+      "id": "f1efc08b390b818664b03f0568d1b8e0",
+      "title": "The 7 Best Landing Page Builders For 2026 via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/the-7-best-landing-page-builders-for-2026/561935/",
+      "source": "Search Engine Journal",
+      "published": "Fri, 26 Dec 2025 13:00:39 +0000",
+      "summary": "When conversions matter, these landing page builders give you the flexibility and optimization features to capture more customers. \n The post  The 7 Best Landing Page Builders For 2026  appeared first on  Search Engine Journal .",
+      "ai_summary": "When conversions matter, these landing page builders give you the flexibility and optimization features to capture more customers. \n The post  The 7 Best Landing Page Builders For 2026  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "04f4384cc97d6f8f67840849cd9ac937",
+      "title": "Daily Search Forum Recap: December 26, 2025",
+      "url": "https://www.seroundtable.com/recap-12-26-2025-40662.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 26 Dec 2025 10:00:00 -0500",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "ai_summary": "Here is a recap of what happened in the search forums today..."
+    },
+    {
+      "id": "83b65adfdea1fbf11a92445e8541fd75",
+      "title": "Search News Buzz Video Recap: Google Core Update Status, News Publishers Traffic Distribution, Ads In AI Overviews Expand, ChatGPT Ads & Christmas",
+      "url": "https://www.seroundtable.com/video-12-26-2025-40661.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 26 Dec 2025 08:01:00 -0500",
+      "summary": "This week in search, we covered an update on the Google December 2025 core update. Google Search traffic to news publishers continues to vanish, but there is Google Discover. A report shows Google has deleted a ton...",
+      "ai_summary": "This week in search, we covered an update on the Google December 2025 core update. Google Search traffic to news publishers continues to vanish, but there is Google Discover. A report shows Google has deleted a ton..."
+    },
+    {
+      "id": "6ab99d3814a5ddacb855a0d618ab35f9",
+      "title": "ChatGPT Ads May Prioritize Sponsored Content In AI Responses",
+      "url": "https://www.seroundtable.com/openai-chatgpt-ads-sponsored-content-40657.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 26 Dec 2025 07:51:00 -0500",
+      "summary": "A report from The Information outlined a number of avenues OpenAI is looking at for ad formats in ChatGPT.  The main one that is reportedly being thrown around at the AI company is to show sponsored content within the AI responses given by ChatGPT.",
+      "ai_summary": "A report from The Information outlined a number of avenues OpenAI is looking at for ad formats in ChatGPT.  The main one that is reportedly being thrown around at the AI company is to show sponsored content within the AI responses given by ChatGPT."
+    },
+    {
+      "id": "f2e526da9cb197099e0cbb394b3301d8",
+      "title": "Google: #1 Google Ads Launches Of 2025",
+      "url": "https://www.seroundtable.com/best-google-ads-launches-2025-40658.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 26 Dec 2025 07:41:00 -0500",
+      "summary": "Google has been publishing these videos from advertisers on the number one Google Ads launches of the year 2025. Bug Ginny Marvin, the Google Ads Liaison, was asked and she picked PMax channel performance reporting as her number one feature release for Google Ads in 2025.",
+      "ai_summary": "Google has been publishing these videos from advertisers on the number one Google Ads launches of the year 2025. Bug Ginny Marvin, the Google Ads Liaison, was asked and she picked PMax channel performance reporting as her number one feature release for Google Ads in 2025."
+    },
+    {
+      "id": "7998d1e7b588159abe2e827cf5637afb",
+      "title": "Google Continues Centering Search Results Test",
+      "url": "https://www.seroundtable.com/google-centering-search-results-40655.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 26 Dec 2025 07:31:00 -0500",
+      "summary": "Google is testing placing the search results in the center of the screen, instead of aligning it more to the left of the screen. This is an ongoing test we have seen on and off over many many years and it is still going on.",
+      "ai_summary": "Google is testing placing the search results in the center of the screen, instead of aligning it more to the left of the screen. This is an ongoing test we have seen on and off over many many years and it is still going on."
+    },
+    {
+      "id": "6a1e5af876901b6c30bbcb133a46ad0a",
+      "title": "Google: Pick A Reasonable Site Name To Rank For In Search",
+      "url": "https://www.seroundtable.com/google-reasonable-site-name-seo-rank-40660.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 26 Dec 2025 07:21:00 -0500",
+      "summary": "Google's John Mueller said on Reddit that when picking a site name, make sure to pick something that you can reasonably expect to rank for.  In short, don't go online and complain that your site is named Best SEO blog and you don't rank in the number one position in Google Search for [best SEO blog].",
+      "ai_summary": "Google's John Mueller said on Reddit that when picking a site name, make sure to pick something that you can reasonably expect to rank for.  In short, don't go online and complain that your site is named Best SEO blog and you don't rank in the number one position in Google Search for [best SEO blog]."
+    },
+    {
+      "id": "d4eaf1bbbac28f3e202bc2a9668e3dd9",
+      "title": "Microsoft Advertiser: Exact Match Trumps Ad Rank On AI Surfaces & More",
+      "url": "https://www.seroundtable.com/microsoft-advertiser-exact-match-trumps-ad-rank-40630.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 26 Dec 2025 07:11:00 -0500",
+      "summary": "Navah Hopkins, the Ads Liaison for Microsoft Advertising, made it crystal clear that exact match is prioritized even over Ad Rank. Navah Hopkins wrote on X and LinkedIn, \"Exact match will get the priority if it's there, otherwise Ad Rank determines everything.\"",
+      "ai_summary": "Navah Hopkins, the Ads Liaison for Microsoft Advertising, made it crystal clear that exact match is prioritized even over Ad Rank. Navah Hopkins wrote on X and LinkedIn, \"Exact match will get the priority if it's there, otherwise Ad Rank determines everything.\""
     },
     {
       "id": "ecb98c6fd68f90875494409261acd96d",

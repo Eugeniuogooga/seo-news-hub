@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T06:37:50.189457+00:00",
+  "generated_at": "2026-02-10T07:00:21.465408+00:00",
   "items": [
     {
       "id": "8e7a22b333c29ca1ba6b5583a9092878",
@@ -218,15 +218,6 @@
       "ai_summary": "Google Search Advocate John Mueller is pushing back on the idea of serving Markdown files to LLM crawlers. \n The post  Google’s Mueller Calls Markdown-For-Bots Idea ‘A Stupid Idea’  appeared first on  Search Engine Journal ."
     },
     {
-      "id": "b1c8b6ce8ae234f160049bad56c4573d",
-      "title": "Google AI Overviews Bug Removes Links & Citations",
-      "url": "https://www.seroundtable.com/google-ai-overviews-bug-no-links-40885.html",
-      "source": "Search Engine Roundtable",
-      "published": "Wed, 04 Feb 2026 16:39:11 -0500",
-      "summary": "Google confirmed there is a bug with AI Overviews not showing links for some responses.  The bug was spotted by Lily Ray, who posted some examples several hours ago.  Rajan Patel, Google's VP, Engineering for Search, replied saying it is a bug and Google is working on fixing it.",
-      "ai_summary": "Google confirmed there is a bug with AI Overviews not showing links for some responses.  The bug was spotted by Lily Ray, who posted some examples several hours ago.  Rajan Patel, Google's VP, Engineering for Search, replied saying it is a bug and Google is working on fixing it."
-    },
-    {
       "id": "a6941e8669fa5d39ba166d615a292711",
       "title": "Update: AI Overviews Reduce Clicks by 58%",
       "url": "https://ahrefs.com/blog/ai-overviews-reduce-clicks-update/",
@@ -234,33 +225,6 @@
       "published": "Wed, 04 Feb 2026 15:33:15 +0000",
       "summary": "Since then, AI Overviews have rolled out to more countries and more languages, and many websites have continued to see the clicks from organic search decline month-over-month. Today, it seems likely that the impact of AI Overviews has worsened. As … Read more ›",
       "ai_summary": "Since then, AI Overviews have rolled out to more countries and more languages, and many websites have continued to see the clicks from organic search decline month-over-month. Today, it seems likely that the impact of AI Overviews has worsened. As … Read more ›"
-    },
-    {
-      "id": "86d551e0cefe6707ea3505460cedcddb",
-      "title": "The Real SEO Skill No One Teaches: Problem Deduction via @sejournal, @billhunt",
-      "url": "https://www.searchenginejournal.com/the-real-seo-skill-no-one-teaches-problem-deduction/566071/",
-      "source": "Search Engine Journal",
-      "published": "Wed, 04 Feb 2026 14:30:10 +0000",
-      "summary": "Bill Hunt shows how disciplined reasoning transforms SEO escalations into resolvable system behaviors rather than endless debates. \n The post  The Real SEO Skill No One Teaches: Problem Deduction  appeared first on  Search Engine Journal .",
-      "ai_summary": "Bill Hunt shows how disciplined reasoning transforms SEO escalations into resolvable system behaviors rather than endless debates. \n The post  The Real SEO Skill No One Teaches: Problem Deduction  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "18035f17fcabf3a5e12248ee2a9f01bf",
-      "title": "Information Retrieval Part 2: How To Get Into Model Training Data",
-      "url": "https://www.searchenginejournal.com/information-retrieval-part-2-how-to-get-into-model-training-data/566371/",
-      "source": "Search Engine Journal",
-      "published": "Wed, 04 Feb 2026 14:00:35 +0000",
-      "summary": "Navigate the complexities of information retrieval and find out how to get into model training data for AI success. \n The post  Information Retrieval Part 2: How To Get Into Model Training Data  appeared first on  Search Engine Journal .",
-      "ai_summary": "Navigate the complexities of information retrieval and find out how to get into model training data for AI success. \n The post  Information Retrieval Part 2: How To Get Into Model Training Data  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "a158ad52d02721e85fd0cb0334385dad",
-      "title": "The PPC Skills That Won’t Be Replaced By Automation",
-      "url": "https://www.searchenginejournal.com/the-ppc-skills-that-wont-be-replaced-by-automation/564175/",
-      "source": "Search Engine Journal",
-      "published": "Wed, 04 Feb 2026 13:00:39 +0000",
-      "summary": "Top PPC specialists create outsized impact by combining paid media expertise with business strategy, profit modeling, and cross-channel insight. \n The post  The PPC Skills That Won’t Be Replaced By Automation  appeared first on  Search Engine Journal .",
-      "ai_summary": "Top PPC specialists create outsized impact by combining paid media expertise with business strategy, profit modeling, and cross-channel insight. \n The post  The PPC Skills That Won’t Be Replaced By Automation  appeared first on  Search Engine Journal ."
     },
     {
       "id": "4a3d99eb6600f9eb4b870afcf8536158",
@@ -297,15 +261,6 @@
       "published": "Wed, 04 Feb 2026 10:10:00 +0000",
       "summary": "Learn 7 AI SEO techniques to earn visibility in LLMs + how to track it.",
       "ai_summary": "Learn 7 AI SEO techniques to earn visibility in LLMs + how to track it."
-    },
-    {
-      "id": "962cdc91a10fc6b638773fbd35adf426",
-      "title": "Using AI For SEO Can Fail Without Real Data (& How Ahrefs Fixes It) via @sejournal, @ahrefs",
-      "url": "https://www.searchenginejournal.com/ai-for-seo-fails-without-data-ahrefs-spa/566077/",
-      "source": "Search Engine Journal",
-      "published": "Wed, 04 Feb 2026 06:00:14 +0000",
-      "summary": "This post was sponsored by Ahrefs. The opinions expressed in this article are the sponsor’s own. If you’ve ever run into the limits of solo AI or manual SEO tools, this article is for you. AI on its own can write and suggest ideas, but without reliable data to anchor those suggestions, it can miss the mark. On the other hand, traditional SEO dashboards are powerful – yet slow and siloed. The emerging sweet spot? Connecting AI to real, live SEO data so you can ask natural language questions and get deep answers fast. Ahrefs Uses Its Own MCP Server […] \n The post  Using AI For SEO Can Fail Without Real Data (& How Ahrefs Fixes It)  appeared first on  Search Engine Journal .",
-      "ai_summary": "This post was sponsored by Ahrefs. The opinions expressed in this article are the sponsor’s own. If you’ve ever run into the limits of solo AI or manual SEO tools, this article is for you. AI on its own can write and suggest ideas, but without reliable data to anchor those suggestions, it can miss the mark. On the other hand, traditional SEO dashboards are powerful – yet slow and siloed. The emerging sweet spot? Connecting AI to real, live SEO data so you can ask natural language questions and get deep answers fast. Ahrefs Uses Its Own MCP Server […] \n The post  Using AI For SEO Can Fail Without Real Data (& How Ahrefs Fixes It)  appeared first on  Search Engine Journal ."
     },
     {
       "id": "55c0f080435f8f76a83fc14eead2af9b",
@@ -441,24 +396,6 @@
       "published": "Tue, 07 Sep 2021 00:00:00 -0700",
       "summary": "These tips will help you optimize your responsive search ads in your Google Ads search campaigns, and increase clicks and conversions.",
       "ai_summary": "These tips will help you optimize your responsive search ads in your Google Ads search campaigns, and increase clicks and conversions."
-    },
-    {
-      "id": "f741d1b02922d56afb3302f645ab5f78",
-      "title": "Google’s Crawl Team Filed Bugs Against WordPress Plugins via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/googles-crawl-team-filed-bugs-against-wordpress-plugins/566491/",
-      "source": "Search Engine Journal",
-      "published": "Tue, 03 Feb 2026 20:53:25 +0000",
-      "summary": "Google's crawl team filed a bug against WooCommerce for add-to-cart parameters wasting crawl budget. WooCommerce fixed it. Other plugins haven't.  \n The post  Google’s Crawl Team Filed Bugs Against WordPress Plugins  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google's crawl team filed a bug against WooCommerce for add-to-cart parameters wasting crawl budget. WooCommerce fixed it. Other plugins haven't.  \n The post  Google’s Crawl Team Filed Bugs Against WordPress Plugins  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "7b8865168338d55d7c34169eee7a9c06",
-      "title": "Google Updates Googlebot File Size Limit Docs via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-updates-googlebot-file-size-limit-docs/566485/",
-      "source": "Search Engine Journal",
-      "published": "Tue, 03 Feb 2026 19:40:38 +0000",
-      "summary": "Google updated its Googlebot documentation to clarify file size limits, separating default limits that apply to all crawlers from Googlebot-specific details. \n The post  Google Updates Googlebot File Size Limit Docs  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google updated its Googlebot documentation to clarify file size limits, separating default limits that apply to all crawlers from Googlebot-specific details. \n The post  Google Updates Googlebot File Size Limit Docs  appeared first on  Search Engine Journal ."
     },
     {
       "id": "0891b938b51c2f30b280acd1e316c5e3",
@@ -723,57 +660,12 @@
     },
     {
       "id": "b676e831e2b83ab57a8f306245b69d15",
-      "title": "Why Off-Page SEO Still Shapes Visibility In 2026 [Webinar] via @sejournal, @hethr_campbell",
+      "title": "Why Off-Page SEO Still Shapes Visibility In 2026 [Webinar] via @sejournal, @lorenbaker",
       "url": "https://www.searchenginejournal.com/why-off-page-seo-still-shapes-visibility/565916/",
       "source": "Search Engine Journal",
       "published": "Thu, 05 Feb 2026 08:45:51 +0000",
       "summary": "Explore off-page SEO strategies to boost your rankings and enhance brand visibility in AI-driven search results. \n The post  Why Off-Page SEO Still Shapes Visibility In 2026 [Webinar]  appeared first on  Search Engine Journal .",
       "ai_summary": "Explore off-page SEO strategies to boost your rankings and enhance brand visibility in AI-driven search results. \n The post  Why Off-Page SEO Still Shapes Visibility In 2026 [Webinar]  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "8da77fd67e340805bbd800fbb5b8a64f",
-      "title": "Google Ads Multi-Party Approval Aims To Stop Hijacking Ads Accounts",
-      "url": "https://www.seroundtable.com/google-ads-multi-party-approval-40882.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 05 Feb 2026 07:51:00 -0500",
-      "summary": "Google has launched what it calls Multi-party approval for Google Ads. \"Multi-party approval (MPA) is a security feature for Google Ads designed to protect your account from unauthorized activity by requiring a second account administrator to verify high-risk changes,\" Google wrote.",
-      "ai_summary": "Google has launched what it calls Multi-party approval for Google Ads. \"Multi-party approval (MPA) is a security feature for Google Ads designed to protect your account from unauthorized activity by requiring a second account administrator to verify high-risk changes,\" Google wrote."
-    },
-    {
-      "id": "8f92046fc8a0f4d0d242824db65edc83",
-      "title": "Google Local Hotel Photos \"Good To Know\" AI Labels",
-      "url": "https://www.seroundtable.com/google-hotel-photos-good-to-know-40855.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 05 Feb 2026 07:41:00 -0500",
-      "summary": "Google is testing labeling some photos in the local hotel listings with \"Good to Know\" AI-generated descriptions of some of those photos.   These labels seem to summarize what the photo and reviews say about the specific area of that hotel.",
-      "ai_summary": "Google is testing labeling some photos in the local hotel listings with \"Good to Know\" AI-generated descriptions of some of those photos.   These labels seem to summarize what the photo and reviews say about the specific area of that hotel."
-    },
-    {
-      "id": "f8dfd3aa997535defe790ee86813d203",
-      "title": "Google AdSense Reports Gain Browser, Hosting App & Operating System",
-      "url": "https://www.seroundtable.com/google-adsense-reporting-browser-hosting-app-operating-system-breakdown-40880.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 05 Feb 2026 07:31:00 -0500",
-      "summary": "Google AdSense seems to be rolling out new metrics for the AdSense reports in the console.  These include Browser breakdown, Hosting App breakdown and Operating system breakdown metrics.",
-      "ai_summary": "Google AdSense seems to be rolling out new metrics for the AdSense reports in the console.  These include Browser breakdown, Hosting App breakdown and Operating system breakdown metrics."
-    },
-    {
-      "id": "b2444afb9e9b9ac63c6afce44658c7fe",
-      "title": "Google Personal Intelligence Small App Icons In Responses",
-      "url": "https://www.seroundtable.com/google-personal-intelligence-app-icons-40843.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 05 Feb 2026 07:21:00 -0500",
-      "summary": "Did you know that when Google AI Mode uses Personal Intelligence, Google will add icons of the various connected Google apps used to tailor your message. So you might see a Gmail icon, or Google Photos icon or Search or something else show up as a citation or source near the responses.",
-      "ai_summary": "Did you know that when Google AI Mode uses Personal Intelligence, Google will add icons of the various connected Google apps used to tailor your message. So you might see a Gmail icon, or Google Photos icon or Search or something else show up as a citation or source near the responses."
-    },
-    {
-      "id": "56d096e5863f22bb3035a3d8127e4622",
-      "title": "Microsoft Advertising Tests Magazine Answer Card Ad Format",
-      "url": "https://www.seroundtable.com/microsoft-ads-magazine-answer-card-format-40874.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 05 Feb 2026 07:11:00 -0500",
-      "summary": "Microsoft Advertising is testing a new ad format within its newish Answer Card format called a magazine layout. These load ads in the card formats you see at the top of some of the Bing search results.",
-      "ai_summary": "Microsoft Advertising is testing a new ad format within its newish Answer Card format called a magazine layout. These load ads in the card formats you see at the top of some of the Bing search results."
     },
     {
       "id": "2b923cae62282ec47c05bab02d5adbf7",
@@ -990,6 +882,114 @@
       "published": "Mon, 13 Oct 2025 16:55:23 +0000",
       "summary": "Last week Google launched Gemini Enterprise and although I see very few people talking about it, I think this tool will likely be used by most businesses. There are two features that make it extremely useful: 1) You can use Gemini across your Google Docs, Calendar and Gmail. 2) You can create Agents that your […] \n The post  A first look at Gemini Enterprise / Gemini for Business: A review  appeared first on  Marie Haynes .",
       "ai_summary": "Last week Google launched Gemini Enterprise and although I see very few people talking about it, I think this tool will likely be used by most businesses. There are two features that make it extremely useful: 1) You can use Gemini across your Google Docs, Calendar and Gmail. 2) You can create Agents that your […] \n The post  A first look at Gemini Enterprise / Gemini for Business: A review  appeared first on  Marie Haynes ."
+    },
+    {
+      "id": "bc3af7aba61702fef15e5eb9208077f8",
+      "title": "Bing Webmaster Tools Adds AI Citation Performance Data via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/bing-webmaster-tools-adds-ai-citation-performance-data/566874/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 09 Feb 2026 23:40:25 +0000",
+      "summary": "Bing Webmaster Tools now shows publishers how often their content is cited in Copilot and AI-generated answers, with page-level data and grounding queries. \n The post  Bing Webmaster Tools Adds AI Citation Performance Data  appeared first on  Search Engine Journal .",
+      "ai_summary": "Bing Webmaster Tools now shows publishers how often their content is cited in Copilot and AI-generated answers, with page-level data and grounding queries. \n The post  Bing Webmaster Tools Adds AI Citation Performance Data  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "d3e5b889a390f7e841bfc70e9104a306",
+      "title": "OpenAI Begins Testing Ads In ChatGPT For Free And Go Users via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/openai-begins-testing-ads-in-chatgpt-for-free-and-go-users/566869/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 09 Feb 2026 21:36:24 +0000",
+      "summary": "OpenAI is testing ads in ChatGPT for free and Go tiers in the U.S. Ads appear below responses, labeled as sponsored. Paid tiers remain ad-free.  \n The post  OpenAI Begins Testing Ads In ChatGPT For Free And Go Users  appeared first on  Search Engine Journal .",
+      "ai_summary": "OpenAI is testing ads in ChatGPT for free and Go tiers in the U.S. Ads appear below responses, labeled as sponsored. Paid tiers remain ad-free.  \n The post  OpenAI Begins Testing Ads In ChatGPT For Free And Go Users  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "b4b417f740d656c289f028f23f6749b1",
+      "title": "Why Your SEO KPIs Are Failing Your Business (And How To Fix Them) via @sejournal, @bngsrc",
+      "url": "https://www.searchenginejournal.com/why-your-seo-kpis-are-failing-your-business-and-how-to-fix-them/564769/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 09 Feb 2026 13:00:52 +0000",
+      "summary": "Break the habit of reporting easy metrics and adopt KPIs that reflect how growth actually happens today. \n The post  Why Your SEO KPIs Are Failing Your Business (And How To Fix Them)  appeared first on  Search Engine Journal .",
+      "ai_summary": "Break the habit of reporting easy metrics and adopt KPIs that reflect how growth actually happens today. \n The post  Why Your SEO KPIs Are Failing Your Business (And How To Fix Them)  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "fe59ca97caedd2282bf0d28351a28bd2",
+      "title": "PPC Budget Rebalancing: How AI Changes Where Marketing Budgets Are Spent via @sejournal, @LisaRocksSEM",
+      "url": "https://www.searchenginejournal.com/ppc-budget-rebalancing-how-ai-changes-where-marketing-budgets-are-spent/561884/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 09 Feb 2026 12:00:41 +0000",
+      "summary": "An AI-aligned approach to PPC budget strategy that moves spend toward conversion probability instead of traditional channel-based planning. \n The post  PPC Budget Rebalancing: How AI Changes Where Marketing Budgets Are Spent  appeared first on  Search Engine Journal .",
+      "ai_summary": "An AI-aligned approach to PPC budget strategy that moves spend toward conversion probability instead of traditional channel-based planning. \n The post  PPC Budget Rebalancing: How AI Changes Where Marketing Budgets Are Spent  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "1b5addacd6d94652533980dce5a8c36a",
+      "title": "Daily Search Forum Recap: February 9, 2026",
+      "url": "https://www.seroundtable.com/recap-02-09-2026-40898.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 09 Feb 2026 10:00:00 -0500",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "ai_summary": "Here is a recap of what happened in the search forums today..."
+    },
+    {
+      "id": "7e3fec6769fbeadcbf55ce002fe9c091",
+      "title": "7 Insights From Washington Post’s Strategy To Win Back Traffic via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/7-insights-from-washington-posts-strategy-to-win-back-traffic/566758/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 09 Feb 2026 09:54:51 +0000",
+      "summary": "The Washington Post's controversial strategy begins with a foundation, then adjusts based on what works. \n The post  7 Insights From Washington Post’s Strategy To Win Back Traffic  appeared first on  Search Engine Journal .",
+      "ai_summary": "The Washington Post's controversial strategy begins with a foundation, then adjusts based on what works. \n The post  7 Insights From Washington Post’s Strategy To Win Back Traffic  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "b58c2429aaf596777d527b2647c86129",
+      "title": "Google On If A Younger Web Site Can Beat An Older Website In Search",
+      "url": "https://www.seroundtable.com/old-young-website-seo-40899.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 09 Feb 2026 07:51:00 -0500",
+      "summary": "A thread at Reddit asked if a one-year-old website can beat a four-year-old website in SEO and perform better in Google Search. John Mueller from Google answered with his classic \"it depends.\"",
+      "ai_summary": "A thread at Reddit asked if a one-year-old website can beat a four-year-old website in SEO and perform better in Google Search. John Mueller from Google answered with his classic \"it depends.\""
+    },
+    {
+      "id": "ed520cb6ec50c1578c0d0f8e582ad985",
+      "title": "Google AI Overviews Tests Contextual Overlay Link Cards",
+      "url": "https://www.seroundtable.com/google-ai-overviews-contextual-overlay-link-cards-40892.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 09 Feb 2026 07:41:00 -0500",
+      "summary": "Over the past week or so, Google has been testing a new format for link cards in the AI Overviews within Google Search. When you place your mouse cursor over a link clip icon, a new overlay will show you the page/site cards that line of text is being sourced from.",
+      "ai_summary": "Over the past week or so, Google has been testing a new format for link cards in the AI Overviews within Google Search. When you place your mouse cursor over a link clip icon, a new overlay will show you the page/site cards that line of text is being sourced from."
+    },
+    {
+      "id": "d10ea843a1c76799bc9b719d4428f5bf",
+      "title": "Google Preferred Sources Deeplink Button Is Broken",
+      "url": "https://www.seroundtable.com/google-preferred-sources-deeplink-button-broken-40894.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 09 Feb 2026 07:31:00 -0500",
+      "summary": "The Google preferred sources deeplink button feature is broken and has been since at least last Wednesday. When you click on a button to make a site a preferred source, such as for this site, it does not pre-fill in the site's URL in the box, as it should. You can retype it in the box but it does not pre-fill it for you.",
+      "ai_summary": "The Google preferred sources deeplink button feature is broken and has been since at least last Wednesday. When you click on a button to make a site a preferred source, such as for this site, it does not pre-fill in the site's URL in the box, as it should. You can retype it in the box but it does not pre-fill it for you."
+    },
+    {
+      "id": "29c20365dc0ff67e022cb49d8cd7641d",
+      "title": "Google Ads API Developer Token Access Applications Delayed",
+      "url": "https://www.seroundtable.com/google-ads-api-developer-token-access-applications-delayed-40896.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 09 Feb 2026 07:21:00 -0500",
+      "summary": "Google announced on Friday that there is a delay with the Google Ads team reviewing and thus approving developer token access applications.  This is because Google is \"seeing significant interest in the developer community for Google Ads API access, and are receiving an increase in developer token access applications,\" the company said.",
+      "ai_summary": "Google announced on Friday that there is a delay with the Google Ads team reviewing and thus approving developer token access applications.  This is because Google is \"seeing significant interest in the developer community for Google Ads API access, and are receiving an increase in developer token access applications,\" the company said."
+    },
+    {
+      "id": "163ba8a386b9ad8489a732e0aa27d218",
+      "title": "Reddit On Google & ChatGPT AI Responses Citations & Lack Of Links",
+      "url": "https://www.seroundtable.com/reddit-on-google-chatgpt-ai-citations-40897.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 09 Feb 2026 07:11:00 -0500",
+      "summary": "On the Reddit Q4 2025 Earnings Call (see transcript here), Steve Huffman, the CEO of Reddit, was asked about how he feels about how Google and OpenAI link or use citations to link to Reddit's content.  Overall, Steve made it sound like the interfaces are adapting quickly and he is hopeful they will drive traffic to the conversation (within Reddit) in the future.",
+      "ai_summary": "On the Reddit Q4 2025 Earnings Call (see transcript here), Steve Huffman, the CEO of Reddit, was asked about how he feels about how Google and OpenAI link or use citations to link to Reddit's content.  Overall, Steve made it sound like the interfaces are adapting quickly and he is hopeful they will drive traffic to the conversation (within Reddit) in the future."
+    },
+    {
+      "id": "42e95e12f7ac4c07b42cb366560ba1ff",
+      "title": "4 Reasons Your Google Ads Clicks Are Down & What You Can Do via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/click-volume-decrease-solution/459726/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 09 Feb 2026 03:00:59 +0000",
+      "summary": "Stop guessing when clicks fall and use a structured process to get Google Ads performance back on track. \n The post  4 Reasons Your Google Ads Clicks Are Down & What You Can Do  appeared first on  Search Engine Journal .",
+      "ai_summary": "Stop guessing when clicks fall and use a structured process to get Google Ads performance back on track. \n The post  4 Reasons Your Google Ads Clicks Are Down & What You Can Do  appeared first on  Search Engine Journal ."
     },
     {
       "id": "43ec1e76e80c58f32304cf9e69b2eedf",

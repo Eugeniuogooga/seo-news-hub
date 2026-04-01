@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T07:08:51.663149+00:00",
+  "generated_at": "2026-04-01T07:16:07.413786+00:00",
   "items": [
     {
       "id": "ef9d27edf925c905d6cc4fdccfa5925e",
@@ -27,15 +27,6 @@
       "published": "Wed, 28 Jan 2026 09:24:29 +0000",
       "summary": "When other websites lose large amounts of footprint it can have serious impacts to business but the one advantage is that we can try and learn from mistakes we find. Using SISTRIX’s Visibility Index, we uncover and analyse the websites with the most prominent decreases in visibility on Google’s UK […] \n Der Beitrag  IndexWatch 2025: Visibility Losers in Google UK Search  erschien zuerst auf  SISTRIX .",
       "ai_summary": "When other websites lose large amounts of footprint it can have serious impacts to business but the one advantage is that we can try and learn from mistakes we find. Using SISTRIX’s Visibility Index, we uncover and analyse the websites with the most prominent decreases in visibility on Google’s UK […] \n Der Beitrag  IndexWatch 2025: Visibility Losers in Google UK Search  erschien zuerst auf  SISTRIX ."
-    },
-    {
-      "id": "ac00ddee1db3509466321ecccd6d6a10",
-      "title": "Google Analytics Launches Scenario Planner and Projections via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/google-analytics-launches-scenario-planner-and-projections/570520/",
-      "source": "Search Engine Journal",
-      "published": "Wed, 25 Mar 2026 17:07:42 +0000",
-      "summary": "Google Analytics launched Scenario Planner and Projections to help advertisers forecast performance, optimize budgets, and plan cross-channel media spend more strategically. \n The post  Google Analytics Launches Scenario Planner and Projections  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google Analytics launched Scenario Planner and Projections to help advertisers forecast performance, optimize budgets, and plan cross-channel media spend more strategically. \n The post  Google Analytics Launches Scenario Planner and Projections  appeared first on  Search Engine Journal ."
     },
     {
       "id": "f811cb8b21de3c6523e2d6c1c037ac42",
@@ -135,6 +126,132 @@
       "published": "Wed, 01 Sep 2021 00:00:00 -0700",
       "summary": "Links drive rankings — that’s one thing that SEOs and marketers can agree on. But which rankings, and for which pages on your website? Use this guide to build links that impact rankings for specific pages on your website.",
       "ai_summary": "Links drive rankings — that’s one thing that SEOs and marketers can agree on. But which rankings, and for which pages on your website? Use this guide to build links that impact rankings for specific pages on your website."
+    },
+    {
+      "id": "7e213a502063c8d4bf981bc908de12bb",
+      "title": "Google Explains Googlebot Byte Limits And Crawling Architecture via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-explains-googlebot-byte-limits-and-crawling-architecture/570961/",
+      "source": "Search Engine Journal",
+      "published": "Tue, 31 Mar 2026 15:28:38 +0000",
+      "summary": "Google's Gary Illyes published a blog post explaining how Googlebot works as one client of a centralized crawling platform, with new byte-level details. \n The post  Google Explains Googlebot Byte Limits And Crawling Architecture  appeared first on  Search Engine Journal .",
+      "ai_summary": "Google's Gary Illyes published a blog post explaining how Googlebot works as one client of a centralized crawling platform, with new byte-level details. \n The post  Google Explains Googlebot Byte Limits And Crawling Architecture  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "b8a94284069e1db3ddbafaf1a484b6b7",
+      "title": "The Science Of What AI Actually Rewards via @sejournal, @Kevin_Indig",
+      "url": "https://www.searchenginejournal.com/the-science-of-what-ai-actually-rewards/570849/",
+      "source": "Search Engine Journal",
+      "published": "Tue, 31 Mar 2026 13:30:37 +0000",
+      "summary": "Part 3 of this analysis reveals what AI actually rewards in content, from entity types to structure, across seven verticals. \n The post  The Science Of What AI Actually Rewards  appeared first on  Search Engine Journal .",
+      "ai_summary": "Part 3 of this analysis reveals what AI actually rewards in content, from entity types to structure, across seven verticals. \n The post  The Science Of What AI Actually Rewards  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "9d941a399faca9d5672b7dc5da138a51",
+      "title": "What AI Userbot Traffic Actually Reveals About Your Website",
+      "url": "https://www.sistrix.com/blog/what-ai-userbot-traffic-actually-reveals-about-your-website/",
+      "source": "SISTRIX",
+      "published": "Tue, 31 Mar 2026 13:30:27 +0000",
+      "summary": "With the rise of AI Search, a new category of bots has emerged: AI userbots. User agents such as ChatGPT-User or Perplexity-User access a website at the exact moment an AI is compiling information for a specific user query. Within the SEO industry, these visits are increasingly being treated as […] \n Der Beitrag  What AI Userbot Traffic Actually Reveals About Your Website  erschien zuerst auf  SISTRIX .",
+      "ai_summary": "With the rise of AI Search, a new category of bots has emerged: AI userbots. User agents such as ChatGPT-User or Perplexity-User access a website at the exact moment an AI is compiling information for a specific user query. Within the SEO industry, these visits are increasingly being treated as […] \n Der Beitrag  What AI Userbot Traffic Actually Reveals About Your Website  erschien zuerst auf  SISTRIX ."
+    },
+    {
+      "id": "76568b6a61315aa1f4a7474277d4c274",
+      "title": "So Your Traffic Tanked: What Smart CMOs Do Next",
+      "url": "https://www.searchenginejournal.com/so-your-traffic-tanked-what-smart-cmos-do-next/570708/",
+      "source": "Search Engine Journal",
+      "published": "Tue, 31 Mar 2026 13:00:55 +0000",
+      "summary": "Organic traffic is declining, but answer engines are driving higher-intent conversions. Here’s how CMOs should rethink strategy, structure, and measurement.  \n The post  So Your Traffic Tanked: What Smart CMOs Do Next  appeared first on  Search Engine Journal .",
+      "ai_summary": "Organic traffic is declining, but answer engines are driving higher-intent conversions. Here’s how CMOs should rethink strategy, structure, and measurement.  \n The post  So Your Traffic Tanked: What Smart CMOs Do Next  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "984c05ddb72e9a6bf598923f9e6346d1",
+      "title": "WordPress Delays Release Of Version 7.0 To Focus On Stability via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/wordpress-delays-release-of-version-7-0-to-focus-on-stability/570944/",
+      "source": "Search Engine Journal",
+      "published": "Tue, 31 Mar 2026 10:48:59 +0000",
+      "summary": "Delay in release of WordPress 7.0 stems from concerns over the real-time collaboration feature. The focus is on targeting \"extreme stability.\" \n The post  WordPress Delays Release Of Version 7.0 To Focus On Stability  appeared first on  Search Engine Journal .",
+      "ai_summary": "Delay in release of WordPress 7.0 stems from concerns over the real-time collaboration feature. The focus is on targeting \"extreme stability.\" \n The post  WordPress Delays Release Of Version 7.0 To Focus On Stability  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "14af1ae8752371f6468c5ebdf6bfd04d",
+      "title": "Daily Search Forum Recap: March 31, 2026",
+      "url": "https://www.seroundtable.com/recap-03-31-2026-41134.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 31 Mar 2026 10:00:00 -0400",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "ai_summary": "Here is a recap of what happened in the search forums today..."
+    },
+    {
+      "id": "428c426796b9bf5accba315778c4c31e",
+      "title": "Google On Why Core Updates Take Weeks To Fully Roll Out",
+      "url": "https://www.seroundtable.com/google-on-why-core-updates-take-weeks-41133.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 31 Mar 2026 07:51:00 -0400",
+      "summary": "Google's John Mueller explained, one again, why it takes weeks to roll out a core update.  It is often because there are different components to core updates through the rollout stages, and each needs to be pushed individually.",
+      "ai_summary": "Google's John Mueller explained, one again, why it takes weeks to roll out a core update.  It is often because there are different components to core updates through the rollout stages, and each needs to be pushed individually."
+    },
+    {
+      "id": "720fde57fb466ab97bcceea8eb27113b",
+      "title": "How To Identify Which LLM Is Actually Working For You [Webinar] via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/how-to-identify-which-llm-is-actually-working-for-your-or-your-clients-brand-webinar/570019/",
+      "source": "Search Engine Journal",
+      "published": "Tue, 31 Mar 2026 07:45:37 +0000",
+      "summary": "Learn how different LLMs impact conversions in your industry. Do not miss our expert panel webinar for practical advice. \n The post  How To Identify Which LLM Is Actually Working For You [Webinar]  appeared first on  Search Engine Journal .",
+      "ai_summary": "Learn how different LLMs impact conversions in your industry. Do not miss our expert panel webinar for practical advice. \n The post  How To Identify Which LLM Is Actually Working For You [Webinar]  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "be573bf7f146eb09ee60df0217b1d7a3",
+      "title": "Bing Tests Sponsored Label That Is Almost Transparent",
+      "url": "https://www.seroundtable.com/bing-transparent-sponsored-label-41131.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 31 Mar 2026 07:41:00 -0400",
+      "summary": "Microsoft is at it again with its sponsored labels tests. This time, Microsoft is testing almost transparent sponsored labels within the Bing search results.  The labels are super grayed out and super hard to see.",
+      "ai_summary": "Microsoft is at it again with its sponsored labels tests. This time, Microsoft is testing almost transparent sponsored labels within the Bing search results.  The labels are super grayed out and super hard to see."
+    },
+    {
+      "id": "38edf6a3b7a3d0820f6ccb4ae4a83297",
+      "title": "ChatGPT Enables Location Sharing For More Localized Near Me Results",
+      "url": "https://www.seroundtable.com/chatgpt-location-sharing-41128.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 31 Mar 2026 07:31:00 -0400",
+      "summary": "Last week, OpenAI announced a new feature for ChatGPT named location sharing. This allows you to share your precise location with ChatGPT, so ChatGPT can give you more localized and near me results.",
+      "ai_summary": "Last week, OpenAI announced a new feature for ChatGPT named location sharing. This allows you to share your precise location with ChatGPT, so ChatGPT can give you more localized and near me results."
+    },
+    {
+      "id": "8cf745e3fce53bf5cb5ac6e84488ab0a",
+      "title": "Google Ads PMax Asset Group Theming",
+      "url": "https://www.seroundtable.com/google-ads-pmax-asset-group-theming-41127.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 31 Mar 2026 07:21:00 -0400",
+      "summary": "Google Ads is rolling out asset group theming for Performance Max campaigns.  This lets you copy an asset group and apply this theme to your text and images using Google AI.",
+      "ai_summary": "Google Ads is rolling out asset group theming for Performance Max campaigns.  This lets you copy an asset group and apply this theme to your text and images using Google AI."
+    },
+    {
+      "id": "8168bdeac816b98e578efb9334ecbb64",
+      "title": "Google May Call, Text or WhatsApp To Confirm Business Details",
+      "url": "https://www.seroundtable.com/google-business-profiles-call-text-or-whatsapp-41126.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 31 Mar 2026 07:11:00 -0400",
+      "summary": "Google is sending out emails with updates on how Google Business Profiles may verify your business details. Google said it may \"reach out using automated messages via call, text, or WhatsApp to the verified phone number on your Business Profile.\"",
+      "ai_summary": "Google is sending out emails with updates on how Google Business Profiles may verify your business details. Google said it may \"reach out using automated messages via call, text, or WhatsApp to the verified phone number on your Business Profile.\""
+    },
+    {
+      "id": "6e3b839f665ac47973f83cb2544cf15e",
+      "title": "New Location for the Google Crawlers' IP Range Files",
+      "url": "https://developers.google.com/search/blog/2026/03/crawler-ip-ranges",
+      "source": "Google Search Central Blog",
+      "published": "Tue, 31 Mar 2026 00:00:00 +0000",
+      "summary": "Just a short note this time!",
+      "ai_summary": "Just a short note this time!"
+    },
+    {
+      "id": "05cfe7fdbf455c6245609ba0c4fc912e",
+      "title": "Inside Googlebot: demystifying crawling, fetching, and the bytes we process",
+      "url": "https://developers.google.com/search/blog/2026/03/crawler-blog-post",
+      "source": "Google Search Central Blog",
+      "published": "Tue, 31 Mar 2026 00:00:00 +0000",
+      "summary": "If you tuned into\n  episode 105 of the Search Off the Record podcast,\n  you might have heard us diving deep into a topic that is close to our hearts\n  (and our servers): the inner workings of Googlebot.",
+      "ai_summary": "If you tuned into\n  episode 105 of the Search Off the Record podcast,\n  you might have heard us diving deep into a topic that is close to our hearts\n  (and our servers): the inner workings of Googlebot."
     },
     {
       "id": "8801ba72d569d1303d1eca98fbfc7448",
@@ -299,51 +416,6 @@
       "ai_summary": "The hard part in content marketing is the information—ideas, verified facts, and reference material. And that’s exactly where these tools fall short. I learned this after generating 40 articles through Claude. I’d tried the writing tools first, but they … Read more ›"
     },
     {
-      "id": "1521805385b09c4db64d91947c4c696a",
-      "title": "How To Avoid Top Down SEO Systems Failures With The Visibility Governance Maturity Model via @sejournal, @theshelleywalsh",
-      "url": "https://www.searchenginejournal.com/how-to-avoid-top-down-seo-systems-failures-with-the-visibility-governance-maturity-model/570509/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 26 Mar 2026 13:29:39 +0000",
-      "summary": "In this IMHO interview, Ash Nallawalla explains why governance is the missing layer behind most visibility breakdowns. \n The post  How To Avoid Top Down SEO Systems Failures With The Visibility Governance Maturity Model  appeared first on  Search Engine Journal .",
-      "ai_summary": "In this IMHO interview, Ash Nallawalla explains why governance is the missing layer behind most visibility breakdowns. \n The post  How To Avoid Top Down SEO Systems Failures With The Visibility Governance Maturity Model  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "0563230aedb6d8662862eba0554d99b4",
-      "title": "When The Training Data Cutoff Becomes A Ranking Factor via @sejournal, @DuaneForrester",
-      "url": "https://www.searchenginejournal.com/when-the-training-data-cutoff-becomes-a-ranking-factor/570438/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 26 Mar 2026 12:50:00 +0000",
-      "summary": "Content published before and after a model’s cutoff lives in different systems, shaping how brands appear in AI-generated answers. \n The post  When The Training Data Cutoff Becomes A Ranking Factor  appeared first on  Search Engine Journal .",
-      "ai_summary": "Content published before and after a model’s cutoff lives in different systems, shaping how brands appear in AI-generated answers. \n The post  When The Training Data Cutoff Becomes A Ranking Factor  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "cda6ce42e69eb0fcb61c848d104a3f4c",
-      "title": "Are We Due Another Florida-Style Update? via @sejournal, @TaylorDanRW",
-      "url": "https://www.searchenginejournal.com/are-we-due-another-florida-style-update/570102/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 26 Mar 2026 12:00:44 +0000",
-      "summary": "Why the return of scaled, low-differentiation content is putting pressure on Google’s systems and raising the risk of a broader intervention. \n The post  Are We Due Another Florida-Style Update?  appeared first on  Search Engine Journal .",
-      "ai_summary": "Why the return of scaled, low-differentiation content is putting pressure on Google’s systems and raising the risk of a broader intervention. \n The post  Are We Due Another Florida-Style Update?  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "6c49a3b6d0a40284c74d868a10fe03e2",
-      "title": "Google’s March Spam Update Felt Muted But May Signal Bigger Changes via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/googles-march-spam-update-felt-muted-but-may-signal-bigger-changes/570541/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 26 Mar 2026 10:43:08 +0000",
-      "summary": "Why Google's recently finished Spam Update could be the beginning of something bigger that is yet to come. \n The post  Google’s March Spam Update Felt Muted But May Signal Bigger Changes  appeared first on  Search Engine Journal .",
-      "ai_summary": "Why Google's recently finished Spam Update could be the beginning of something bigger that is yet to come. \n The post  Google’s March Spam Update Felt Muted But May Signal Bigger Changes  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "1c6a5fe7cb3fce277c9feef251397582",
-      "title": "Daily Search Forum Recap: March 26, 2026",
-      "url": "https://www.seroundtable.com/recap-03-26-2026-41116.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 26 Mar 2026 10:00:00 -0400",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nThe Google March 2026 spam update was the fastest rolling out update...",
-      "ai_summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nThe Google March 2026 spam update was the fastest rolling out update..."
-    },
-    {
       "id": "9aa72653882509c6bea08a89d372ed62",
       "title": "Google’s releasing Google-Agent: Here’s what to know",
       "url": "https://www.semrush.com/blog/google-ai-agent/",
@@ -360,15 +432,6 @@
       "published": "Thu, 22 Jan 2026 18:39:01 +0000",
       "summary": "I found some interesting things from the latest document in the DOJ vs Google trial. Google has appealed the ruling that says they need to give proprietary information to competitors. Key takeaways: Google has been ordered to give information to competitors so as not to be an illegal monopoly. Google does not want to give […] \n The post  User Data is Important in Google’s Ranking Systems. What We Learned from Liz Reid’s Appeal Declaration.  appeared first on  Marie Haynes .",
       "ai_summary": "I found some interesting things from the latest document in the DOJ vs Google trial. Google has appealed the ruling that says they need to give proprietary information to competitors. Key takeaways: Google has been ordered to give information to competitors so as not to be an illegal monopoly. Google does not want to give […] \n The post  User Data is Important in Google’s Ranking Systems. What We Learned from Liz Reid’s Appeal Declaration.  appeared first on  Marie Haynes ."
-    },
-    {
-      "id": "66ab5b91b420d4275f1a185890e0e765",
-      "title": "Introducing the branded queries filter in Search Console",
-      "url": "https://developers.google.com/search/blog/2025/11/search-console-branded-filter",
-      "source": "Google Search Central Blog",
-      "published": "Thu, 20 Nov 2025 00:00:00 +0000",
-      "summary": "Following the Query groups launch\nlast month, we're happy to announce we're providing an additional tool to analyze the performance\nof your website by query type in the Search Console Performance Report:\nthe branded queries filter. This new feature is designed to help analyze the queries driving traffic\nto your site by automatically differentiating between branded and non-branded queries.",
-      "ai_summary": "Following the Query groups launch\nlast month, we're happy to announce we're providing an additional tool to analyze the performance\nof your website by query type in the Search Console Performance Report:\nthe branded queries filter. This new feature is designed to help analyze the queries driving traffic\nto your site by automatically differentiating between branded and non-branded queries."
     },
     {
       "id": "39ac48a79a393147efa609b6f641ce7c",
@@ -405,15 +468,6 @@
       "published": "Thu, 16 Sep 2021 00:00:00 -0700",
       "summary": "Let's take an in-depth look at Moz.com title tags that were re-written by Google, including three case studies where we managed to fix bad rewrites.",
       "ai_summary": "Let's take an in-depth look at Moz.com title tags that were re-written by Google, including three case studies where we managed to fix bad rewrites."
-    },
-    {
-      "id": "2c28bb917f02cd52c4dc18fbd657fedf",
-      "title": "The Top Domains and Content for Mortgages",
-      "url": "https://www.sistrix.com/blog/the-top-domains-and-content-for-mortgages/",
-      "source": "SISTRIX",
-      "published": "Thu, 15 Jan 2026 11:05:10 +0000",
-      "summary": "With the UK Autumn Budget still on many people’s minds, SectorWatch is diving into the ever-shifting world of mortgages. With interest rates, lenders and comparison sites all competing to secure the prime spot in Google’s results, competition in the SERPs is as fierce as a bidding war on a semi-detached […] \n Der Beitrag  The Top Domains and Content for Mortgages  erschien zuerst auf  SISTRIX .",
-      "ai_summary": "With the UK Autumn Budget still on many people’s minds, SectorWatch is diving into the ever-shifting world of mortgages. With interest rates, lenders and comparison sites all competing to secure the prime spot in Google’s results, competition in the SERPs is as fierce as a bidding war on a semi-detached […] \n Der Beitrag  The Top Domains and Content for Mortgages  erschien zuerst auf  SISTRIX ."
     },
     {
       "id": "09275308b00287b41af06d7542443028",
@@ -659,15 +713,6 @@
       "ai_summary": "OpenAI has announced plans to introduce advertising in ChatGPT. Initially, this will be tested in the US and only for users of either the free ChatGPT plan or the cheaper Go plan. The ads will appear at the end of the organic response. They will be clearly marked as advertising and will […] \n Der Beitrag  ChatGPT To Add Ads  erschien zuerst auf  SISTRIX ."
     },
     {
-      "id": "343491efc9020d53ed8956462da7d068",
-      "title": "Adding context to your Search Console data with custom annotations",
-      "url": "https://developers.google.com/search/blog/2025/11/custom-chart-annotations",
-      "source": "Google Search Central Blog",
-      "published": "Mon, 17 Nov 2025 00:00:00 +0000",
-      "summary": "We're always looking for new ways to help you understand your data and make smarter decisions when it comes\nto Google Search. That's why we're happy to announce a new feature within the Search Console performance\nreports: Custom annotations.",
-      "ai_summary": "We're always looking for new ways to help you understand your data and make smarter decisions when it comes\nto Google Search. That's why we're happy to announce a new feature within the Search Console performance\nreports: Custom annotations."
-    },
-    {
       "id": "b6f9826255b8a66c0de23c46fc99c86f",
       "title": "AI Content Wasn’t Good Enough. Now It Is.",
       "url": "https://ahrefs.com/blog/ai-content-wasnt-good-enough-now-it-is/",
@@ -837,51 +882,6 @@
       "published": "Fri, 27 Mar 2026 07:51:00 -0400",
       "summary": "Google announced Search Live has launched globally, for all languages and locations where AI Mode is available. Google said this is possible by its \"new audio and voice model, Gemini 3.1 Flash Live, which delivers even more natural and intuitive conversations.\"",
       "ai_summary": "Google announced Search Live has launched globally, for all languages and locations where AI Mode is available. Google said this is possible by its \"new audio and voice model, Gemini 3.1 Flash Live, which delivers even more natural and intuitive conversations.\""
-    },
-    {
-      "id": "2dec52487413e74a4632cf1b22da06d7",
-      "title": "Google Merchant Center Will Highlight Vehicle Ads Data Quality Issues",
-      "url": "https://www.seroundtable.com/google-merchant-center-vehicle-ads-data-quality-issues-41092.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 27 Mar 2026 07:41:00 -0400",
-      "summary": "Google announced that it will begin to highlight data quality account issues related to Vehicle ads within Google Merchant Center. This will begin in mid-April 2026.",
-      "ai_summary": "Google announced that it will begin to highlight data quality account issues related to Vehicle ads within Google Merchant Center. This will begin in mid-April 2026."
-    },
-    {
-      "id": "0baac2d0e773807ceac4d9f39cc953dc",
-      "title": "Google Ads Expanding Loyalty Program",
-      "url": "https://www.seroundtable.com/google-ads-expands-loyalty-program-41117.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 27 Mar 2026 07:31:00 -0400",
-      "summary": "Google Ads and Merchant Center is expanding the Loyalty program features to highlight key perks, expand local and regional visibility, expand internationally and within AI Mode and Gemini.",
-      "ai_summary": "Google Ads and Merchant Center is expanding the Loyalty program features to highlight key perks, expand local and regional visibility, expand internationally and within AI Mode and Gemini."
-    },
-    {
-      "id": "523d866ceb02404fc79ede115e02e9c9",
-      "title": "Google March 2026 Core Update Is Rolling Out - First Core Update Of Year",
-      "url": "https://www.seroundtable.com/google-march-2026-core-update-41121.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 27 Mar 2026 07:24:00 -0400",
-      "summary": "Google officially announced the rollout of the March 2026 core update early Friday morning at around 5:14 ET. This core update is expected to take up to 2 weeks to roll out. Google said this \"is a regular update designed to better surface relevant, satisfying content for searchers from all types of sites.\"",
-      "ai_summary": "Google officially announced the rollout of the March 2026 core update early Friday morning at around 5:14 ET. This core update is expected to take up to 2 weeks to roll out. Google said this \"is a regular update designed to better surface relevant, satisfying content for searchers from all types of sites.\""
-    },
-    {
-      "id": "5a7d5a04b3e6179cb8d4c7fceb8ed739",
-      "title": "Google Ads PMax Audience Exclusions & New Reporting",
-      "url": "https://www.seroundtable.com/google-ads-pmax-audience-exclusions-reporting-41118.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 27 Mar 2026 07:21:00 -0400",
-      "summary": "Google announced several new steering updates for Google Ads Performance Max including first-party audience exclusions, budget reporting, full audience reporting and network segmentation in placement reporting.",
-      "ai_summary": "Google announced several new steering updates for Google Ads Performance Max including first-party audience exclusions, budget reporting, full audience reporting and network segmentation in placement reporting."
-    },
-    {
-      "id": "993fd1c3ff2c3d8eadf88fb61709f075",
-      "title": "Bing Testing Rounded Corners On Short Videos",
-      "url": "https://www.seroundtable.com/bing-rounded-corners-videos-41106.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 27 Mar 2026 07:11:00 -0400",
-      "summary": "Microsoft Bing is testing using rounded corners on short videos and normal videos within the Bing search results interface. Bing used to show these as squared-off edges.",
-      "ai_summary": "Microsoft Bing is testing using rounded corners on short videos and normal videos within the Bing search results interface. Bing used to show these as squared-off edges."
     },
     {
       "id": "a1352b5a487a2e477c48fa353946ec70",

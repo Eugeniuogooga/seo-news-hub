@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T07:14:53.037953+00:00",
+  "generated_at": "2026-04-22T07:28:12.248859+00:00",
   "items": [
     {
       "id": "ef9d27edf925c905d6cc4fdccfa5925e",
@@ -47,15 +47,6 @@
       "ai_summary": "See how, through several little tweaks to their conversion strategy, the team at Chromatix attracted a higher tier of customers, more inquiries, plus over $780,000 worth of new sales opportunities."
     },
     {
-      "id": "11951377f91206974feb30e3941b5e96",
-      "title": "How To Become The AI Search Authority In Your Company [Webinar] via @sejournal, @lorenbaker",
-      "url": "https://www.searchenginejournal.com/how-to-become-the-ai-search-authority-in-your-company-webinar/572189/",
-      "source": "Search Engine Journal",
-      "published": "Wed, 15 Apr 2026 19:24:58 +0000",
-      "summary": "Explore the impact of AI search on SEO roles and how brands can manage their online presence in AI outputs effectively. \n The post  How To Become The AI Search Authority In Your Company [Webinar]  appeared first on  Search Engine Journal .",
-      "ai_summary": "Explore the impact of AI search on SEO roles and how brands can manage their online presence in AI outputs effectively. \n The post  How To Become The AI Search Authority In Your Company [Webinar]  appeared first on  Search Engine Journal ."
-    },
-    {
       "id": "615d8bb7220a7dddfd525a4ccc35113c",
       "title": "Why ChatGPT Cites One Page Over Another (Study of 1.4M Prompts)",
       "url": "https://ahrefs.com/blog/why-chatgpt-cites-pages/",
@@ -63,60 +54,6 @@
       "published": "Wed, 15 Apr 2026 14:33:27 +0000",
       "summary": "But, although ChatGPT crawls dozens of pages to answer a single query, according to our research, it only ends up citing ~50% of them. Why does one page get the credit while another, which the AI clearly retrieved, gets nothing? … Read more ›",
       "ai_summary": "But, although ChatGPT crawls dozens of pages to answer a single query, according to our research, it only ends up citing ~50% of them. Why does one page get the credit while another, which the AI clearly retrieved, gets nothing? … Read more ›"
-    },
-    {
-      "id": "39e3077550cac4f326ac7d558b7c8cd8",
-      "title": "The AI Slop Loop via @sejournal, @lilyraynyc",
-      "url": "https://www.searchenginejournal.com/the-ai-slop-loop/572090/",
-      "source": "Search Engine Journal",
-      "published": "Wed, 15 Apr 2026 13:30:55 +0000",
-      "summary": "New examples show how AI search tools confidently cite fabricated SEO updates, exposing a growing risk in relying on LLM-generated information. \n The post  The AI Slop Loop  appeared first on  Search Engine Journal .",
-      "ai_summary": "New examples show how AI search tools confidently cite fabricated SEO updates, exposing a growing risk in relying on LLM-generated information. \n The post  The AI Slop Loop  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "244181cdef5f93be3edf4039ee1ef6f2",
-      "title": "Google Is Replacing Dynamic Search Ads With AI Max via @sejournal, @brookeosmundson",
-      "url": "https://www.searchenginejournal.com/google-is-replacing-dynamic-search-ads-with-ai-max/571949/",
-      "source": "Search Engine Journal",
-      "published": "Wed, 15 Apr 2026 13:00:03 +0000",
-      "summary": "Google replaces Dynamic Search Ads with AI Max. Learn what’s changing, when migrations begin, and what advertisers should do before September upgrades. \n The post  Google Is Replacing Dynamic Search Ads With AI Max  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google replaces Dynamic Search Ads with AI Max. Learn what’s changing, when migrations begin, and what advertisers should do before September upgrades. \n The post  Google Is Replacing Dynamic Search Ads With AI Max  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "bb6606a18427852d763464581319b121",
-      "title": "The Modern SEO Center Of Excellence: Governance, Not Guidelines via @sejournal, @billhunt",
-      "url": "https://www.searchenginejournal.com/the-modern-seo-center-of-excellence-governance-not-guidelines/566097/",
-      "source": "Search Engine Journal",
-      "published": "Wed, 15 Apr 2026 12:30:13 +0000",
-      "summary": "Replace optional SEO guidelines with enforceable governance to ensure consistent signals and scalable visibility across the enterprise. \n The post  The Modern SEO Center Of Excellence: Governance, Not Guidelines  appeared first on  Search Engine Journal .",
-      "ai_summary": "Replace optional SEO guidelines with enforceable governance to ensure consistent signals and scalable visibility across the enterprise. \n The post  The Modern SEO Center Of Excellence: Governance, Not Guidelines  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "a1bc657acc02990accc650c27e9c01f8",
-      "title": "Why Your Search Data Doesn’t Agree (And What To Do About It) via @sejournal, @coreydmorris",
-      "url": "https://www.searchenginejournal.com/why-your-search-data-doesnt-agree-and-what-to-do-about-it/570180/",
-      "source": "Search Engine Journal",
-      "published": "Wed, 15 Apr 2026 11:00:50 +0000",
-      "summary": "Attribution gaps, platform silos, privacy changes: Conflicting data is only getting worse. Here's how to lead with clarity when the numbers don't match. \n The post  Why Your Search Data Doesn’t Agree (And What To Do About It)  appeared first on  Search Engine Journal .",
-      "ai_summary": "Attribution gaps, platform silos, privacy changes: Conflicting data is only getting worse. Here's how to lead with clarity when the numbers don't match. \n The post  Why Your Search Data Doesn’t Agree (And What To Do About It)  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "86218a9ebcb503b3e06e49f594391674",
-      "title": "Google Just Made It Easy For SEOs To Kick Out Spammy Sites via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-just-made-it-easy-for-seos-to-kick-out-spammy-sites/572118/",
-      "source": "Search Engine Journal",
-      "published": "Wed, 15 Apr 2026 10:00:40 +0000",
-      "summary": "Google just handed SEOs a new way to hit spammy sites with manual actions and get them deindexed from search results. \n The post  Google Just Made It Easy For SEOs To Kick Out Spammy Sites  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google just handed SEOs a new way to hit spammy sites with manual actions and get them deindexed from search results. \n The post  Google Just Made It Easy For SEOs To Kick Out Spammy Sites  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "b4ae1be8ea1d4dfe7e10b711487e7ce6",
-      "title": "Daily Search Forum Recap: April 15, 2026",
-      "url": "https://www.seroundtable.com/recap-04-15-2026-41168.html",
-      "source": "Search Engine Roundtable",
-      "published": "Wed, 15 Apr 2026 10:00:00 -0400",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "ai_summary": "Here is a recap of what happened in the search forums today..."
     },
     {
       "id": "45bb8498093b540b37d3b0a60718861d",
@@ -153,15 +90,6 @@
       "published": "Wed, 15 Apr 2026 07:53:49 +0000",
       "summary": "The Google App for Windows has been officially launched outside the restrictions of Google Labs. This AI-Mode-first search tool is not a browser and does not include Gemini but does add speech input, image input and screen-sharing input alongside typed input. This is the first search input surface from Google […] \n Der Beitrag  Google App for Windows. This AI Mode-first search app is now generally available  erschien zuerst auf  SISTRIX .",
       "ai_summary": "The Google App for Windows has been officially launched outside the restrictions of Google Labs. This AI-Mode-first search tool is not a browser and does not include Gemini but does add speech input, image input and screen-sharing input alongside typed input. This is the first search input surface from Google […] \n Der Beitrag  Google App for Windows. This AI Mode-first search app is now generally available  erschien zuerst auf  SISTRIX ."
-    },
-    {
-      "id": "a7f1253a943e99630094916028a70a0d",
-      "title": "NEW in SparkToro: Uncover the AI Prompt Topics Your Audience is Using in ChatGPT, Google AI Mode, Claude, and more",
-      "url": "https://sparktoro.com/blog/new-in-sparktoro-uncover-the-ai-prompt-topics-your-audience-is-using-in-chatgpt-google-ai-mode-claude-and-more/",
-      "source": "SparkToro",
-      "published": "Wed, 11 Mar 2026 07:04:21 +0000",
-      "summary": "“Rand, I love that SparkToro tells me which search and AI tools my audience is using, but… could you also tell me what they’re searching and prompting?”\n\n\n\nFor a long time, the answer was only yes to 50% of that request. Starting today, we’ve got it all. Research any audience in SparkToro and we’ll show you the prompt topics they’re…",
-      "ai_summary": "“Rand, I love that SparkToro tells me which search and AI tools my audience is using, but… could you also tell me what they’re searching and prompting?”\n\n\n\nFor a long time, the answer was only yes to 50% of that request. Starting today, we’ve got it all. Research any audience in SparkToro and we’ll show you the prompt topics they’re…"
     },
     {
       "id": "9e59018ebf5df4b4606db4d302f59ea9",
@@ -236,15 +164,6 @@
       "ai_summary": "Discover the top AI SEO tools to track visibility, optimize content, and automate workflows. Real tests, clear picks, and expert tips for 2026."
     },
     {
-      "id": "796f037457888e82260310e7b88e9713",
-      "title": "The 9 Best LLM Monitoring Tools for Brand Visibility in 2026",
-      "url": "https://www.semrush.com/blog/llm-monitoring-tools/",
-      "source": "Semrush blog",
-      "published": "Wed, 01 Apr 2026 14:05:00 +0000",
-      "summary": "Discover the 9 best LLM monitoring tools. Compare features, pricing, & capabilities to track your AI presence.",
-      "ai_summary": "Discover the 9 best LLM monitoring tools. Compare features, pricing, & capabilities to track your AI presence."
-    },
-    {
       "id": "b4b94ea1f851c2eb1a3c84470195e256",
       "title": "When Brands Become News, News Sites Need to Be Ready – The KitKat Case",
       "url": "https://www.sistrix.com/blog/when-brands-become-news-news-sites-need-to-be-ready-the-kitkat-case/",
@@ -252,15 +171,6 @@
       "published": "Wed, 01 Apr 2026 09:06:37 +0000",
       "summary": "Kit Kat. You may have heard about the theft, and the memes running through the internet, but what happens to search traffic when that happens? Did Nestle gain? Google is quick to react and when the SERP lights up with Top Stories boxes, CTR to the brand drops and the […] \n Der Beitrag  When Brands Become News, News Sites Need to Be Ready – The KitKat Case  erschien zuerst auf  SISTRIX .",
       "ai_summary": "Kit Kat. You may have heard about the theft, and the memes running through the internet, but what happens to search traffic when that happens? Did Nestle gain? Google is quick to react and when the SERP lights up with Top Stories boxes, CTR to the brand drops and the […] \n Der Beitrag  When Brands Become News, News Sites Need to Be Ready – The KitKat Case  erschien zuerst auf  SISTRIX ."
-    },
-    {
-      "id": "458292308ae03705cd4d9c0213deaabd",
-      "title": "AI content optimization: The complete guide",
-      "url": "https://www.semrush.com/blog/ai-content-optimization/",
-      "source": "Semrush blog",
-      "published": "Wed, 01 Apr 2026 08:21:00 +0000",
-      "summary": "AI content optimization is the practice of using AI tools to improve content and enhance its performance.",
-      "ai_summary": "AI content optimization is the practice of using AI tools to improve content and enhance its performance."
     },
     {
       "id": "9d941a399faca9d5672b7dc5da138a51",
@@ -308,6 +218,114 @@
       "ai_summary": "The real issue was never AI or “automatically generated content” itself. Google penalizes the same thing it always has: content that is thin, unhelpful, and spammy. AI just makes it much easier to create that kind of content at scale. … Read more ›"
     },
     {
+      "id": "f7f83255628a148df20e2d1328ed6d72",
+      "title": "ChatGPT Ads Now Offer CPC Bidding Between $3 And $5: Report via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-ads-now-offer-cpc-bidding-between-3-and-5-report/572652/",
+      "source": "Search Engine Journal",
+      "published": "Tue, 21 Apr 2026 19:53:13 +0000",
+      "summary": "Digiday reports an early ChatGPT ads manager build now shows $3-$5 CPC bids for some pilot advertisers, as OpenAI continues expanding its ad tools. \n The post  ChatGPT Ads Now Offer CPC Bidding Between $3 And $5: Report  appeared first on  Search Engine Journal .",
+      "ai_summary": "Digiday reports an early ChatGPT ads manager build now shows $3-$5 CPC bids for some pilot advertisers, as OpenAI continues expanding its ad tools. \n The post  ChatGPT Ads Now Offer CPC Bidding Between $3 And $5: Report  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "94c7b60ac925282f36353853f85a072b",
+      "title": "Google Ads Makes Call Recording Default For AI Lead Calls via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-ads-makes-call-recording-default-for-ai-lead-calls/572613/",
+      "source": "Search Engine Journal",
+      "published": "Tue, 21 Apr 2026 15:16:00 +0000",
+      "summary": "Google Ads now enables call recording by default for eligible AI-qualified call leads, changing how call conversions are evaluated in the U.S. and Canada. \n The post  Google Ads Makes Call Recording Default For AI Lead Calls  appeared first on  Search Engine Journal .",
+      "ai_summary": "Google Ads now enables call recording by default for eligible AI-qualified call leads, changing how call conversions are evaluated in the U.S. and Canada. \n The post  Google Ads Makes Call Recording Default For AI Lead Calls  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "ee01e8d40a84ea785995c64654f4e9d3",
+      "title": "The Ghost Citation Problem via @sejournal, @Kevin_Indig",
+      "url": "https://www.searchenginejournal.com/the-ghost-citation-problem/572453/",
+      "source": "Search Engine Journal",
+      "published": "Tue, 21 Apr 2026 13:30:38 +0000",
+      "summary": "Analysis across four LLMs reveals how citation and mention behavior differs, and why it matters. \n The post  The Ghost Citation Problem  appeared first on  Search Engine Journal .",
+      "ai_summary": "Analysis across four LLMs reveals how citation and mention behavior differs, and why it matters. \n The post  The Ghost Citation Problem  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "3d219933f21db89800510320fb41409d",
+      "title": "What’s The Biggest Technical SEO Blind Spot From Over-Relying On Tools? – Ask An SEO via @sejournal, @HelenPollitt1",
+      "url": "https://www.searchenginejournal.com/ask-an-seo-biggest-technical-seo-blind-spot-from-overrelying-on-tools/570188/",
+      "source": "Search Engine Journal",
+      "published": "Tue, 21 Apr 2026 12:30:10 +0000",
+      "summary": "SEO tools are useful, but over-relying on them creates blind spots. Here's what raw data reveals that tools never will. \n The post  What’s The Biggest Technical SEO Blind Spot From Over-Relying On Tools? – Ask An SEO  appeared first on  Search Engine Journal .",
+      "ai_summary": "SEO tools are useful, but over-relying on them creates blind spots. Here's what raw data reveals that tools never will. \n The post  What’s The Biggest Technical SEO Blind Spot From Over-Relying On Tools? – Ask An SEO  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "27aa6a67fcbe7a43b2b40f98bafe11ed",
+      "title": "Daily Search Forum Recap: April 21, 2026",
+      "url": "https://www.seroundtable.com/recap-04-21-2026-41192.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 21 Apr 2026 10:00:00 -0400",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nGoogle says when it comes to SEO...",
+      "ai_summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nGoogle says when it comes to SEO..."
+    },
+    {
+      "id": "8852ae6a556a44f682e15d884ac36485",
+      "title": "Google Adds New Tasked-Based Search Features via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-adds-new-tasked-based-search-features/572547/",
+      "source": "Search Engine Journal",
+      "published": "Tue, 21 Apr 2026 09:47:31 +0000",
+      "summary": "Google announced new tools that further transforms Search to a tasked-based platform.  \n The post  Google Adds New Tasked-Based Search Features  appeared first on  Search Engine Journal .",
+      "ai_summary": "Google announced new tools that further transforms Search to a tasked-based platform.  \n The post  Google Adds New Tasked-Based Search Features  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "23220152d0fc29d79bc112e83c954d79",
+      "title": "Google: When It Comes To SEO, Nobody Knows Everything",
+      "url": "https://www.seroundtable.com/google-seo-nobody-knows-everything-41190.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 21 Apr 2026 07:51:00 -0400",
+      "summary": "Google's John Mueller said the other day that \"SEO is not belief-based, nobody knows everything, and it changes over time.\"  Super true, I've been covering SEO changes over the years and I spot this all the time.",
+      "ai_summary": "Google's John Mueller said the other day that \"SEO is not belief-based, nobody knows everything, and it changes over time.\"  Super true, I've been covering SEO changes over the years and I spot this all the time."
+    },
+    {
+      "id": "5b4f22cbe0d9f84b5a4e5f87b5d25d4e",
+      "title": "Google: You Can Do A Lot Of SEO That Don't Work & Still Do Ok",
+      "url": "https://www.seroundtable.com/seo-complex-work-work-41189.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 21 Apr 2026 07:41:00 -0400",
+      "summary": "Google's John Mueller said that since SEO is complex, multifaceted, and resilient, you \"can do a lot of things that don't work & still do ok.\"  Meaning, you can mess up on several SEO things and still do well with search rankings.",
+      "ai_summary": "Google's John Mueller said that since SEO is complex, multifaceted, and resilient, you \"can do a lot of things that don't work & still do ok.\"  Meaning, you can mess up on several SEO things and still do well with search rankings."
+    },
+    {
+      "id": "77dbd395261df3769f97ee9a744a613d",
+      "title": "Google Shopping Showing Shopping Ads Within Free Listing Grid",
+      "url": "https://www.seroundtable.com/google-shopping-showing-more-shopping-ads-41188.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 21 Apr 2026 07:31:00 -0400",
+      "summary": "Google is reportedly showing shopping ads in the free listing grid in the Google Shopping tab.  Previously, Google was better at showing more free listings but that seems to have changed.",
+      "ai_summary": "Google is reportedly showing shopping ads in the free listing grid in the Google Shopping tab.  Previously, Google was better at showing more free listings but that seems to have changed."
+    },
+    {
+      "id": "d391b4195f34c66875c28af768912f13",
+      "title": "Google Search Console Performance Report Job Listings Reporting Bug",
+      "url": "https://www.seroundtable.com/google-search-console-performance-report-job-listings-report-bug-41187.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 21 Apr 2026 07:21:00 -0400",
+      "summary": "Google Search Console seems to have a bug with the performance report, specific to the jobs listing and jobs search appearance filter.  The report is showing zero impressions and clicks since the 16th of this month.",
+      "ai_summary": "Google Search Console seems to have a bug with the performance report, specific to the jobs listing and jobs search appearance filter.  The report is showing zero impressions and clicks since the 16th of this month."
+    },
+    {
+      "id": "1216b1ad3a7249a542503ebb6f10aac6",
+      "title": "Google Documents Read More Snippet Links Best Practices",
+      "url": "https://www.seroundtable.com/google-search-read-more-snippet-links-best-practices-41186.html",
+      "source": "Search Engine Roundtable",
+      "published": "Tue, 21 Apr 2026 07:11:00 -0400",
+      "summary": "Several months after Google launched the Read more links within the Google search results snippets, Google decided to post some best practices how Read more links work.  These should help you encourage Google to show the read more links and thus help increase click-through rates from Google Search.",
+      "ai_summary": "Several months after Google launched the Read more links within the Google search results snippets, Google decided to post some best practices how Read more links work.  These should help you encourage Google to show the read more links and thus help increase click-through rates from Google Search."
+    },
+    {
+      "id": "134dbc94b0a6049c4661b166d0a457ac",
+      "title": "Audience Research Newsletter: Mini Buyer Persona; Podcast Pitch Advice; Influence Maps",
+      "url": "https://sparktoro.com/blog/audience-research-newsletter-mini-buyer-persona-podcast-pitch-advice-influence-maps/",
+      "source": "SparkToro",
+      "published": "Tue, 21 Apr 2026 03:57:42 +0000",
+      "summary": "We’re publishing prior issues of the Audience Research Newsletter here! But we’re not just copying and pasting from the archives — we’re only surfacing what we believe is still salient today. For the newest, freshest advice on audience research and doing better marketing, subscribe here so you don’t miss new editions! We send this newsletter twice per month.\n\n\n\nMake a…",
+      "ai_summary": "We’re publishing prior issues of the Audience Research Newsletter here! But we’re not just copying and pasting from the archives — we’re only surfacing what we believe is still salient today. For the newest, freshest advice on audience research and doing better marketing, subscribe here so you don’t miss new editions! We send this newsletter twice per month.\n\n\n\nMake a…"
+    },
+    {
       "id": "cbfd3988f31ac116bf849bb2dbe11701",
       "title": "15 Marketing Conferences to Attend in 2026",
       "url": "https://ahrefs.com/blog/marketing-conferences/",
@@ -333,33 +351,6 @@
       "published": "Tue, 17 Mar 2026 05:56:21 +0000",
       "summary": "We marketers talk about the LinkedIn algorithm as though it’s a single behemoth. But a recent analysis from Christopher Penn suggests the platform may be running two separate systems that work together to determine what shows up in the feed.\n\n\n\nOne system decides whether your post should even be considered for someone’s feed. The other decides where it ranks once…",
       "ai_summary": "We marketers talk about the LinkedIn algorithm as though it’s a single behemoth. But a recent analysis from Christopher Penn suggests the platform may be running two separate systems that work together to determine what shows up in the feed.\n\n\n\nOne system decides whether your post should even be considered for someone’s feed. The other decides where it ranks once…"
-    },
-    {
-      "id": "6b750fa5f0877e7e08ef9f78ba8a06ae",
-      "title": "Google Search Console Glitch Gives SEOs A Scare via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/new-google-search-console-message-glitch-gives-seos-a-scare/572072/",
-      "source": "Search Engine Journal",
-      "published": "Tue, 14 Apr 2026 22:22:03 +0000",
-      "summary": "A Google Search Console glitch resulted in a message to site owners implying that impressions have only just started being reported. \n The post  Google Search Console Glitch Gives SEOs A Scare  appeared first on  Search Engine Journal .",
-      "ai_summary": "A Google Search Console glitch resulted in a message to site owners implying that impressions have only just started being reported. \n The post  Google Search Console Glitch Gives SEOs A Scare  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "d8b5ed342d6a1713c00d9f1004b08859",
-      "title": "Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-chrome-skills-turn-gemini-prompts-into-reusable-workflows/571994/",
-      "source": "Search Engine Journal",
-      "published": "Tue, 14 Apr 2026 19:10:44 +0000",
-      "summary": "Google is rolling out Skills to Gemini in Chrome on desktop, letting users save prompts as reusable one-click tools and run them across selected tabs. \n The post  Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google is rolling out Skills to Gemini in Chrome on desktop, letting users save prompts as reusable one-click tools and run them across selected tabs. \n The post  Google Chrome Skills Turn Gemini Prompts Into Reusable Workflows  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "262fceb186c833bea09e185c6c655b11",
-      "title": "Your Webinar Program Isn’t Working? (So, Copy Ours) via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/why-your-webinar-program-isnt-working-so-copy-ours/571950/",
-      "source": "Search Engine Journal",
-      "published": "Tue, 14 Apr 2026 16:48:05 +0000",
-      "summary": "5 years ago, I stepped into the role of webinar ringmaster. I said yes to moderating, but it was all the background work that gave me butterflies. I’d second and third guess everything. Is the title right? What if it flops? Is the content level right for the attendees? Will the right attendees sign up? Is my hair ok?! But the program grew, and you all were so welcoming. Through the years we’ve tested on you all (it’s fun for us!) And I’ve learned so many tricks that I want to give back to my fellow marketers struggling to recoup […] \n The post  Your Webinar Program Isn’t Working? (So, Copy Ours)  appeared first on  Search Engine Journal .",
-      "ai_summary": "5 years ago, I stepped into the role of webinar ringmaster. I said yes to moderating, but it was all the background work that gave me butterflies. I’d second and third guess everything. Is the title right? What if it flops? Is the content level right for the attendees? Will the right attendees sign up? Is my hair ok?! But the program grew, and you all were so welcoming. Through the years we’ve tested on you all (it’s fun for us!) And I’ve learned so many tricks that I want to give back to my fellow marketers struggling to recoup […] \n The post  Your Webinar Program Isn’t Working? (So, Copy Ours)  appeared first on  Search Engine Journal ."
     },
     {
       "id": "1d87607c39f3e1f54ab111e6d88f7558",
@@ -515,15 +506,6 @@
       "ai_summary": "Websites aren’t built for AI agents, and that’s a problem. Slobodan Manic explains what needs to change. \n The post  Machine-First Architecture: AI Agents Are Here And Your Website Isn’t Ready, Says No Hacks Podcast Host  appeared first on  Search Engine Journal ."
     },
     {
-      "id": "324a6c0f7c2228422347065d169f47a5",
-      "title": "Search Ad Growth Slows As Social & Video Gain Faster via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/search-ad-growth-slows-as-social-video-gain-faster/572179/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 16 Apr 2026 12:30:31 +0000",
-      "summary": "IAB's annual report shows search ad growth fell while social media and digital video posted stronger year-over-year gains. \n The post  Search Ad Growth Slows As Social & Video Gain Faster  appeared first on  Search Engine Journal .",
-      "ai_summary": "IAB's annual report shows search ad growth fell while social media and digital video posted stronger year-over-year gains. \n The post  Search Ad Growth Slows As Social & Video Gain Faster  appeared first on  Search Engine Journal ."
-    },
-    {
       "id": "8a8f43a824d9fe83b645550160bc812e",
       "title": "What Is Answer Engine Optimization? And How to Do It",
       "url": "https://www.semrush.com/blog/answer-engine-optimization/",
@@ -542,33 +524,6 @@
       "ai_summary": "Learn how generative engine optimization helps you appear in AI-powered search results."
     },
     {
-      "id": "94839abe0df2b5df909d045a407179f1",
-      "title": "Should You Use Auto-Generated Creative? – Ask A PPC via @sejournal, @navahf",
-      "url": "https://www.searchenginejournal.com/ask-a-ppc-should-you-use-autogenerated-creative/571280/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 16 Apr 2026 12:00:11 +0000",
-      "summary": "The role of auto-generated creative continues to evolve as advertisers weigh efficiency and scale against control and compliance. \n The post  Should You Use Auto-Generated Creative? – Ask A PPC  appeared first on  Search Engine Journal .",
-      "ai_summary": "The role of auto-generated creative continues to evolve as advertisers weigh efficiency and scale against control and compliance. \n The post  Should You Use Auto-Generated Creative? – Ask A PPC  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "61ffdaa131ad78704b442c40a169075f",
-      "title": "Google’s Patent On Autonomous Search Results via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/googles-patent-on-autonomous-search-results/572216/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 16 Apr 2026 10:14:51 +0000",
-      "summary": "A recently updated patent describes how an automated assistant can circle back to a user when an answer is available at a later date. \n The post  Google’s Patent On Autonomous Search Results  appeared first on  Search Engine Journal .",
-      "ai_summary": "A recently updated patent describes how an automated assistant can circle back to a user when an answer is available at a later date. \n The post  Google’s Patent On Autonomous Search Results  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "4d285beece5d197ea8f97ab511ae00df",
-      "title": "Daily Search Forum Recap: April 16, 2026",
-      "url": "https://www.seroundtable.com/recap-04-16-2026-41172.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 16 Apr 2026 10:00:00 -0400",
-      "summary": "Here is a recap of what happened in the search forums today...",
-      "ai_summary": "Here is a recap of what happened in the search forums today..."
-    },
-    {
       "id": "530b033074fca257e07c32f0f461532e",
       "title": "The Search Leaders for International Flights, and how they appear across Chatbots",
       "url": "https://www.sistrix.com/blog/the-search-leaders-for-international-flights-and-how-they-appear-across-chatbots/",
@@ -576,51 +531,6 @@
       "published": "Thu, 16 Apr 2026 09:54:43 +0000",
       "summary": "The monthly SectorWatch series returned to travel this month. In this additional analysis I take data from that report and extend it across chatbots to find the leaders and similarities. I also look at AI Overviews exposure. Discover how SISTRIX can be used to improve your search marketing. Use a […] \n Der Beitrag  The Search Leaders for International Flights, and how they appear across Chatbots  erschien zuerst auf  SISTRIX .",
       "ai_summary": "The monthly SectorWatch series returned to travel this month. In this additional analysis I take data from that report and extend it across chatbots to find the leaders and similarities. I also look at AI Overviews exposure. Discover how SISTRIX can be used to improve your search marketing. Use a […] \n Der Beitrag  The Search Leaders for International Flights, and how they appear across Chatbots  erschien zuerst auf  SISTRIX ."
-    },
-    {
-      "id": "5b351a5df32784f46a0abc1a5a4fe094",
-      "title": "Google Ads PMax Channel Performance Spend Over Time",
-      "url": "https://www.seroundtable.com/google-ads-pmax-channel-performance-spend-over-time-41165.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 16 Apr 2026 07:51:00 -0400",
-      "summary": "Google Ads has rolled out a new update to the channel performance report on the insights report that shows spend over time per channel.  This shows you more clarity over your spending and if there are spikes or other reasons for those changes.",
-      "ai_summary": "Google Ads has rolled out a new update to the channel performance report on the insights report that shows spend over time per channel.  This shows you more clarity over your spending and if there are spikes or other reasons for those changes."
-    },
-    {
-      "id": "6ddeb3bcc6b476b67bd95da2f45706ab",
-      "title": "Wikipedia Deletes World-Famous SEO From Site: An Ode To Barry",
-      "url": "https://www.seroundtable.com/wikipedia-deletes-seo-new-journalist-from-site-41169.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 16 Apr 2026 07:41:00 -0400",
-      "summary": "Wikipedia says famed SEO news journalist is \"non-notable\" as the industry rages in response on platform known for reliable information, X, formerly known as Twitter.",
-      "ai_summary": "Wikipedia says famed SEO news journalist is \"non-notable\" as the industry rages in response on platform known for reliable information, X, formerly known as Twitter."
-    },
-    {
-      "id": "7b7144fdc2f099936e07c8c7f9d65aff",
-      "title": "Google Updates Some Merchant Center Product Specs For 2026",
-      "url": "https://www.seroundtable.com/google-updates-some-merchant-center-product-spec-41171.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 16 Apr 2026 07:31:00 -0400",
-      "summary": "Google has made a number of updates to its Merchant Center product data specifications. Some changes went into effect on April 14, 2026 and others happen June 30, 2026 and January 31...",
-      "ai_summary": "Google has made a number of updates to its Merchant Center product data specifications. Some changes went into effect on April 14, 2026 and others happen June 30, 2026 and January 31..."
-    },
-    {
-      "id": "6dd67db63668dd72745e00fab19aab27",
-      "title": "Google Ads Retiring Dynamic Search Ads For AI Max",
-      "url": "https://www.seroundtable.com/google-ads-dsa-ai-max-41170.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 16 Apr 2026 07:21:00 -0400",
-      "summary": "Google Ads announced that starting in September Dynamic Search Ads will automatically upgrade to AI Max. This includes automatically created assets (ACA) and campaign-level broad match setting will automatically be upgraded to AI Max.",
-      "ai_summary": "Google Ads announced that starting in September Dynamic Search Ads will automatically upgrade to AI Max. This includes automatically created assets (ACA) and campaign-level broad match setting will automatically be upgraded to AI Max."
-    },
-    {
-      "id": "5bd66aeaf663efc2e7b316962362f2a2",
-      "title": "Google AdSense Offerwall Is Now Generally Available",
-      "url": "https://www.seroundtable.com/google-adsense-offerwall-generally-available-41164.html",
-      "source": "Search Engine Roundtable",
-      "published": "Thu, 16 Apr 2026 07:11:00 -0400",
-      "summary": "Google announced this week that Offerwall is now generally available on AdSense. Google has been expanding access to its publishers for Offerwall and now, it should be available to all.",
-      "ai_summary": "Google announced this week that Offerwall is now generally available on AdSense. Google has been expanding access to its publishers for Offerwall and now, it should be available to all."
     },
     {
       "id": "ce7a48eeba14c34b34973d0be2f1c506",
@@ -677,6 +587,15 @@
       "ai_summary": "The March 2026 Core Update was announced on 27th March 2026, following the brief March Spam Update. It finished on April 8th 2026. It came not only in the wake of the spam update but following generally high movements in SERPs. Data, analysis, and rankings of the affected domains are […] \n Der Beitrag  March 2026 Core Update: Radar, Visibility Analysis and Background  erschien zuerst auf  SISTRIX ."
     },
     {
+      "id": "f6b3a6d8e62119a80725b0bcccc2e3d9",
+      "title": "Selling To AI: The Complete Guide To Agentic Commerce via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/selling-to-ai-the-complete-guide-to-agentic-commerce/570452/",
+      "source": "Search Engine Journal",
+      "published": "Sun, 19 Apr 2026 12:00:04 +0000",
+      "summary": "The next phase of ecommerce is being shaped by AI agents, open commerce protocols, and payment systems built for transactions without a human at checkout. \n The post  Selling To AI: The Complete Guide To Agentic Commerce  appeared first on  Search Engine Journal .",
+      "ai_summary": "The next phase of ecommerce is being shaped by AI agents, open commerce protocols, and payment systems built for transactions without a human at checkout. \n The post  Selling To AI: The Complete Guide To Agentic Commerce  appeared first on  Search Engine Journal ."
+    },
+    {
       "id": "5493b1c67d7b79d41ad5cf1716952da3",
       "title": "AI Adoption Outpaced The PC & Internet: Dive Into The Stanford Report Data via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/ai-adoption-outpaced-the-pc-internet-dive-into-the-stanford-report-data/572305/",
@@ -713,6 +632,141 @@
       "ai_summary": "Historically, most readers of my content have not had to worry about spam updates. However, I think many of you have indeed been impacted by the August 26, 2025 spam update. Recently In VP , Head of Search's Liz Reid's interview with WSJ, she said Google has expanded their definition of spam: \"We've expanded beyond […] \n The post  How to tell if you were impacted by the August 2025 spam update (and what to do about it)  appeared first on  Marie Haynes ."
     },
     {
+      "id": "ce9a53bb0411091e05a84f0f2a685a2f",
+      "title": "How To Build AI Visibility In 90 Days [Webinar] via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/how-to-build-ai-visibility-in-90-days-webinar/572471/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 20 Apr 2026 18:01:12 +0000",
+      "summary": "Explore effective frameworks for enhancing AI visibility to attract buyers and adapt to the new search dynamics. \n The post  How To Build AI Visibility In 90 Days [Webinar]  appeared first on  Search Engine Journal .",
+      "ai_summary": "Explore effective frameworks for enhancing AI visibility to attract buyers and adapt to the new search dynamics. \n The post  How To Build AI Visibility In 90 Days [Webinar]  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "7702e8c1549a83d6f8b9ec80bb750766",
+      "title": "Brand Mentions: Complete Guide to Tracking, Measuring & Optimizing",
+      "url": "https://www.semrush.com/blog/brand-mentions/",
+      "source": "Semrush blog",
+      "published": "Mon, 20 Apr 2026 15:06:00 +0000",
+      "summary": "Learn why brand mentions matter for SEO and AI SEO, how to get more brand mentions, and how to track them.",
+      "ai_summary": "Learn why brand mentions matter for SEO and AI SEO, how to get more brand mentions, and how to track them."
+    },
+    {
+      "id": "7be5e3d8b7b4e0bfebd84cd1664807a2",
+      "title": "Google May Have To Share Search Data With Rivals via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-may-have-to-share-search-data-with-rivals/572434/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 20 Apr 2026 12:41:36 +0000",
+      "summary": "The European Commission proposed Google share data with rival search engines and qualifying AI chatbots in the EU/EEA. \n The post  Google May Have To Share Search Data With Rivals  appeared first on  Search Engine Journal .",
+      "ai_summary": "The European Commission proposed Google share data with rival search engines and qualifying AI chatbots in the EU/EEA. \n The post  Google May Have To Share Search Data With Rivals  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "e69ed50577dab7dcc9d47f2ef036f394",
+      "title": "Winning Google Ads Campaign Structures For DTC Ecommerce via @sejournal, @MenachemAni",
+      "url": "https://www.searchenginejournal.com/winning-google-ads-campaign-structures-for-dtc-ecommerce/571400/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 20 Apr 2026 12:30:09 +0000",
+      "summary": "Many ecommerce brands misapply Meta-style thinking to Google Ads, leading to wasted spend and weak performance from poorly structured accounts.  \n The post  Winning Google Ads Campaign Structures For DTC Ecommerce  appeared first on  Search Engine Journal .",
+      "ai_summary": "Many ecommerce brands misapply Meta-style thinking to Google Ads, leading to wasted spend and weak performance from poorly structured accounts.  \n The post  Winning Google Ads Campaign Structures For DTC Ecommerce  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "a37126ddbff6233696abe14867781c9c",
+      "title": "Google Lists Best Practices For Read More Deep Links via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-lists-best-practices-for-read-more-deep-links/572423/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 20 Apr 2026 12:15:05 +0000",
+      "summary": "Google has outlined best practices that can increase the likelihood of \"Read more\" deep links appearing.  \n The post  Google Lists Best Practices For Read More Deep Links  appeared first on  Search Engine Journal .",
+      "ai_summary": "Google has outlined best practices that can increase the likelihood of \"Read more\" deep links appearing.  \n The post  Google Lists Best Practices For Read More Deep Links  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "438d71cdf9fb803e854424c575ef2c4e",
+      "title": "What Search Engines Trust Now: Authority, Freshness & First-Party Signals via @sejournal, @cshel",
+      "url": "https://www.searchenginejournal.com/what-search-engines-trust-now-authority-freshness-first-party-signals/570553/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 20 Apr 2026 12:00:07 +0000",
+      "summary": "Trust in search is now dynamic, requiring ongoing authority building, content maintenance, and structured delivery to remain visible. \n The post  What Search Engines Trust Now: Authority, Freshness & First-Party Signals  appeared first on  Search Engine Journal .",
+      "ai_summary": "Trust in search is now dynamic, requiring ongoing authority building, content maintenance, and structured delivery to remain visible. \n The post  What Search Engines Trust Now: Authority, Freshness & First-Party Signals  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "21874e16adcb103394314552d0650467",
+      "title": "68 Million AI Crawler Visits Show What Drives AI Search Visibility via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/68-million-ai-crawler-visits-show-what-drives-ai-search-visibility/572386/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 20 Apr 2026 10:15:26 +0000",
+      "summary": "Research on 68 million AI crawler visits show what SEOs should do to improve AI search performance \n The post  68 Million AI Crawler Visits Show What Drives AI Search Visibility  appeared first on  Search Engine Journal .",
+      "ai_summary": "Research on 68 million AI crawler visits show what SEOs should do to improve AI search performance \n The post  68 Million AI Crawler Visits Show What Drives AI Search Visibility  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "cc98e05fe1c4378a61f8d1c31d844a05",
+      "title": "Daily Search Forum Recap: April 20, 2026",
+      "url": "https://www.seroundtable.com/recap-04-20-2026-41185.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 20 Apr 2026 10:00:00 -0400",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "ai_summary": "Here is a recap of what happened in the search forums today..."
+    },
+    {
+      "id": "15f96e1d52c57ecae20f4a2bad183ca4",
+      "title": "SEO checklist: 43 tips to optimize your website",
+      "url": "https://www.semrush.com/blog/seo-checklist/",
+      "source": "Semrush blog",
+      "published": "Mon, 20 Apr 2026 08:35:00 +0000",
+      "summary": "Use this SEO checklist to optimize your site for both Google and AI-driven search results.",
+      "ai_summary": "Use this SEO checklist to optimize your site for both Google and AI-driven search results."
+    },
+    {
+      "id": "04fed5d15cb8ff8bb933db70a2d79b61",
+      "title": "Google Search Tests Opening Search Results In New Window",
+      "url": "https://www.seroundtable.com/google-opening-search-results-in-new-window-41184.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 20 Apr 2026 07:51:00 -0400",
+      "summary": "Google is reportedly testing opening search results in a new window.  Yes, there is a setting to turn this on or off, but the setting is turned off and Google is testing opening these clicks in a new window.",
+      "ai_summary": "Google is reportedly testing opening search results in a new window.  Yes, there is a setting to turn this on or off, but the setting is turned off and Google is testing opening these clicks in a new window."
+    },
+    {
+      "id": "cf983556bb12de423f121a985fd699fe",
+      "title": "5 Strategic Features that Predict Survival in the Zero-Click Era",
+      "url": "https://sparktoro.com/blog/5-strategic-features-that-predict-survival-in-the-zero-click-era/",
+      "source": "SparkToro",
+      "published": "Mon, 20 Apr 2026 07:41:01 +0000",
+      "summary": "No amount of tactical excellence can save you.\n\n\n\nThat’s the lesson in the zero-click era — you can be the best meme-maker on social, the greatest editor in short-form video, the best keyword researcher the SEO world has ever known… it won’t matter. If your website and business model are things Google and AI can disintermediate, they will. This is…",
+      "ai_summary": "No amount of tactical excellence can save you.\n\n\n\nThat’s the lesson in the zero-click era — you can be the best meme-maker on social, the greatest editor in short-form video, the best keyword researcher the SEO world has ever known… it won’t matter. If your website and business model are things Google and AI can disintermediate, they will. This is…"
+    },
+    {
+      "id": "09b00a1c4d708ca0db908eb828c05ee0",
+      "title": "Google Local Search Ads With Videos Ads",
+      "url": "https://www.seroundtable.com/google-local-video-ads-41183.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 20 Apr 2026 07:41:00 -0400",
+      "summary": "Google is testing showing video ads within the local pack ads.  This is also known as immersive map view videos, I am told.",
+      "ai_summary": "Google is testing showing video ads within the local pack ads.  This is also known as immersive map view videos, I am told."
+    },
+    {
+      "id": "d74b3db55113b6f879eb2efbb8e07aa5",
+      "title": "Can Google Handle Domains With One Letter Difference? Usually",
+      "url": "https://www.seroundtable.com/one-letter-domain-difference-google-41182.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 20 Apr 2026 07:31:00 -0400",
+      "summary": "A Reddit thread asks if there are any issues with Google Search handling a domain name that has a single letter change in the domain name from another domain name. John Mueller from Google said that usually this is not a problem from Google Search.",
+      "ai_summary": "A Reddit thread asks if there are any issues with Google Search handling a domain name that has a single letter change in the domain name from another domain name. John Mueller from Google said that usually this is not a problem from Google Search."
+    },
+    {
+      "id": "4623f3c740201cd0e28e6ea2f268abc8",
+      "title": "Better Competitor Targeting In ChatGPT Ads?",
+      "url": "https://www.seroundtable.com/example-of-possible-competitor-targeting-in-chatgpt-ads-41181.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 20 Apr 2026 07:21:00 -0400",
+      "summary": "Are ChatGPT ads allowing advertisers to go after competitors with greater specificity, or is this just a topical fluke?",
+      "ai_summary": "Are ChatGPT ads allowing advertisers to go after competitors with greater specificity, or is this just a topical fluke?"
+    },
+    {
+      "id": "62b1a4f9ac52967078178a25db7dc69a",
+      "title": "Microsoft Bing Offers IndexNow Support To The Internet Archive",
+      "url": "https://www.seroundtable.com/microsoft-indexnow-support-internet-archive-41180.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 20 Apr 2026 07:11:00 -0400",
+      "summary": "The folks at the Internet Archive are having issues with archiving the web. Something it has done since 1996 and is such a foundational website that it is sad to see.  That being said, Fabrice Canel from Microsoft Bing wants to help.",
+      "ai_summary": "The folks at the Internet Archive are having issues with archiving the web. Something it has done since 1996 and is such a foundational website that it is sad to see.  That being said, Fabrice Canel from Microsoft Bing wants to help."
+    },
+    {
       "id": "b6f9826255b8a66c0de23c46fc99c86f",
       "title": "AI Content Wasn’t Good Enough. Now It Is.",
       "url": "https://ahrefs.com/blog/ai-content-wasnt-good-enough-now-it-is/",
@@ -747,15 +801,6 @@
       "published": "Mon, 09 Mar 2026 16:15:00 +0000",
       "summary": "I enjoyed this interview with Google’s head of Search Liz Reid on the ACCESS Podcast with Alex Heath and Ellis Hamburger.   Liz talked a lot about the future of Search. Here are the 5 most interesting parts. Will agents eventually do most of the activity on the web? Yes, but not all of the […] \n The post  5 things I learned about the future of Search from Liz Reid’s latest interview  appeared first on  Marie Haynes .",
       "ai_summary": "I enjoyed this interview with Google’s head of Search Liz Reid on the ACCESS Podcast with Alex Heath and Ellis Hamburger.   Liz talked a lot about the future of Search. Here are the 5 most interesting parts. Will agents eventually do most of the activity on the web? Yes, but not all of the […] \n The post  5 things I learned about the future of Search from Liz Reid’s latest interview  appeared first on  Marie Haynes ."
-    },
-    {
-      "id": "0d0f03537b74a259bd6d610f5a757c03",
-      "title": "How Much is Your Audience Searching Google vs. Prompting AI Tools? SparkToro’s Answers Just Got an Upgrade",
-      "url": "https://sparktoro.com/blog/how-much-is-your-audience-searching-google-vs-prompting-ai-tools-sparktoros-answers-just-got-an-upgrade/",
-      "source": "SparkToro",
-      "published": "Mon, 09 Mar 2026 04:38:26 +0000",
-      "summary": "For the past year, SparkToro’s had the remarkable ability to tell you how much your audience used Google vs. ChatGPT, Perplexity vs. Yahoo, Claude vs. Bing, and dozens of other search engines and AI tools. But… well, we’re a bit embarassed to say this… that data used clickstream visitation, NOT search and prompting activity.\n\n\n\nWhen we conducted our research last…",
-      "ai_summary": "For the past year, SparkToro’s had the remarkable ability to tell you how much your audience used Google vs. ChatGPT, Perplexity vs. Yahoo, Claude vs. Bing, and dozens of other search engines and AI tools. But… well, we’re a bit embarassed to say this… that data used clickstream visitation, NOT search and prompting activity.\n\n\n\nWhen we conducted our research last…"
     },
     {
       "id": "a44ae157c3f2c76a24e8588a4d2713fc",
@@ -873,51 +918,6 @@
       "published": "Fri, 17 Apr 2026 07:51:00 -0400",
       "summary": "Google also released the annual Google Maps safety report saying blocked or removed over 292 million policy-violating reviews and removed over 13 million fake Business Profiles. Google also said it blocked 79 million inaccurate or unverified edits and placed posting restrictions on more than 783,000 policy-violating accounts.",
       "ai_summary": "Google also released the annual Google Maps safety report saying blocked or removed over 292 million policy-violating reviews and removed over 13 million fake Business Profiles. Google also said it blocked 79 million inaccurate or unverified edits and placed posting restrictions on more than 783,000 policy-violating accounts."
-    },
-    {
-      "id": "32ca3fe304b5053073a72bea9869410d",
-      "title": "Google Ads Removed 8.3 Billion Ads - Up Over 60% (Most Before Serving)",
-      "url": "https://www.seroundtable.com/google-ads-safety-report-41173.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 17 Apr 2026 07:41:00 -0400",
-      "summary": "Google has released its annual Google Ads safety report and the big number that stands out to me is that Google removed 8.3 billion ads, which is up almost 63% from last year's number of 5.1 billion.  Google did say that 99% of those were removed before serving the ad, thanks to Gemini.",
-      "ai_summary": "Google has released its annual Google Ads safety report and the big number that stands out to me is that Google removed 8.3 billion ads, which is up almost 63% from last year's number of 5.1 billion.  Google did say that 99% of those were removed before serving the ad, thanks to Gemini."
-    },
-    {
-      "id": "49375fd72e720db74d0184768f28d38e",
-      "title": "Bing Tests Animated People Also Search For",
-      "url": "https://www.seroundtable.com/bing-animated-people-also-search-for-41162.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 17 Apr 2026 07:31:00 -0400",
-      "summary": "Microsoft is testing animating the Bing \"people also search for\" boxes. Bing will run this animated outline around the boxes when it loads, to give it more attention to the searcher.",
-      "ai_summary": "Microsoft is testing animating the Bing \"people also search for\" boxes. Bing will run this animated outline around the boxes when it loads, to give it more attention to the searcher."
-    },
-    {
-      "id": "8d1b35a0d4884ea71aca51a7bbfbc319",
-      "title": "Google's AI Mode Now Opens Links In Split View On Desktop",
-      "url": "https://www.seroundtable.com/google-ai-mode-split-view-41178.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 17 Apr 2026 07:25:00 -0400",
-      "summary": "Google rolled an important change with how AI Mode works yesterday and it can have a big impact on the experience for desktop users. Now when users click a link in AI Mode...",
-      "ai_summary": "Google rolled an important change with how AI Mode works yesterday and it can have a big impact on the experience for desktop users. Now when users click a link in AI Mode..."
-    },
-    {
-      "id": "aaa3b3c8e901e24641c146708e5eae80",
-      "title": "Google Updates Reviews Policy To Restrict Staff Mentions & Solicitations",
-      "url": "https://www.seroundtable.com/google-reviews-policy-staff-mentions-solicitations-41175.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 17 Apr 2026 07:21:00 -0400",
-      "summary": "Google has updated its reviews policy to add two items; (1) do not have your staff solicit a certain number of reviews and (2) the content of the review should not mention the staff member's name and information.",
-      "ai_summary": "Google has updated its reviews policy to add two items; (1) do not have your staff solicit a certain number of reviews and (2) the content of the review should not mention the staff member's name and information."
-    },
-    {
-      "id": "37eef05952936a43ccb77a31aace12e5",
-      "title": "Google Local Service Ads To Pull Rich Content Through Your URLs",
-      "url": "https://www.seroundtable.com/google-local-service-ads-rich-content-urls-41174.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 17 Apr 2026 07:11:00 -0400",
-      "summary": "Google sent out emails to some of its Local Service Ads advertisers introducing \"rich content\" that can be pulled from your URLs.  Rich content includes service descriptions and special offers.",
-      "ai_summary": "Google sent out emails to some of its Local Service Ads advertisers introducing \"rich content\" that can be pulled from your URLs.  Rich content includes service descriptions and special offers."
     },
     {
       "id": "8a7f95420e4ba044bdb5379e7b2e2f54",

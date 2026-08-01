@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T08:44:08.668717+00:00",
+  "generated_at": "2026-08-01T08:14:06.427048+00:00",
   "items": [
     {
       "id": "e74bd9acae41f59df8aebb9b63796499",
@@ -38,15 +38,6 @@
       "ai_summary": "Search Console platform properties are now open to everyone worldwide, and Google has published a guide to reading your social and video search data. \n The post  Google Opens Search Console Social Reporting To Everyone  appeared first on  Search Engine Journal ."
     },
     {
-      "id": "8a039a7a3d8ff24cd164d0f4b805303b",
-      "title": "Bing Ads Revenue Up 10%",
-      "url": "https://www.seroundtable.com/microsoft-earnings-41786.html",
-      "source": "Search Engine Roundtable",
-      "published": "Wed, 29 Jul 2026 16:03:00 -0400",
-      "summary": "Microsoft reported its fourth-quarter 2026 earnings, showing that its search and advertising revenue was up 10%, indicating its ad growth was 2 points lower than the previous quarter. The previous quarter it was up 12%, before that up 10% before that, up 16% and the one before that was 21% and this quarter, it is only up 10%.",
-      "ai_summary": "Microsoft reported its fourth-quarter 2026 earnings, showing that its search and advertising revenue was up 10%, indicating its ad growth was 2 points lower than the previous quarter. The previous quarter it was up 12%, before that up 10% before that, up 16% and the one before that was 21% and this quarter, it is only up 10%."
-    },
-    {
       "id": "671e1cd51041e7ded5a4e1e67253b0d6",
       "title": "Google Ads Bidding Strategies: Where To Spend Your Time In 2026 via @sejournal, @LisaRocksSEM",
       "url": "https://www.searchenginejournal.com/google-ads-bidding-strategies-where-to-spend-your-time-in-2026/581479/",
@@ -83,24 +74,6 @@
       "ai_summary": "Google's John Mueller says if sites are serving conflicting metadata, they should fix the conflict, not test which source wins. \n The post  Google’s Mueller: Fix Conflicting Metadata, Don’t Test It  appeared first on  Search Engine Journal ."
     },
     {
-      "id": "901d4dfcea2f1db5ad9068f90ba54fd6",
-      "title": "Daily Search Forum Recap: July 29, 2026",
-      "url": "https://www.seroundtable.com/recap-07-29-2026-41781.html",
-      "source": "Search Engine Roundtable",
-      "published": "Wed, 29 Jul 2026 10:00:00 -0400",
-      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nGoogle Search Console platform properties is fully live, it is cool...",
-      "ai_summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nGoogle Search Console platform properties is fully live, it is cool..."
-    },
-    {
-      "id": "e29b5db2c9cb2d925c7a12488393bde1",
-      "title": "Google Platform Properties Now Fully Live",
-      "url": "https://www.seroundtable.com/google-platform-properties-live-41785.html",
-      "source": "Search Engine Roundtable",
-      "published": "Wed, 29 Jul 2026 09:33:00 -0400",
-      "summary": "Earlier this month, Google announced platform properties, a way to see content that you manage but on third-party platforms, including social platforms and video platforms. So if you have an account on Instagram, TikTok, X and/or YouTube, you can claim access and see how your content on those platforms are performing within Google Search. That feature is now globally live as of today, Google announced.",
-      "ai_summary": "Earlier this month, Google announced platform properties, a way to see content that you manage but on third-party platforms, including social platforms and video platforms. So if you have an account on Instagram, TikTok, X and/or YouTube, you can claim access and see how your content on those platforms are performing within Google Search. That feature is now globally live as of today, Google announced."
-    },
-    {
       "id": "65071cb8172e13f4bc1aa59044060812",
       "title": "YouTube Views Rose While Long-Form Ad Revenue Fell, Data Shows via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/youtube-views-rose-while-long-form-ad-revenue-fell-data-shows/584040/",
@@ -108,51 +81,6 @@
       "published": "Wed, 29 Jul 2026 09:00:29 +0000",
       "summary": "Metricool data shows views per long-form YouTube post increased while estimated ad revenue and average view duration fell. \n The post  YouTube Views Rose While Long-Form Ad Revenue Fell, Data Shows  appeared first on  Search Engine Journal .",
       "ai_summary": "Metricool data shows views per long-form YouTube post increased while estimated ad revenue and average view duration fell. \n The post  YouTube Views Rose While Long-Form Ad Revenue Fell, Data Shows  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "da813ff985065e84a03e034f274d8a68",
-      "title": "The Problem With unavailable_after - Google Might Not See Updated Dates",
-      "url": "https://www.seroundtable.com/google-unavailable_after-date-41771.html",
-      "source": "Search Engine Roundtable",
-      "published": "Wed, 29 Jul 2026 07:51:00 -0400",
-      "summary": "Google supports the unavailable_after meta attribute, which will tell Google not to show this page in search results after the specified date/time.  The problem with this, is that if you try to change the unavailable_after date later, Google might not pick up on it because Google may not try to crawl that page before the last given date.",
-      "ai_summary": "Google supports the unavailable_after meta attribute, which will tell Google not to show this page in search results after the specified date/time.  The problem with this, is that if you try to change the unavailable_after date later, Google might not pick up on it because Google may not try to crawl that page before the last given date."
-    },
-    {
-      "id": "29542e717111a7ec476505f9e65ce985",
-      "title": "Bing Testing Pricing On Product Images",
-      "url": "https://www.seroundtable.com/bing-pricing-product-images-41765.html",
-      "source": "Search Engine Roundtable",
-      "published": "Wed, 29 Jul 2026 07:41:00 -0400",
-      "summary": "Microsoft seems to be testing showing pricing on the product images within the Bing Search organic results.  Normally, Bing would show review stars on the product images and, below the image, show the price. I should note that I am also seeing two rows of products under a single search result snippet, which I think is new.",
-      "ai_summary": "Microsoft seems to be testing showing pricing on the product images within the Bing Search organic results.  Normally, Bing would show review stars on the product images and, below the image, show the price. I should note that I am also seeing two rows of products under a single search result snippet, which I think is new."
-    },
-    {
-      "id": "f106d273ad3318cd0f2fe4703f9b1f05",
-      "title": "Google Ads Target CPA & Target ROAS As Explicit Bidding Strategy Options",
-      "url": "https://www.seroundtable.com/google-ads-target-cpa-target-roas-bidding-options-41770.html",
-      "source": "Search Engine Roundtable",
-      "published": "Wed, 29 Jul 2026 07:31:00 -0400",
-      "summary": "The Google Ads interface now shows Target CPA and Target ROAS as explicit bidding strategy options in the drop-down of bidding options.  We knew this was coming, as it is supported in the new version of Google Ads Editor 2.13 and all the other recent communication from Google and now advertisers are seeing it.",
-      "ai_summary": "The Google Ads interface now shows Target CPA and Target ROAS as explicit bidding strategy options in the drop-down of bidding options.  We knew this was coming, as it is supported in the new version of Google Ads Editor 2.13 and all the other recent communication from Google and now advertisers are seeing it."
-    },
-    {
-      "id": "2a69926a3ec4cfe9d0e0b2f76fb341b2",
-      "title": "Google Search Doesn't Publish Precedence For Metadata In Conflict",
-      "url": "https://www.seroundtable.com/google-precedence-metadata-conflicts-41778.html",
-      "source": "Search Engine Roundtable",
-      "published": "Wed, 29 Jul 2026 07:21:00 -0400",
-      "summary": "Google's John Mueller confirmed it has not and likely won't publish publicly Google Search's defined order of precedence for metadata reconciliation. In other words, if you have conflicting signals you are sending Google, which signal trumps the other. Like a 301 redirect from URL A to URL B but on URL B, you have a canonical tag to URL A, which should Google trust.",
-      "ai_summary": "Google's John Mueller confirmed it has not and likely won't publish publicly Google Search's defined order of precedence for metadata reconciliation. In other words, if you have conflicting signals you are sending Google, which signal trumps the other. Like a 301 redirect from URL A to URL B but on URL B, you have a canonical tag to URL A, which should Google trust."
-    },
-    {
-      "id": "b8e69049ad57307c6fa550ad1fbf2541",
-      "title": "Google Ads Lead Journey Mapping",
-      "url": "https://www.seroundtable.com/google-ads-lead-journey-mapping-41782.html",
-      "source": "Search Engine Roundtable",
-      "published": "Wed, 29 Jul 2026 07:11:00 -0400",
-      "summary": "Google Ads posted details about a new feature it calls \"Lead Journey Mapping.\" Lead Journey Mapping is a visual drag-and-drop tool that allows lead generation advertisers to map their end-to-end customer journey within Google Ads.",
-      "ai_summary": "Google Ads posted details about a new feature it calls \"Lead Journey Mapping.\" Lead Journey Mapping is a visual drag-and-drop tool that allows lead generation advertisers to map their end-to-end customer journey within Google Ads."
     },
     {
       "id": "feabf102ba060ae064d399a8f6c1d24c",
@@ -344,33 +272,6 @@
       "ai_summary": "If you tuned into\n  episode 105 of the Search Off the Record podcast,\n  you might have heard us diving deep into a topic that is close to our hearts\n  (and our servers): the inner workings of Googlebot."
     },
     {
-      "id": "4d86461c56f725a55bdb19947343e95c",
-      "title": "AI Opt-Out May Cost Sites A Google Top Stories Spot via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/ai-opt-out-may-cost-publishers-a-top-stories-spot/584016/",
-      "source": "Search Engine Journal",
-      "published": "Tue, 28 Jul 2026 21:20:40 +0000",
-      "summary": "Google is putting Top Stories carousels inside AI Overviews, raising the stakes on its new AI opt-out setting in Search Console. \n The post  AI Opt-Out May Cost Sites A Google Top Stories Spot  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google is putting Top Stories carousels inside AI Overviews, raising the stakes on its new AI opt-out setting in Search Console. \n The post  AI Opt-Out May Cost Sites A Google Top Stories Spot  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "e44f08e5accfb6d129bdb68904c70424",
-      "title": "The Future Of Search & AI: What I Learned From Google’s Latest Earnings Call via @sejournal, @marie_haynes",
-      "url": "https://www.searchenginejournal.com/the-future-of-search-ai-what-i-learned-from-googles-latest-earnings-call/583662/",
-      "source": "Search Engine Journal",
-      "published": "Tue, 28 Jul 2026 19:00:06 +0000",
-      "summary": "Is Google still a search engine? Its Q2 2026 earnings call suggests the answer is changing, and website owners should plan accordingly. \n The post  The Future Of Search & AI: What I Learned From Google’s Latest Earnings Call  appeared first on  Search Engine Journal .",
-      "ai_summary": "Is Google still a search engine? Its Q2 2026 earnings call suggests the answer is changing, and website owners should plan accordingly. \n The post  The Future Of Search & AI: What I Learned From Google’s Latest Earnings Call  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "5d71606d2865b2797498febee345230e",
-      "title": "Google Search Results Still Rank Heavily AI-Flagged Pages via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/heavily-ai-flagged-pages-still-rank-across-googles-top-10/583983/",
-      "source": "Search Engine Journal",
-      "published": "Tue, 28 Jul 2026 18:06:52 +0000",
-      "summary": "Data ties higher AI detector scores to lower positions and to fewer pages in Google's index, though heavily flagged pages still rank in top 10. \n The post  Google Search Results Still Rank Heavily AI-Flagged Pages  appeared first on  Search Engine Journal .",
-      "ai_summary": "Data ties higher AI detector scores to lower positions and to fewer pages in Google's index, though heavily flagged pages still rank in top 10. \n The post  Google Search Results Still Rank Heavily AI-Flagged Pages  appeared first on  Search Engine Journal ."
-    },
-    {
       "id": "3b6fea75f021a9e0b2e6fb6d6d2a6dd9",
       "title": "Vibe Coding for Marketers: A Beginner’s Guide",
       "url": "https://ahrefs.com/blog/vibe-coding-for-marketers-a-beginners-guide/",
@@ -441,15 +342,6 @@
       "published": "Tue, 14 Jul 2026 09:25:00 +0000",
       "summary": "Audience research helps you understand your ideal customers. Here’s a breakdown and how to do it.",
       "ai_summary": "Audience research helps you understand your ideal customers. Here’s a breakdown and how to do it."
-    },
-    {
-      "id": "becc221da03ec592169b39e0b7c3f6fa",
-      "title": "Keyword cannibalization: How to find, fix, and prevent it",
-      "url": "https://www.semrush.com/blog/keyword-cannibalization-guide/",
-      "source": "Semrush blog",
-      "published": "Tue, 14 Jul 2026 09:12:00 +0000",
-      "summary": "Keyword cannibalization occurs when pages on a site target the same keyword. They can affect your rankings and AI citations. Here’s how to fix them.",
-      "ai_summary": "Keyword cannibalization occurs when pages on a site target the same keyword. They can affect your rankings and AI citations. Here’s how to fix them."
     },
     {
       "id": "b1dde87c5ceff5a9f11e00e27d2386a8",
@@ -857,6 +749,51 @@
       "ai_summary": "Everyone in SEO knows Google Core Updates: overnight, the visibility of domains shifts. Our data now shows the same pattern in ChatGPT. On May 23, 2026, the switch from GPT-5 mini to GPT-5.5 shifted citations in German-language ChatGPT responses by 47% within 48 hours. Note: The data in this analysis […] \n Der Beitrag  ChatGPT Core Updates: Chatbots Have Algorithm Changes Too  erschien zuerst auf  SISTRIX ."
     },
     {
+      "id": "7965d18e69bca20d94ba9ac092c84e5a",
+      "title": "7 best AI visibility tracking tools for agencies by need",
+      "url": "https://www.semrush.com/blog/ai-visibility-tracking-tools-for-agencies/",
+      "source": "Semrush blog",
+      "published": "Fri, 31 Jul 2026 15:04:00 +0000",
+      "summary": "The best AI visibility tracking tools for agencies include Semrush, OtterlyAI, and Peec AI. Here’s why.",
+      "ai_summary": "The best AI visibility tracking tools for agencies include Semrush, OtterlyAI, and Peec AI. Here’s why."
+    },
+    {
+      "id": "5895aff7261bda74e1164999f741a483",
+      "title": "Cloudflare’s PACT Is Not Live Yet – Decide Which Track Your Traffic Needs via @sejournal, @slobodanmanic",
+      "url": "https://www.searchenginejournal.com/cloudflares-pact-is-not-live-yet-decide-which-track-your-traffic-needs/580328/",
+      "source": "Search Engine Journal",
+      "published": "Fri, 31 Jul 2026 14:30:32 +0000",
+      "summary": "Cloudflare and three rival browsers agreed on one protocol. That's rare. It still only solves half of the agentic access problem. \n The post  Cloudflare’s PACT Is Not Live Yet – Decide Which Track Your Traffic Needs  appeared first on  Search Engine Journal .",
+      "ai_summary": "Cloudflare and three rival browsers agreed on one protocol. That's rare. It still only solves half of the agentic access problem. \n The post  Cloudflare’s PACT Is Not Live Yet – Decide Which Track Your Traffic Needs  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "46ad5704d409d5ca54c743c66b585ed9",
+      "title": "Social Search Data For All, AI-Detected Pages Rank Lower – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-social-search-data-for-all-ai-detected-pages-rank-lower/584337/",
+      "source": "Search Engine Journal",
+      "published": "Fri, 31 Jul 2026 12:30:09 +0000",
+      "summary": "This week’s SEO Pulse covers expanded Search Console social reporting, Ahrefs’ AI-content ranking analysis, AI opt-out implications, and metadata guidance. \n The post  Social Search Data For All, AI-Detected Pages Rank Lower – SEO Pulse  appeared first on  Search Engine Journal .",
+      "ai_summary": "This week’s SEO Pulse covers expanded Search Console social reporting, Ahrefs’ AI-content ranking analysis, AI opt-out implications, and metadata guidance. \n The post  Social Search Data For All, AI-Detected Pages Rank Lower – SEO Pulse  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "09e2ffc9875f2236004350ca7a09dc21",
+      "title": "Google May Treat Search Box Pages As A Site Quality Issue via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/google-may-treat-search-box-pages-as-a-site-quality-issue/584419/",
+      "source": "Search Engine Journal",
+      "published": "Fri, 31 Jul 2026 11:24:14 +0000",
+      "summary": "Google said that spammed search box pages may become a site quality issue and dealt with as if they were hacked. \n The post  Google May Treat Search Box Pages As A Site Quality Issue  appeared first on  Search Engine Journal .",
+      "ai_summary": "Google said that spammed search box pages may become a site quality issue and dealt with as if they were hacked. \n The post  Google May Treat Search Box Pages As A Site Quality Issue  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "845944454b0837ae9c69aed2d7134dd5",
+      "title": "Daily Search Forum Recap: July 31, 2026",
+      "url": "https://www.seroundtable.com/recap-07-31-2026-41800.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 31 Jul 2026 10:00:00 -0400",
+      "summary": "Here is a recap of what happened in the search forums today...",
+      "ai_summary": "Here is a recap of what happened in the search forums today..."
+    },
+    {
       "id": "f5eb0cfe4ec6288d29a4e6b24a2d887d",
       "title": "Prompt Research, AI Deep Dives and MCP Access for all: SISTRIX Updates in the Second Quarter of 2026",
       "url": "https://www.sistrix.com/blog/changelog-q2-2026/",
@@ -864,6 +801,69 @@
       "published": "Fri, 31 Jul 2026 08:14:07 +0000",
       "summary": "Prompt Research brings the keyword exploration for AI search, AI Deep Dives deliver data-based analyses directly into the Toolbox and the MCP server is now available to all, no need for API credits. All important SISTRIX updates from the second quarter of 2026 can be found here in this overview. […] \n Der Beitrag  Prompt Research, AI Deep Dives and MCP Access for all: SISTRIX Updates in the Second Quarter of 2026  erschien zuerst auf  SISTRIX .",
       "ai_summary": "Prompt Research brings the keyword exploration for AI search, AI Deep Dives deliver data-based analyses directly into the Toolbox and the MCP server is now available to all, no need for API credits. All important SISTRIX updates from the second quarter of 2026 can be found here in this overview. […] \n Der Beitrag  Prompt Research, AI Deep Dives and MCP Access for all: SISTRIX Updates in the Second Quarter of 2026  erschien zuerst auf  SISTRIX ."
+    },
+    {
+      "id": "933f4615b21fc8dd04efd9a63cc1aad5",
+      "title": "Search News Buzz Video Recap: Google Platform Properties Live, Google Ads Lead Journey Mapping, Microsoft Ads, ChatGPT Ads & More SEO",
+      "url": "https://www.seroundtable.com/video-07-31-2026-41791.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 31 Jul 2026 08:01:00 -0400",
+      "summary": "This week, yep, we had more ongoing Google Search volatility but a calming period on Wednesday.  Google has rolled out the platform properties to track X, YouTube...",
+      "ai_summary": "This week, yep, we had more ongoing Google Search volatility but a calming period on Wednesday.  Google has rolled out the platform properties to track X, YouTube..."
+    },
+    {
+      "id": "933a04b5a7e269c3a2bc3bf5950ec09d",
+      "title": "Microsoft Ads Predictive Matching Moving To Search Term Matching",
+      "url": "https://www.seroundtable.com/microsoft-predictive-matching-search-term-41783.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 31 Jul 2026 07:51:00 -0400",
+      "summary": "Microsoft Advertising is moving its Predictive Matching targeting option to Search term matching within AI Max. Microsoft added a note to various help document pages about the change, it says:",
+      "ai_summary": "Microsoft Advertising is moving its Predictive Matching targeting option to Search term matching within AI Max. Microsoft added a note to various help document pages about the change, it says:"
+    },
+    {
+      "id": "fbaac225a016b4e3ef68d02e9331a849",
+      "title": "Blocking Internal Search Results Not In Google Guidelines Anymore But...",
+      "url": "https://www.seroundtable.com/internal-search-results-google-guidelines-41794.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 31 Jul 2026 07:41:00 -0400",
+      "summary": "In the latest Search Off the Record podcast, John Mueller from Google said that it is no longer in the Google Guidelines, now Google Search Essentials, that you must block Google from accessing your internal search results pages.  He added that you likely should continue to do so because it can lead to (a) intense server load and (b) quality issues if abused, which can cause Google search ranking issues as a result.",
+      "ai_summary": "In the latest Search Off the Record podcast, John Mueller from Google said that it is no longer in the Google Guidelines, now Google Search Essentials, that you must block Google from accessing your internal search results pages.  He added that you likely should continue to do so because it can lead to (a) intense server load and (b) quality issues if abused, which can cause Google search ranking issues as a result."
+    },
+    {
+      "id": "e6198fdb93f084c76d67c042ace5741f",
+      "title": "Google Ads Insights Carousel",
+      "url": "https://www.seroundtable.com/google-ads-insights-carousel-41790.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 31 Jul 2026 07:31:00 -0400",
+      "summary": "Google Ads may be rolling out a new design for its insights section where it gives you the \"Top things to know today.\" This new interface for this section is in a carousel format, where you can toggle through the various automated insights that Google Ads is providing.",
+      "ai_summary": "Google Ads may be rolling out a new design for its insights section where it gives you the \"Top things to know today.\" This new interface for this section is in a carousel format, where you can toggle through the various automated insights that Google Ads is providing."
+    },
+    {
+      "id": "0dc8ded5cca5b8266d7199040fd46ed4",
+      "title": "ChatGPT Ads Business Agent Conversation Campaign Type",
+      "url": "https://www.seroundtable.com/chatgpt-ads-business-agent-41801.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 31 Jul 2026 07:23:00 -0400",
+      "summary": "OpenAI is testing a new campaign type named Agent, which allows you to send ChatGPT searchers and users to a Business Agent conversation.  So instead of just going to your website, you send them into a chat experience on your website?",
+      "ai_summary": "OpenAI is testing a new campaign type named Agent, which allows you to send ChatGPT searchers and users to a Business Agent conversation.  So instead of just going to your website, you send them into a chat experience on your website?"
+    },
+    {
+      "id": "bd4c50d97227b3c7f34399024e69cb8c",
+      "title": "Google Local Service Ads To Require D-U-N-S Numbers For Some",
+      "url": "https://www.seroundtable.com/google-local-service-ads-duns-41760.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 31 Jul 2026 07:21:00 -0400",
+      "summary": "Google has begun alerting some advertisers that it will soon require D-U-N-S numbers for businesses and users to be verified. Verification is required for select verticals and users in the US. And honestly, getting a D-U-N-S numbers for some businesses can be a pain.",
+      "ai_summary": "Google has begun alerting some advertisers that it will soon require D-U-N-S numbers for businesses and users to be verified. Verification is required for select verticals and users in the US. And honestly, getting a D-U-N-S numbers for some businesses can be a pain."
+    },
+    {
+      "id": "18110470650d779b457d5791a2ab13fd",
+      "title": "Google Business Profiles Products Are Stuck In Pending Status",
+      "url": "https://www.seroundtable.com/google-business-profiles-products-pending-status-bug-41793.html",
+      "source": "Search Engine Roundtable",
+      "published": "Fri, 31 Jul 2026 07:11:00 -0400",
+      "summary": "Google has yet another bug with the Google Business Profiles platform. This one is with products being placed in \"Pending\" status, new products and old products, I believe. This started a couple of days ago and the issue still seems to be lingering, or pending, if you will. I have not seen Google respond to the complaints about this issue but it does seem widespread.",
+      "ai_summary": "Google has yet another bug with the Google Business Profiles platform. This one is with products being placed in \"Pending\" status, new products and old products, I believe. This started a couple of days ago and the issue still seems to be lingering, or pending, if you will. I have not seen Google respond to the complaints about this issue but it does seem widespread."
     },
     {
       "id": "8b38c06538c5bc3223c0ac3e2f7d929c",

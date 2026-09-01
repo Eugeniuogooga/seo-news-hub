@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T12:36:17.144833+00:00",
+  "generated_at": "2026-09-01T11:02:01.662885+00:00",
   "items": [
     {
       "id": "ef284397b2deafbda1e4763230482c72",
@@ -218,15 +218,6 @@
       "ai_summary": "Google just published documentation on what they're calling the Open Knowledge Format (OKF). It represents a standardized way for agents to access knowledge via very simple directories of Markdown files. While storing files in Markdown is nothing new, Google is now creating a specific standard that agents can understand without the need for specific software […] \n The post  The Open Knowledge Format (OKF) from Google is a new layer for agents  appeared first on  Marie Haynes ."
     },
     {
-      "id": "068bb884ccc98061f79d8b330c78c1bf",
-      "title": "Topical Gravity: Why topics are the new unit of your search strategy",
-      "url": "https://www.semrush.com/blog/topical-gravity/",
-      "source": "Semrush blog",
-      "published": "Tue, 11 Aug 2026 13:00:00 +0000",
-      "summary": "Search has become a topic-level game. Here‘s a framework to build, measure, and grow topical authority across AI and Google.",
-      "ai_summary": "Search has become a topic-level game. Here‘s a framework to build, measure, and grow topical authority across AI and Google."
-    },
-    {
       "id": "b1dde87c5ceff5a9f11e00e27d2386a8",
       "title": "Responsive Search Ads: 5 Best Practices for Google Ads PPC Search Campaigns",
       "url": "https://feedpress.me/link/9375/14735616/5-google-ads-ppc-best-practices",
@@ -254,40 +245,31 @@
       "ai_summary": "I really enjoyed this interview with Sundar Pichai by John Collison and Elad Gil of Stripe. Here are the 5 most interesting things I learned. 1. Search will still exist in the future, but much of it will be agentic Sundar was asked if agents will replace Search. He said,  “If I fast forward, a […] \n The post  What I learned about the future of Search and AI from Sundar Pichai’s latest interview  appeared first on  Marie Haynes ."
     },
     {
-      "id": "4d1b9f7dbdc172a67c3617558c5c1fc8",
-      "title": "AI Search Didn’t Remove Cognitive Load, It Moved It via @sejournal, @DuaneForrester",
-      "url": "https://www.searchenginejournal.com/ai-search-didnt-remove-cognitive-load-it-moved-it/586700/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 27 Aug 2026 19:00:52 +0000",
-      "summary": "Answer sooner, write less, simplify: standard advice that can relocate informational work rather than remove it. Here's the sharper test. \n The post  AI Search Didn’t Remove Cognitive Load, It Moved It  appeared first on  Search Engine Journal .",
-      "ai_summary": "Answer sooner, write less, simplify: standard advice that can relocate informational work rather than remove it. Here's the sharper test. \n The post  AI Search Didn’t Remove Cognitive Load, It Moved It  appeared first on  Search Engine Journal ."
+      "id": "3e981d73a8bae2d49e98545b9994156b",
+      "title": "Where does AI get its information? And how to get cited",
+      "url": "https://www.semrush.com/blog/where-does-ai-get-its-information/",
+      "source": "Semrush blog",
+      "published": "Tue, 01 Sep 2026 07:52:00 +0000",
+      "summary": "AI gets information from channels like training data, live online information, and licensing partnerships.",
+      "ai_summary": "AI gets information from channels like training data, live online information, and licensing partnerships."
     },
     {
-      "id": "389b53210346924ddc93ac401f8f20f2",
-      "title": "Google Starts Rolling Out Hotel Booking In AI Mode via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/google-starts-rolling-out-hotel-booking-in-ai-mode/587288/",
+      "id": "67369b6ef9d499d89ec14958bd61fdd1",
+      "title": "How We Earned 1,000+ Links For GEO/SEO via @sejournal, @hethr_campbell",
+      "url": "https://www.searchenginejournal.com/how-we-earned-1000-links-geo-seo-recap/587850/",
       "source": "Search Engine Journal",
-      "published": "Thu, 27 Aug 2026 16:00:35 +0000",
-      "summary": "Google is rolling out hotel booking in AI Mode with Google Pay checkout. Flight alerts and rewards pricing are available in supported markets. \n The post  Google Starts Rolling Out Hotel Booking In AI Mode  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google is rolling out hotel booking in AI Mode with Google Pay checkout. Flight alerts and rewards pricing are available in supported markets. \n The post  Google Starts Rolling Out Hotel Booking In AI Mode  appeared first on  Search Engine Journal ."
+      "published": "Tue, 01 Sep 2026 07:45:17 +0000",
+      "summary": "Kevin Rowe broke down the digital PR system behind 1,000+ earned citations, which data stories journalists cover, and how research wins AI Overviews spots. \n The post  How We Earned 1,000+ Links For GEO/SEO  appeared first on  Search Engine Journal .",
+      "ai_summary": "Kevin Rowe broke down the digital PR system behind 1,000+ earned citations, which data stories journalists cover, and how research wins AI Overviews spots. \n The post  How We Earned 1,000+ Links For GEO/SEO  appeared first on  Search Engine Journal ."
     },
     {
-      "id": "84c1ce4ed781e2061af8f995273e018c",
-      "title": "OpenAI Adds WebMCP Site Tools To ChatGPT’s Browser via @sejournal, @MattGSouthern",
-      "url": "https://www.searchenginejournal.com/chatgpt-adds-webmcp-support/587237/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 27 Aug 2026 15:18:34 +0000",
-      "summary": "OpenAI added WebMCP support to ChatGPT’s desktop browser, letting supported webpages expose structured actions to ChatGPT Work and Codex. \n The post  OpenAI Adds WebMCP Site Tools To ChatGPT’s Browser  appeared first on  Search Engine Journal .",
-      "ai_summary": "OpenAI added WebMCP support to ChatGPT’s desktop browser, letting supported webpages expose structured actions to ChatGPT Work and Codex. \n The post  OpenAI Adds WebMCP Site Tools To ChatGPT’s Browser  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "2afa4c9d782512f2eeea43ebd7a4a489",
-      "title": "How To Become A Strategic Partner & Keep Clients Years Longer",
-      "url": "https://www.searchenginejournal.com/vendor-to-strategic-partner-client-lifetime-value/585254/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 27 Aug 2026 14:30:58 +0000",
-      "summary": "Client-agency relationships now average seven years, but only when agencies act as strategic partners instead of task-completing vendors clients can replace. \n The post  How To Become A Strategic Partner & Keep Clients Years Longer  appeared first on  Search Engine Journal .",
-      "ai_summary": "Client-agency relationships now average seven years, but only when agencies act as strategic partners instead of task-completing vendors clients can replace. \n The post  How To Become A Strategic Partner & Keep Clients Years Longer  appeared first on  Search Engine Journal ."
+      "id": "dead8e30c9e8fd87e7af87ba776fa872",
+      "title": "Goto Redirects, Top 100 USA, Womens Fashion and Deep Dive Chats – Stay Visible #4",
+      "url": "https://www.sistrix.com/blog/goto-redirects-top-100-usa-womens-fashion-and-deep-dive-chats-stay-visible-4/",
+      "source": "SISTRIX",
+      "published": "Tue, 01 Sep 2026 07:41:57 +0000",
+      "summary": "Stay Visible is my monthly personal update for the SEO, GEO and SISTRIX community. In this edition I talk about the Deep Dive chat feature, the Google ‘goto’ redirection problem that has been solved, data from the top 100 domains in the USA and new information from my UK fashion […] \n Der Beitrag  Goto Redirects, Top 100 USA, Womens Fashion and Deep Dive Chats – Stay Visible #4  erschien zuerst auf  SISTRIX .",
+      "ai_summary": "Stay Visible is my monthly personal update for the SEO, GEO and SISTRIX community. In this edition I talk about the Deep Dive chat feature, the Google ‘goto’ redirection problem that has been solved, data from the top 100 domains in the USA and new information from my UK fashion […] \n Der Beitrag  Goto Redirects, Top 100 USA, Womens Fashion and Deep Dive Chats – Stay Visible #4  erschien zuerst auf  SISTRIX ."
     },
     {
       "id": "b431982c735eb69becbef2bba9b1f2ba",
@@ -297,24 +279,6 @@
       "published": "Thu, 27 Aug 2026 13:49:03 +0000",
       "summary": "The most prominent domain was Reddit.com, which showed up in 87.8% of SERPs (83.9% worldwide), with an average of 1.29 link appearances. Along with Ahrefs’ data scientist Xibeijia Guan, I set out to uncover how prominent other sites were, whether … Read more ›",
       "ai_summary": "The most prominent domain was Reddit.com, which showed up in 87.8% of SERPs (83.9% worldwide), with an average of 1.29 link appearances. Along with Ahrefs’ data scientist Xibeijia Guan, I set out to uncover how prominent other sites were, whether … Read more ›"
-    },
-    {
-      "id": "a53d39e8e2f3dee0e753d3e33a3c2140",
-      "title": "We Analyzed 107 Million AI Answers. Here’s Where Each Industry’s Citations Actually Come From via @sejournal, @trendos_com",
-      "url": "https://www.searchenginejournal.com/ai-search-citation-sources-trendos-spa/586289/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 27 Aug 2026 13:37:27 +0000",
-      "summary": "Discover the top citation sources for AI answers and how they impact recommendations across major AI platforms. \n The post  We Analyzed 107 Million AI Answers. Here’s Where Each Industry’s Citations Actually Come From  appeared first on  Search Engine Journal .",
-      "ai_summary": "Discover the top citation sources for AI answers and how they impact recommendations across major AI platforms. \n The post  We Analyzed 107 Million AI Answers. Here’s Where Each Industry’s Citations Actually Come From  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "2505e4b6ab559765a39146cbd7b332f7",
-      "title": "ChatGPT Searches Individual Subreddits By Name via @sejournal, @suganthan",
-      "url": "https://www.searchenginejournal.com/chatgpt-searches-individual-subreddits-by-name/586925/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 27 Aug 2026 12:00:30 +0000",
-      "summary": "Reddit still wins ChatGPT citations where a forum is the best source. Two captures, four days apart, show what actually decides the credit. \n The post  ChatGPT Searches Individual Subreddits By Name  appeared first on  Search Engine Journal .",
-      "ai_summary": "Reddit still wins ChatGPT citations where a forum is the best source. Two captures, four days apart, show what actually decides the credit. \n The post  ChatGPT Searches Individual Subreddits By Name  appeared first on  Search Engine Journal ."
     },
     {
       "id": "b841e07af322e00b807f74c84092101b",
@@ -443,6 +407,69 @@
       "ai_summary": "This week’s SEO Pulse covers Google’s AI publisher dispute, spam update fallout, the GEO debate, AI citation gaps, and ChatGPT’s Reddit behavior in search. \n The post  Judge Questions Google AI, Spam Update Fallout – SEO Pulse  appeared first on  Search Engine Journal ."
     },
     {
+      "id": "e8af895cbe25d8f3981b9f34cbdc647c",
+      "title": "FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme via @sejournal, @brookeosmundson",
+      "url": "https://www.searchenginejournal.com/ftc-sues-amazon-over-alleged-20-billion-advertising-surcharge-scheme/587870/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 31 Aug 2026 23:49:40 +0000",
+      "summary": "FTC and 22 states sued Amazon over alleged changes to its ad auctions that the agency says overcharged advertisers by more than $20 billion. \n The post  FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme  appeared first on  Search Engine Journal .",
+      "ai_summary": "FTC and 22 states sued Amazon over alleged changes to its ad auctions that the agency says overcharged advertisers by more than $20 billion. \n The post  FTC Sues Amazon Over Alleged $20 Billion Advertising Surcharge Scheme  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "3f8b09a4c07bfe0073edf4407826f359",
+      "title": "Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return via @sejournal, @martinibuster",
+      "url": "https://www.searchenginejournal.com/rank-math-seo-plugin-pauses-controversial-feature-says-it-will-return/587853/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 31 Aug 2026 21:40:45 +0000",
+      "summary": "Rank Math paused its controversial feature, acknowledge a serious consent failure, and explains why it's coming back. \n The post  Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return  appeared first on  Search Engine Journal .",
+      "ai_summary": "Rank Math paused its controversial feature, acknowledge a serious consent failure, and explains why it's coming back. \n The post  Rank Math SEO Plugin Pauses Controversial Feature. Says It Will Return  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "99defc17af5ece866df1fdfb7fbff4fc",
+      "title": "Google Search Console AI Reports Rolled Out Worldwide via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-search-console-ai-reports-rolled-out-worldwide/587836/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 31 Aug 2026 19:04:38 +0000",
+      "summary": "Google says Search Console's generative AI performance reports, which track AI Overviews and AI Mode impressions, have now rolled out to all sites worldwide. \n The post  Google Search Console AI Reports Rolled Out Worldwide  appeared first on  Search Engine Journal .",
+      "ai_summary": "Google says Search Console's generative AI performance reports, which track AI Overviews and AI Mode impressions, have now rolled out to all sites worldwide. \n The post  Google Search Console AI Reports Rolled Out Worldwide  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "1c59a14b03db26483e1a8b0d44c56fec",
+      "title": "ChatGPT Is Now A “Very Large Online Search Engine” In The EU via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/chatgpt-is-now-a-very-large-online-search-engine-in-the-eu/587801/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 31 Aug 2026 18:31:32 +0000",
+      "summary": "ChatGPT is now a very large online search engine under the EU Digital Services Act after OpenAI reported about 159.1 million average monthly search recipients. \n The post  ChatGPT Is Now A “Very Large Online Search Engine” In The EU  appeared first on  Search Engine Journal .",
+      "ai_summary": "ChatGPT is now a very large online search engine under the EU Digital Services Act after OpenAI reported about 159.1 million average monthly search recipients. \n The post  ChatGPT Is Now A “Very Large Online Search Engine” In The EU  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "d3d3b106108dab9263d89f0a0eab850e",
+      "title": "Google: We Don't Penalize For Old Outbound Links With Shady Content",
+      "url": "https://www.seroundtable.com/google-old-shady-links-41987.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 31 Aug 2026 14:59:00 -0400",
+      "summary": "Google's John Mueller was asked if Google would penalize a site for old outbound links to a site that once hosted quality content and now changed ownership and hosts shady content.  John said Google won't penalize such links; he said \"no\" and added, \"the web is full of turmoil.\"",
+      "ai_summary": "Google's John Mueller was asked if Google would penalize a site for old outbound links to a site that once hosted quality content and now changed ownership and hosts shady content.  John said Google won't penalize such links; he said \"no\" and added, \"the web is full of turmoil.\""
+    },
+    {
+      "id": "f3f42b9dc548f6c21b70e6617b6c5625",
+      "title": "How To Restructure Your Marketing Team & Budget For The AI-Search Era",
+      "url": "https://www.searchenginejournal.com/how-to-restructure-your-marketing-team-budget-for-the-ai-search-era/586153/",
+      "source": "Search Engine Journal",
+      "published": "Mon, 31 Aug 2026 14:30:03 +0000",
+      "summary": "Three role changes and a budget rebalance can move a marketing team from invisible to cited in AI search results, no new headcount required. \n The post  How To Restructure Your Marketing Team & Budget For The AI-Search Era  appeared first on  Search Engine Journal .",
+      "ai_summary": "Three role changes and a budget rebalance can move a marketing team from invisible to cited in AI search results, no new headcount required. \n The post  How To Restructure Your Marketing Team & Budget For The AI-Search Era  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "79fb2fa2b028ef93cff28405ebcf6b0d",
+      "title": "Google European Search Dataset Licensing Program Details",
+      "url": "https://www.seroundtable.com/google-european-search-dataset-licensing-program-41986.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 31 Aug 2026 12:13:00 -0400",
+      "summary": "Google has updated its Google European Search Dataset Licensing Program page with details on the program.  Google has been designated as a \"gatekeeper\" under the DMA and is thus legally required to share its search data with competing search engines to foster fair competition.",
+      "ai_summary": "Google has updated its Google European Search Dataset Licensing Program page with details on the program.  Google has been designated as a \"gatekeeper\" under the DMA and is thus legally required to share its search data with competing search engines to foster fair competition."
+    },
+    {
       "id": "f2542f1bcf5fb93232c6aad645061ce5",
       "title": "Google Ads Is Automating More Decisions, Your Measurement Needs To Get Better via @sejournal, @brookeosmundson",
       "url": "https://www.searchenginejournal.com/google-ads-is-automating-more-decisions-your-measurement-needs-to-get-better/586887/",
@@ -468,6 +495,15 @@
       "published": "Mon, 31 Aug 2026 10:00:27 +0000",
       "summary": "The Universal Commerce Protocol's first spec release since April adds grocery readiness, lays groundwork for food and lodging, and brings schema changes. \n The post  UCP Releases Spec Update With Schema Changes  appeared first on  Search Engine Journal .",
       "ai_summary": "The Universal Commerce Protocol's first spec release since April adds grocery readiness, lays groundwork for food and lodging, and brings schema changes. \n The post  UCP Releases Spec Update With Schema Changes  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "3ba8638ebd4e3088d9cd92a22f6c2f9f",
+      "title": "Daily Search Forum Recap: August 31, 2026",
+      "url": "https://www.seroundtable.com/recap-08-31-2026-41981.html",
+      "source": "Search Engine Roundtable",
+      "published": "Mon, 31 Aug 2026 10:00:00 -0400",
+      "summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nGoogle Search is making AI Overviews fully expanded for some queries, making it more like AI Mode and pushing the core search results down...",
+      "ai_summary": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web.\n\nGoogle Search is making AI Overviews fully expanded for some queries, making it more like AI Mode and pushing the core search results down..."
     },
     {
       "id": "985ea13cd572413f73df640f22b02bb2",
@@ -875,33 +911,6 @@
       "ai_summary": "Google will be updating its alcohol advertising policy on September 30, 2026. The update \"revises country-specific guidelines, expands allowed advertising locations, and provides clearer details on specific advertiser requirements and responsibilities,\" Google wrote."
     },
     {
-      "id": "244fc9cb70dd58ab3650b51fd1612749",
-      "title": "Google Search Having Indexing/Serving Issues August 28th",
-      "url": "https://www.seroundtable.com/google-search-indexing-issues-41972.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 28 Aug 2026 07:15:00 -0400",
-      "summary": "Google Search seems to be having indexing or serving issues in the past hour or so. New content from the past hour doesn't seem to be showing up in Google Search results.  Content from the Wall Street Journal, New York Times, CNN and other news sites that post content constantly are not showing much or any new pages in the Google search results.",
-      "ai_summary": "Google Search seems to be having indexing or serving issues in the past hour or so. New content from the past hour doesn't seem to be showing up in Google Search results.  Content from the Wall Street Journal, New York Times, CNN and other news sites that post content constantly are not showing much or any new pages in the Google search results."
-    },
-    {
-      "id": "c5c5010f8a9c98567cc8a3ef8cde90df",
-      "title": "Google AI Mode Asking Searchers To Sign In",
-      "url": "https://www.seroundtable.com/google-ai-mode-sign-in-41962.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 28 Aug 2026 07:11:00 -0400",
-      "summary": "Google is testing asking searchers to sign in within the AI Mode response. Google shows a big Google super logo and a sign in button that says \"Sign in to save your...\"",
-      "ai_summary": "Google is testing asking searchers to sign in within the AI Mode response. Google shows a big Google super logo and a sign in button that says \"Sign in to save your...\""
-    },
-    {
-      "id": "94b01ff3db3da65cd827f4a6e4b5ed28",
-      "title": "Google Search Now Lists The Supported Favicon File Formats",
-      "url": "https://www.seroundtable.com/google-favicon-docs-file-formats-41970.html",
-      "source": "Search Engine Roundtable",
-      "published": "Fri, 28 Aug 2026 07:05:00 -0400",
-      "summary": "Google has updated the favicon search developer documentation to list out the supported favicon file formats. Google added this line that reads, \"Google Search supports the following favicon file formats: BMP, GIF, ICO, PNG, JPEG, PPM, and TIFF.\"",
-      "ai_summary": "Google has updated the favicon search developer documentation to list out the supported favicon file formats. Google added this line that reads, \"Google Search supports the following favicon file formats: BMP, GIF, ICO, PNG, JPEG, PPM, and TIFF.\""
-    },
-    {
       "id": "fe4193f34f8cb0e22446c490978f0a94",
       "title": "Update to the Site Reputation Policy",
       "url": "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy",
@@ -1026,15 +1035,6 @@
       "published": "Fri, 03 Sep 2021 00:00:00 -0700",
       "summary": "Today, Cyrus explains how powerful STAT can be when you’re trying to discover SEO opportunities on a massive scale.",
       "ai_summary": "Today, Cyrus explains how powerful STAT can be when you’re trying to discover SEO opportunities on a massive scale."
-    },
-    {
-      "id": "fc335a335bc949390dfbe5e6ef12af92",
-      "title": "AI Citation drift: How stable are sources in AI search results?",
-      "url": "https://www.sistrix.com/blog/ai-citation-drift-how-stable-are-sources-in-ai-search-results/",
-      "source": "SISTRIX",
-      "published": "Fri, 01 May 2026 11:34:47 +0000",
-      "summary": "A source cited in an AI response today may well have disappeared by next week. Our analysis of 82,619 prompts over 17 weeks shows that Google replaces 56% of sources in AI-generated responses every week, whilst ChatGPT replaces as much as 74%. In this article, we will explain who stays, […] \n Der Beitrag  AI Citation drift: How stable are sources in AI search results?  erschien zuerst auf  SISTRIX .",
-      "ai_summary": "A source cited in an AI response today may well have disappeared by next week. Our analysis of 82,619 prompts over 17 weeks shows that Google replaces 56% of sources in AI-generated responses every week, whilst ChatGPT replaces as much as 74%. In this article, we will explain who stays, […] \n Der Beitrag  AI Citation drift: How stable are sources in AI search results?  erschien zuerst auf  SISTRIX ."
     }
   ]
 }

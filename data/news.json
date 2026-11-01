@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T11:38:32.465587+00:00",
+  "generated_at": "2026-11-01T12:37:38.778483+00:00",
   "items": [
     {
       "id": "22ee3e7007beb8209fe5b43c36ee53e6",
@@ -398,24 +398,6 @@
       "ai_summary": "Google seems to be rolling out access to the Google Business Profile AI-powered messaging feature to more businesses. I believe we covered this in June of this year, but since then, Google made some updates to the feature."
     },
     {
-      "id": "a5b16130067bef5fc8a8b37f1f278d78",
-      "title": "HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe",
-      "url": "https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 29 Oct 2026 12:00:46 +0000",
-      "summary": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google. \n The post  HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing  appeared first on  Search Engine Journal .",
-      "ai_summary": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google. \n The post  HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing  appeared first on  Search Engine Journal ."
-    },
-    {
-      "id": "311b8c801455fda6f7982d7dccea52a2",
-      "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
-      "url": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 29 Oct 2026 11:07:37 +0000",
-      "summary": "Google says missing pages aren't a ranking threat, but what visitors encounter after a 404 can matter to a business. \n The post  Google Recommends Using Custom 404 Error Pages  appeared first on  Search Engine Journal .",
-      "ai_summary": "Google says missing pages aren't a ranking threat, but what visitors encounter after a 404 can matter to a business. \n The post  Google Recommends Using Custom 404 Error Pages  appeared first on  Search Engine Journal ."
-    },
-    {
       "id": "957581c8ac3e460d07603e4c8ad247ff",
       "title": "Google: Ads In AI Mode Earning Less Than Traditional Search Ads",
       "url": "https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html",
@@ -432,15 +414,6 @@
       "published": "Thu, 29 Oct 2026 10:00:00 -0400",
       "summary": "Here is a recap of what happened in the search forums today...",
       "ai_summary": "Here is a recap of what happened in the search forums today..."
-    },
-    {
-      "id": "1c0e72ea8f19bffd4c483a065344bb27",
-      "title": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
-      "url": "https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/",
-      "source": "Search Engine Journal",
-      "published": "Thu, 29 Oct 2026 07:45:03 +0000",
-      "summary": "Watch our team audit a real website live with Loren Baker and Vahan Petrosyan, and learn which technical SEO & AI-readiness checks your audit needs. \n The post  Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar]  appeared first on  Search Engine Journal .",
-      "ai_summary": "Watch our team audit a real website live with Loren Baker and Vahan Petrosyan, and learn which technical SEO & AI-readiness checks your audit needs. \n The post  Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar]  appeared first on  Search Engine Journal ."
     },
     {
       "id": "be7b825fa08eaa76c9a457567031b016",
@@ -549,6 +522,33 @@
       "published": "Thu, 01 Oct 2026 08:25:00 +0000",
       "summary": "Use this SEO checklist to optimize your site for both Google and AI-driven search results.",
       "ai_summary": "Use this SEO checklist to optimize your site for both Google and AI-driven search results."
+    },
+    {
+      "id": "d0ea907f766c272ddd4a75f44db4afbf",
+      "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/",
+      "source": "Search Engine Journal",
+      "published": "Sun, 01 Nov 2026 08:00:00 +0000",
+      "summary": "A shared robots.txt line could let sites opt out of AI training with several providers at once, but companies involved are handling it differently.  \n The post  Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out  appeared first on  Search Engine Journal .",
+      "ai_summary": "A shared robots.txt line could let sites opt out of AI training with several providers at once, but companies involved are handling it differently.  \n The post  Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "265ba3bdb2ab1f13adcaf7d4086c6ce8",
+      "title": "Hackers Hijacked DebugBear’s DNS To Serve Malicious JavaScript via @sejournal, @vahandev",
+      "url": "https://www.searchenginejournal.com/debugbear-rum-attack-seo-site-owner-actions/595412/",
+      "source": "Search Engine Journal",
+      "published": "Sat, 31 Oct 2026 21:11:41 +0000",
+      "summary": "DebugBear told customers to remove its Core Web Vitals monitoring script. Site owners should also check exposed accounts and unauthorized changes. \n The post  Hackers Hijacked DebugBear’s DNS To Serve Malicious JavaScript  appeared first on  Search Engine Journal .",
+      "ai_summary": "DebugBear told customers to remove its Core Web Vitals monitoring script. Site owners should also check exposed accounts and unauthorized changes. \n The post  Hackers Hijacked DebugBear’s DNS To Serve Malicious JavaScript  appeared first on  Search Engine Journal ."
+    },
+    {
+      "id": "edbc948fba9f94a149451b4f671939fe",
+      "title": "Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse via @sejournal, @MattGSouthern",
+      "url": "https://www.searchenginejournal.com/seo-pulse-spam-guide-restaurant-controls-ai-mode-revenue/595031/",
+      "source": "Search Engine Journal",
+      "published": "Sat, 31 Oct 2026 12:00:00 +0000",
+      "summary": "Google's spam guide adds indexing advice for pages made for sharing. Other updates cover restaurant ordering controls, report dates and AI Mode revenue. \n The post  Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse  appeared first on  Search Engine Journal .",
+      "ai_summary": "Google's spam guide adds indexing advice for pages made for sharing. Other updates cover restaurant ordering controls, report dates and AI Mode revenue. \n The post  Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse  appeared first on  Search Engine Journal ."
     },
     {
       "id": "526d3f14ed4112a6440af8def13cdfde",
@@ -687,30 +687,30 @@
     },
     {
       "id": "380791e9dfb0a71a73e6a69340359c4e",
-      "title": "Reddit CEO Says Google’s AI Mode ‘Does Not Drive Traffic’ via @sejournal, @MattGSouthern",
+      "title": "Reddit CEO Ties Search Referral Drop To Google AI Mode via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/reddit-to-test-login-only-mode-as-google-search-traffic-drops/595270/",
       "source": "Search Engine Journal",
       "published": "Fri, 30 Oct 2026 19:47:37 +0000",
-      "summary": "Reddit says search referrals are falling and its CEO points to Google's AI Overviews and AI Mode. Here's what its login test means. \n The post  Reddit CEO Says Google’s AI Mode ‘Does Not Drive Traffic’  appeared first on  Search Engine Journal .",
-      "ai_summary": "Reddit says search referrals are falling and its CEO points to Google's AI Overviews and AI Mode. Here's what its login test means. \n The post  Reddit CEO Says Google’s AI Mode ‘Does Not Drive Traffic’  appeared first on  Search Engine Journal ."
+      "summary": "Reddit says search referrals are falling and its CEO points to Google's AI Overviews and AI Mode. Here's what its login test means. \n The post  Reddit CEO Ties Search Referral Drop To Google AI Mode  appeared first on  Search Engine Journal .",
+      "ai_summary": "Reddit says search referrals are falling and its CEO points to Google's AI Overviews and AI Mode. Here's what its login test means. \n The post  Reddit CEO Ties Search Referral Drop To Google AI Mode  appeared first on  Search Engine Journal ."
     },
     {
       "id": "d6c1ddfa4b12b6b2ddf61275a06725e2",
-      "title": "The AI Search Measurement Gap Brands Must Close In 2027 And Beyond via @sejournal, @gregjarboe",
+      "title": "AI Knows Your Brand – It Rarely Puts You On The Shortlist via @sejournal, @gregjarboe",
       "url": "https://www.searchenginejournal.com/the-ai-search-measurement-gap-brands-must-close-in-2027-and-beyond/593881/",
       "source": "Search Engine Journal",
       "published": "Fri, 30 Oct 2026 19:00:00 +0000",
-      "summary": "Measure whether AI recommends your brand to buyers, fix outdated sources, and turn shortlist visibility into customer relationships your CFO can value. \n The post  The AI Search Measurement Gap Brands Must Close In 2027 And Beyond  appeared first on  Search Engine Journal .",
-      "ai_summary": "Measure whether AI recommends your brand to buyers, fix outdated sources, and turn shortlist visibility into customer relationships your CFO can value. \n The post  The AI Search Measurement Gap Brands Must Close In 2027 And Beyond  appeared first on  Search Engine Journal ."
+      "summary": "Measure whether AI recommends your brand to buyers, fix outdated sources, and turn shortlist visibility into customer relationships your CFO can value. \n The post  AI Knows Your Brand – It Rarely Puts You On The Shortlist  appeared first on  Search Engine Journal .",
+      "ai_summary": "Measure whether AI recommends your brand to buyers, fix outdated sources, and turn shortlist visibility into customer relationships your CFO can value. \n The post  AI Knows Your Brand – It Rarely Puts You On The Shortlist  appeared first on  Search Engine Journal ."
     },
     {
       "id": "846127d930da281c56e57b18fc7a7728",
-      "title": "Discord To Put Public Chats On Pages Search Engines Can Show via @sejournal, @MattGSouthern",
+      "title": "Discord Member Messages May Start Showing Up In Google In December via @sejournal, @MattGSouthern",
       "url": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
       "source": "Search Engine Journal",
       "published": "Fri, 30 Oct 2026 16:38:30 +0000",
-      "summary": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. \n The post  Discord To Put Public Chats On Pages Search Engines Can Show  appeared first on  Search Engine Journal .",
-      "ai_summary": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. \n The post  Discord To Put Public Chats On Pages Search Engines Can Show  appeared first on  Search Engine Journal ."
+      "summary": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. \n The post  Discord Member Messages May Start Showing Up In Google In December  appeared first on  Search Engine Journal .",
+      "ai_summary": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. \n The post  Discord Member Messages May Start Showing Up In Google In December  appeared first on  Search Engine Journal ."
     },
     {
       "id": "6e5575847d867d926b3739cfab824b78",
